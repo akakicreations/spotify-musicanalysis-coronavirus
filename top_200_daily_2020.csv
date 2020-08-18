@@ -158,7 +158,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 157,Kemba Walker,Eladio Carrion,37947,2020-03-14,es,4jhHaLksdP8DJZzxYAjOSz
 158,La Mentira (feat. Joaquín Sabina),Dani Martín,37794,2020-03-14,es,21by4HhbV3w4uUNrotR02z
 159,"DJ No Pare (feat. Zion, Dalex, Lenny Tavárez) - Remix",Justin Quiles,37693,2020-03-14,es,1ndyl3wJCFs872XZ3ztPk6
-160,Dream Girl,Ir Sais,37677,2020-03-14,es,099tjv6oy2opbpCOA3nBwX
+160,Dream Girl - Remix,Ir Sais,37677,2020-03-14,es,099tjv6oy2opbpCOA3nBwX
 161,everything i wanted,Billie Eilish,37615,2020-03-14,es,3ZCTVFBt2Brf31RLEnCkWJ
 162,Godzilla (feat. Juice WRLD),Eminem,36921,2020-03-14,es,7FIWs0pqAYbP91WWM0vlTQ
 163,Vas A Quedarte,Aitana,36624,2020-03-14,es,0fwIHsKXNEcb57u2um7z9I
@@ -362,7 +362,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 161,"DJ No Pare (feat. Zion, Dalex, Lenny Tavárez) - Remix",Justin Quiles,35501,2020-03-15,es,1ndyl3wJCFs872XZ3ztPk6
 162,Mi Religión,Nil Moliner,35382,2020-03-15,es,5zNlrLpJFZt3RvRe9A0Hed
 163,Adan y Eva,Paulo Londra,35309,2020-03-15,es,132ALUzVLmqYB4UsBj5qD6
-164,Dream Girl,Ir Sais,35261,2020-03-15,es,099tjv6oy2opbpCOA3nBwX
+164,Dream Girl - Remix,Ir Sais,35261,2020-03-15,es,099tjv6oy2opbpCOA3nBwX
 165,Vas A Quedarte,Aitana,35221,2020-03-15,es,0fwIHsKXNEcb57u2um7z9I
 166,Princesas,Pereza,35085,2020-03-15,es,3hlWUNjAlbZ6nOjAbrivBv
 167,Godzilla (feat. Juice WRLD),Eminem,34928,2020-03-15,es,7FIWs0pqAYbP91WWM0vlTQ
@@ -380,7 +380,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 179,Enchochado de Ti,Don Patricio,32463,2020-03-15,es,6G8TNOdTBpBPmDdJAvoVhA
 180,MIB,Myke Towers,32435,2020-03-15,es,7z9chavxReUpyOZoAkUnUb
 181,Un Año,Sebastian Yatra,32384,2020-03-15,es,2vrpcQNg6itmgVZWsNjWe0
-182,death bed (coffee for your head) (feat. beabadoobee),Powfu,32172,2020-03-15,es,7eJMfftS33KTjuF7lTsMCx
+182,death bed (coffee for your head),Powfu,32172,2020-03-15,es,7eJMfftS33KTjuF7lTsMCx
 183,Ganas de Ti,Wisin & Yandel,32160,2020-03-15,es,4kuQJb8ghj6268fBTtB3bX
 184,Mirándote,Rvfv,32021,2020-03-15,es,6wywJ7RutAY0JL7cMP7uFN
 185,Cuando Nadie Ve,Morat,31920,2020-03-15,es,71iAechwVKGu26pahzFL0k
@@ -562,10 +562,10 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 161,Tú,Myke Towers,37834,2020-03-16,es,7xX3wvvcZvxGCa06KlgTCp
 162,Soldadito marinero,Fito y Fitipaldis,37690,2020-03-16,es,0eVborSuxUeSg0meWYd9dZ
 163,Déjate Querer,Lalo Ebratt,37650,2020-03-16,es,3mN2DtljBhnrIpc3Nu2pJ8
-164,death bed (coffee for your head) (feat. beabadoobee),Powfu,37417,2020-03-16,es,7eJMfftS33KTjuF7lTsMCx
+164,death bed (coffee for your head),Powfu,37417,2020-03-16,es,7eJMfftS33KTjuF7lTsMCx
 165,Kemba Walker,Eladio Carrion,37240,2020-03-16,es,4jhHaLksdP8DJZzxYAjOSz
 166,Vas A Quedarte,Aitana,37191,2020-03-16,es,0fwIHsKXNEcb57u2um7z9I
-167,Dream Girl,Ir Sais,37049,2020-03-16,es,099tjv6oy2opbpCOA3nBwX
+167,Dream Girl - Remix,Ir Sais,37049,2020-03-16,es,099tjv6oy2opbpCOA3nBwX
 168,Velitas,Darell,37026,2020-03-16,es,7q3NthaBqFI6s0WnAlnIvq
 169,Bailando,Nil Moliner,36797,2020-03-16,es,27NTdNyp9n5B4lswgGikG3
 170,Qué Sabrá Neruda,Javy Ramírez,36506,2020-03-16,es,4huB3db25M1GuvadoVtz6r
@@ -765,13 +765,13 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 164,Circles,Post Malone,38163,2020-03-17,es,21jGcNKet2qwijlDFuPiPb
 165,Vas A Quedarte,Aitana,38109,2020-03-17,es,0fwIHsKXNEcb57u2um7z9I
 166,Fuego,Estopa,37860,2020-03-17,es,5Aax4WuBCyiVp4NDB3lg5j
-167,death bed (coffee for your head) (feat. beabadoobee),Powfu,37817,2020-03-17,es,7eJMfftS33KTjuF7lTsMCx
+167,death bed (coffee for your head),Powfu,37817,2020-03-17,es,7eJMfftS33KTjuF7lTsMCx
 168,11 PM,Maluma,37659,2020-03-17,es,7KbF6AdprOXEEHlsq11Z6d
 169,Princesas,Pereza,37639,2020-03-17,es,3hlWUNjAlbZ6nOjAbrivBv
 170,¿Qué Ha Pasao'?,Abraham Mateo,37437,2020-03-17,es,2zkVH2daHyjS51g7PRJFDn
 171,Tú,Myke Towers,37436,2020-03-17,es,7xX3wvvcZvxGCa06KlgTCp
 172,Shallow,Lady Gaga,37167,2020-03-17,es,2VxeLyX666F8uXCJ0dZF8B
-173,Dream Girl,Ir Sais,37154,2020-03-17,es,099tjv6oy2opbpCOA3nBwX
+173,Dream Girl - Remix,Ir Sais,37154,2020-03-17,es,099tjv6oy2opbpCOA3nBwX
 174,Kemba Walker,Eladio Carrion,37115,2020-03-17,es,4jhHaLksdP8DJZzxYAjOSz
 175,Easy,Jhay Cortez,37037,2020-03-17,es,7fTsw0IKbbPDN19keS32tF
 176,Adore You,Harry Styles,36931,2020-03-17,es,3jjujdWJ72nww5eGnfs2E7
@@ -958,7 +958,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 157,Mi Religión,Nil Moliner,40572,2020-03-18,es,5zNlrLpJFZt3RvRe9A0Hed
 158,Fuego,Estopa,40359,2020-03-18,es,5Aax4WuBCyiVp4NDB3lg5j
 159,Adore You,Harry Styles,40345,2020-03-18,es,3jjujdWJ72nww5eGnfs2E7
-160,death bed (coffee for your head) (feat. beabadoobee),Powfu,40058,2020-03-18,es,7eJMfftS33KTjuF7lTsMCx
+160,death bed (coffee for your head),Powfu,40058,2020-03-18,es,7eJMfftS33KTjuF7lTsMCx
 161,Con La Miel En Los Labios,Aitana,40029,2020-03-18,es,2QJcrJNa4KGxQ6bw0MH3Zx
 162,Princesas,Pereza,40016,2020-03-18,es,3hlWUNjAlbZ6nOjAbrivBv
 163,Porno,Rich Music LTD,39733,2020-03-18,es,34ZngZgo8xicbt1EE8Ob8Z
@@ -973,7 +973,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 172,Shallow,Lady Gaga,38175,2020-03-18,es,2VxeLyX666F8uXCJ0dZF8B
 173,Ganas de Ti,Wisin & Yandel,38049,2020-03-18,es,4kuQJb8ghj6268fBTtB3bX
 174,Tú,Myke Towers,37853,2020-03-18,es,7xX3wvvcZvxGCa06KlgTCp
-175,Dream Girl,Ir Sais,37674,2020-03-18,es,099tjv6oy2opbpCOA3nBwX
+175,Dream Girl - Remix,Ir Sais,37674,2020-03-18,es,099tjv6oy2opbpCOA3nBwX
 176,Kemba Walker,Eladio Carrion,37657,2020-03-18,es,4jhHaLksdP8DJZzxYAjOSz
 177,Circles,Post Malone,37450,2020-03-18,es,21jGcNKet2qwijlDFuPiPb
 178,Sunday Best,Surfaces,37396,2020-03-18,es,1Cv1YLb4q0RzL6pybtaMLo
@@ -1139,7 +1139,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 138,Despacio,Natti Natasha,44637,2020-03-19,es,203uubEQA07to1kbro35qQ
 139,MONEY TILL I DIE,Kidd Keo,44161,2020-03-19,es,1MMhI6ISQt0UOVtU6DoAtE
 140,Ojitos,Bryant Myers,44100,2020-03-19,es,6mRO59X63upZzN5RVw5wNz
-141,death bed (coffee for your head) (feat. beabadoobee),Powfu,43858,2020-03-19,es,7eJMfftS33KTjuF7lTsMCx
+141,death bed (coffee for your head),Powfu,43858,2020-03-19,es,7eJMfftS33KTjuF7lTsMCx
 142,Soldadito marinero,Fito y Fitipaldis,43814,2020-03-19,es,0eVborSuxUeSg0meWYd9dZ
 143,everything i wanted,Billie Eilish,43252,2020-03-19,es,3ZCTVFBt2Brf31RLEnCkWJ
 144,Adore You,Harry Styles,43131,2020-03-19,es,3jjujdWJ72nww5eGnfs2E7
@@ -1183,7 +1183,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 182,Circles,Post Malone,36063,2020-03-19,es,21jGcNKet2qwijlDFuPiPb
 183,Trukitos,Lennis Rodriguez,35989,2020-03-19,es,0ofQFmf4hNoRoBaDjwDOZU
 184,Kemba Walker,Eladio Carrion,35877,2020-03-19,es,4jhHaLksdP8DJZzxYAjOSz
-185,Dream Girl,Ir Sais,35707,2020-03-19,es,099tjv6oy2opbpCOA3nBwX
+185,Dream Girl - Remix,Ir Sais,35707,2020-03-19,es,099tjv6oy2opbpCOA3nBwX
 186,Como Si Fueras a Morir Mañana,Leiva,35669,2020-03-19,es,4aAfLSx9IthpC3Pw5pNk3E
 187,La Playa,Myke Towers,35177,2020-03-19,es,6768f4xbHQBpJo5lvFVNvs
 188,Cicatrices,Natos y Waor,35143,2020-03-19,es,19OsDvOm2hw28Bqg7wo4Ox
@@ -1354,7 +1354,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 153,Gentleman,Cepeda,42968,2020-03-20,es,3Q797tkAExVmmJjEDNNLns
 154,Too Late,The Weeknd,42690,2020-03-20,es,2K9Ovn1o2bTGqbsABGC6m3
 155,MONEY TILL I DIE,Kidd Keo,42217,2020-03-20,es,1MMhI6ISQt0UOVtU6DoAtE
-156,death bed (coffee for your head) (feat. beabadoobee),Powfu,42084,2020-03-20,es,7eJMfftS33KTjuF7lTsMCx
+156,death bed (coffee for your head),Powfu,42084,2020-03-20,es,7eJMfftS33KTjuF7lTsMCx
 157,"DJ No Pare (feat. Zion, Dalex, Lenny Tavárez) - Remix",Justin Quiles,41907,2020-03-20,es,1ndyl3wJCFs872XZ3ztPk6
 158,Soldadito marinero,Fito y Fitipaldis,41735,2020-03-20,es,0eVborSuxUeSg0meWYd9dZ
 159,Me vas a ver,Beret,41259,2020-03-20,es,3iVwzH29gquHzkrZuy3M4w
@@ -1549,7 +1549,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 148,After Hours,The Weeknd,40780,2020-03-21,es,2p8IUWQDrpjuFltbdgLOag
 149,Despacio,Natti Natasha,40737,2020-03-21,es,203uubEQA07to1kbro35qQ
 150,René,Residente,40508,2020-03-21,es,6gm12xlADJwiBbHIKBXzGW
-151,death bed (coffee for your head) (feat. beabadoobee),Powfu,40404,2020-03-21,es,7eJMfftS33KTjuF7lTsMCx
+151,death bed (coffee for your head),Powfu,40404,2020-03-21,es,7eJMfftS33KTjuF7lTsMCx
 152,"DJ No Pare (feat. Zion, Dalex, Lenny Tavárez) - Remix",Justin Quiles,39666,2020-03-21,es,1ndyl3wJCFs872XZ3ztPk6
 153,Ojitos,Bryant Myers,39587,2020-03-21,es,6mRO59X63upZzN5RVw5wNz
 154,Bellaquita - Remix,Dalex,39543,2020-03-21,es,4GGwM2Krtlx9G9ii1RaEOx
@@ -1743,7 +1743,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 142,In Your Eyes,The Weeknd,40459,2020-03-22,es,7szuecWAPwGoV1e5vGu8tl
 143,Fantasía,Ozuna,40185,2020-03-22,es,40rXWke6SnXiGkSmaT8ZUr
 144,Atrevido,Trueno,40153,2020-03-22,es,49rFA0vfmY9Eel2cInKmTk
-145,death bed (coffee for your head) (feat. beabadoobee),Powfu,39708,2020-03-22,es,7eJMfftS33KTjuF7lTsMCx
+145,death bed (coffee for your head),Powfu,39708,2020-03-22,es,7eJMfftS33KTjuF7lTsMCx
 146,Gitana (feat. Sergio Contreras y Demarco Flamenco),Rasel,39622,2020-03-22,es,0WA73uP8IO1rczj8FFJzRg
 147,Me vas a ver,Beret,39562,2020-03-22,es,3iVwzH29gquHzkrZuy3M4w
 148,Ojitos,Bryant Myers,38337,2020-03-22,es,6mRO59X63upZzN5RVw5wNz
@@ -1935,7 +1935,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 134,Lola Bunny,Lola Indigo,45286,2020-03-23,es,7IzbHY75UhGztauT7U5eKb
 135,Goteo,Duki,45236,2020-03-23,es,57kdZIOAaolxAjB67d2yU3
 136,Una Vez,Bad Bunny,45159,2020-03-23,es,5J7teKIJGtqVypgYI6sqXj
-137,death bed (coffee for your head) (feat. beabadoobee),Powfu,45039,2020-03-23,es,7eJMfftS33KTjuF7lTsMCx
+137,death bed (coffee for your head),Powfu,45039,2020-03-23,es,7eJMfftS33KTjuF7lTsMCx
 138,MALA SANTA,Becky G,44546,2020-03-23,es,5e50NiIlOc2YJIftHzoehd
 139,Gitana (feat. Sergio Contreras y Demarco Flamenco),Rasel,43837,2020-03-23,es,0WA73uP8IO1rczj8FFJzRg
 140,Yummy,Justin Bieber,43600,2020-03-23,es,16wAOAZ2OkqoIDN7TpChjR
@@ -2124,7 +2124,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 123,Lo siento,Beret,48100,2020-03-24,es,5o2M4yHxo9kyNLdgihFeV1
 124,In Your Eyes,The Weeknd,47760,2020-03-24,es,7szuecWAPwGoV1e5vGu8tl
 125,Soltera - Remix,Lunay,47531,2020-03-24,es,4t9a07PAghtQMRAIP9FQ7Z
-126,death bed (coffee for your head) (feat. beabadoobee),Powfu,47169,2020-03-24,es,7eJMfftS33KTjuF7lTsMCx
+126,death bed (coffee for your head),Powfu,47169,2020-03-24,es,7eJMfftS33KTjuF7lTsMCx
 127,Lola Bunny,Lola Indigo,47133,2020-03-24,es,7IzbHY75UhGztauT7U5eKb
 128,Que Tire Pa Lante,Daddy Yankee,46907,2020-03-24,es,6RyaV7owmVU6fzEPE17sF1
 129,Otro Trago - Remix,Sech,46417,2020-03-24,es,4bTZeO72FwMa6wKOiqoynL
@@ -2297,7 +2297,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 96,<3,Bad Bunny,57902,2020-03-25,es,4MZSqgwlE71CWZ6qQ3gkKm
 97,bad guy,Billie Eilish,57702,2020-03-25,es,2Fxmhks0bxGSBdJ92vM42m
 98,La Rubia - Remix 2,La Nueva Escuela,57403,2020-03-25,es,7KKTnv81z6DmfPIGsZWjOW
-99,death bed (coffee for your head) (feat. beabadoobee),Powfu,56604,2020-03-25,es,7eJMfftS33KTjuF7lTsMCx
+99,death bed (coffee for your head),Powfu,56604,2020-03-25,es,7eJMfftS33KTjuF7lTsMCx
 100,Someone You Loved,Lewis Capaldi,56439,2020-03-25,es,7qEHsqek33rTcFNT9PFqLf
 101,LA CANCIÓN,J Balvin,55902,2020-03-25,es,0fea68AdmYNygeTGI4RC18
 102,No Quiero Verte,Rvfv,55597,2020-03-25,es,4SPqRLaD6GI2ZdF8vyctsz
@@ -2491,7 +2491,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 90,Fantasias,Rauw Alejandro,62432,2020-03-26,es,6mAN61JH0dzyZpWslS11jy
 91,Bichiyal,Bad Bunny,62397,2020-03-26,es,4j4w4CXm6BSr0s25wAWrrX
 92,Break My Heart,Dua Lipa,62389,2020-03-26,es,1raaNykBg1bDnWENUiglUA
-93,death bed (coffee for your head) (feat. beabadoobee),Powfu,61569,2020-03-26,es,7eJMfftS33KTjuF7lTsMCx
+93,death bed (coffee for your head),Powfu,61569,2020-03-26,es,7eJMfftS33KTjuF7lTsMCx
 94,Definitivamente,Daddy Yankee,61533,2020-03-26,es,113PlnpZbHd3WIqeYjhZWv
 95,Que Malo,Bad Bunny,60819,2020-03-26,es,53v2u51nq3CxiKUNphRzP1
 96,B11 (feat. Myke Towers),Rvssian,60527,2020-03-26,es,4o1DxRjMCHDwBiOKv88rOl
@@ -2700,7 +2700,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 99,Qué Bonito Es Querer,Manuel Carrasco,60874,2020-03-27,es,6uzGmmQ4CuG9HvZktEy0LF
 100,Aventura,Lunay,60839,2020-03-27,es,37zdqI4r1gswIzczSBkRon
 101,Fuera De Mi Mente,Lérica,60534,2020-03-27,es,7bsqRe39lKOYX45FZpzP9o
-102,death bed (coffee for your head) (feat. beabadoobee),Powfu,60305,2020-03-27,es,7eJMfftS33KTjuF7lTsMCx
+102,death bed (coffee for your head),Powfu,60305,2020-03-27,es,7eJMfftS33KTjuF7lTsMCx
 103,Definitivamente,Daddy Yankee,59702,2020-03-27,es,113PlnpZbHd3WIqeYjhZWv
 104,Que Malo,Bad Bunny,58363,2020-03-27,es,53v2u51nq3CxiKUNphRzP1
 105,Memories,Maroon 5,58275,2020-03-27,es,2b8fOow8UzyDFAE27YhOZM
@@ -2902,7 +2902,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 101,Señorita,Shawn Mendes,58738,2020-03-28,es,6v3KW9xbzN5yKLt9YKDYA2
 102,Azul y Oro (Freestyle),Trueno,58721,2020-03-28,es,6qvjLYh374hUwDg7bSsxog
 103,La Rubia - Remix 2,La Nueva Escuela,58223,2020-03-28,es,7KKTnv81z6DmfPIGsZWjOW
-104,death bed (coffee for your head) (feat. beabadoobee),Powfu,58054,2020-03-28,es,7eJMfftS33KTjuF7lTsMCx
+104,death bed (coffee for your head),Powfu,58054,2020-03-28,es,7eJMfftS33KTjuF7lTsMCx
 105,bad guy,Billie Eilish,57856,2020-03-28,es,2Fxmhks0bxGSBdJ92vM42m
 106,B11 (feat. Myke Towers),Rvssian,57301,2020-03-28,es,4o1DxRjMCHDwBiOKv88rOl
 107,<3,Bad Bunny,56694,2020-03-28,es,4MZSqgwlE71CWZ6qQ3gkKm
@@ -3091,7 +3091,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 90,Fantasias,Rauw Alejandro,59451,2020-03-29,es,6mAN61JH0dzyZpWslS11jy
 91,Hablamos Mañana,Bad Bunny,59110,2020-03-29,es,1V8XneTrX6kKeoxYbk4x6h
 92,LA CANCIÓN,J Balvin,58943,2020-03-29,es,0fea68AdmYNygeTGI4RC18
-93,death bed (coffee for your head) (feat. beabadoobee),Powfu,57994,2020-03-29,es,7eJMfftS33KTjuF7lTsMCx
+93,death bed (coffee for your head),Powfu,57994,2020-03-29,es,7eJMfftS33KTjuF7lTsMCx
 94,Tabú,Pablo Alborán,57287,2020-03-29,es,471HeGJPKw07MObixON0Um
 95,Memories,Maroon 5,57178,2020-03-29,es,2b8fOow8UzyDFAE27YhOZM
 96,Una Foto en Blanco y Negro,David Otero,56999,2020-03-29,es,4BNqM0h2wukiQkAUKZjurV
@@ -3270,7 +3270,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 69,The Box,Roddy Ricch,67476,2020-03-30,es,0nbXyq5TXYPCO7pr3N8S4I
 70,DOSIS,Dvicio,66992,2020-03-30,es,0AJKRuWjsVn6B43gm5HfjV
 71,"Yo x Ti, Tu x Mi",ROSALÍA,65156,2020-03-30,es,7BlBVFwvbWvcwNcUarQmjk
-72,death bed (coffee for your head) (feat. beabadoobee),Powfu,64943,2020-03-30,es,7eJMfftS33KTjuF7lTsMCx
+72,death bed (coffee for your head),Powfu,64943,2020-03-30,es,7eJMfftS33KTjuF7lTsMCx
 73,A Tu Merced,Bad Bunny,64336,2020-03-30,es,4r9jkMEnArtWGH2rL2FZl0
 74,Bichiyal,Bad Bunny,63771,2020-03-30,es,4j4w4CXm6BSr0s25wAWrrX
 75,Soldadito de Hierro,Nil Moliner,62827,2020-03-30,es,1wWSi1N5mBif8926JR78Ju
@@ -3453,7 +3453,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 52,Break My Heart,Dua Lipa,87505,2020-03-31,es,017PF4Q3l4DBUiWoXk4OWT
 53,Rueda - Remix,Chimbala,83631,2020-03-31,es,3EWxpqOSP0KWgUmRiklqGy
 54,Whine Up,Nicky Jam,77093,2020-03-31,es,2pWOMNQJW3g2zmGjP0Vkb0
-55,death bed (coffee for your head) (feat. beabadoobee),Powfu,76410,2020-03-31,es,7eJMfftS33KTjuF7lTsMCx
+55,death bed (coffee for your head),Powfu,76410,2020-03-31,es,7eJMfftS33KTjuF7lTsMCx
 56,Está Cabrón Ser Yo,Bad Bunny,75567,2020-03-31,es,4saHEjXw7O1NXJOzBkUKKG
 57,Rutina,Myke Towers,75034,2020-03-31,es,3YntiCUU0Xqq0B68FM3YAt
 58,Coronao Now (Remix),El Alfa,74979,2020-03-31,es,047WmwIeerHyIUstFAEz5A
@@ -3660,7 +3660,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 59,Está Cabrón Ser Yo,Bad Bunny,74367,2020-04-01,es,4saHEjXw7O1NXJOzBkUKKG
 60,Pero Ya No,Bad Bunny,74110,2020-04-01,es,75pQqzwgCjUOSSy5CpmAjy
 61,Indios y Vaqueros,Sinsinati,73815,2020-04-01,es,3u5GmyJP2MU3tEJgyiAG2T
-62,death bed (coffee for your head) (feat. beabadoobee),Powfu,73786,2020-04-01,es,7eJMfftS33KTjuF7lTsMCx
+62,death bed (coffee for your head),Powfu,73786,2020-04-01,es,7eJMfftS33KTjuF7lTsMCx
 63,Dónde Estás,KHEA,73580,2020-04-01,es,16DNJ8y6k97DxuMyV49W7V
 64,Easy - Remix,Jhay Cortez,73332,2020-04-01,es,1NmQc6rwLv7g0UHL1AFOa9
 65,Resistiré,Duo Dinamico,72686,2020-04-01,es,2oI6d7XcMz1AMTQhDopV5J
@@ -3853,7 +3853,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 52,Como Panas,Bryant Myers,92452,2020-04-02,es,07MrcfLozSPBfEI8GPOZgc
 53,Rueda - Remix,Chimbala,86078,2020-04-02,es,3EWxpqOSP0KWgUmRiklqGy
 54,Whine Up,Nicky Jam,80576,2020-04-02,es,2pWOMNQJW3g2zmGjP0Vkb0
-55,death bed (coffee for your head) (feat. beabadoobee),Powfu,78326,2020-04-02,es,7eJMfftS33KTjuF7lTsMCx
+55,death bed (coffee for your head),Powfu,78326,2020-04-02,es,7eJMfftS33KTjuF7lTsMCx
 56,Como vas?,Kidd Keo,77974,2020-04-02,es,77E6BhaBLsIMmW5nAyXGTy
 57,Coronao Now (Remix),El Alfa,77625,2020-04-02,es,047WmwIeerHyIUstFAEz5A
 58,Rutina,Myke Towers,77179,2020-04-02,es,3YntiCUU0Xqq0B68FM3YAt
@@ -4063,7 +4063,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 62,Toosie Slide,Drake,73568,2020-04-03,es,127QTOFJsJQp5LbJbu3A1y
 63,Indios y Vaqueros,Sinsinati,72548,2020-04-03,es,3u5GmyJP2MU3tEJgyiAG2T
 64,Rutina,Myke Towers,72445,2020-04-03,es,3YntiCUU0Xqq0B68FM3YAt
-65,death bed (coffee for your head) (feat. beabadoobee),Powfu,70922,2020-04-03,es,7eJMfftS33KTjuF7lTsMCx
+65,death bed (coffee for your head),Powfu,70922,2020-04-03,es,7eJMfftS33KTjuF7lTsMCx
 66,DOSIS,Dvicio,70874,2020-04-03,es,0AJKRuWjsVn6B43gm5HfjV
 67,Coronao Now (Remix),El Alfa,70260,2020-04-03,es,047WmwIeerHyIUstFAEz5A
 68,25/8,Bad Bunny,70200,2020-04-03,es,4NqQaovM14WR2hNPMFxgjb
@@ -4264,7 +4264,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 63,Mi Pequeño Chernóbil,Leiva,72013,2020-04-04,es,4uctPC0cRfw3vOmK2YF4xR
 64,Atrévete,Yago Roche,71673,2020-04-04,es,07Lxxln9lZ8m0hT6EySTCe
 65,25/8,Bad Bunny,70587,2020-04-04,es,4NqQaovM14WR2hNPMFxgjb
-66,death bed (coffee for your head) (feat. beabadoobee),Powfu,70357,2020-04-04,es,7eJMfftS33KTjuF7lTsMCx
+66,death bed (coffee for your head),Powfu,70357,2020-04-04,es,7eJMfftS33KTjuF7lTsMCx
 67,Easy - Remix,Jhay Cortez,69990,2020-04-04,es,1NmQc6rwLv7g0UHL1AFOa9
 68,Qué Bonito Es Querer,Manuel Carrasco,68706,2020-04-04,es,6uzGmmQ4CuG9HvZktEy0LF
 69,A Dónde Vamos,Morat,68639,2020-04-04,es,671sG3ETDxC3L6qcGIrHRM
@@ -4459,7 +4459,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 58,Negro,J Balvin,70985,2020-04-05,es,2hsA9YWuF3C9Gosi4dpjJN
 59,Indios y Vaqueros,Sinsinati,70711,2020-04-05,es,3u5GmyJP2MU3tEJgyiAG2T
 60,Rutina,Myke Towers,70120,2020-04-05,es,3YntiCUU0Xqq0B68FM3YAt
-61,death bed (coffee for your head) (feat. beabadoobee),Powfu,69735,2020-04-05,es,7eJMfftS33KTjuF7lTsMCx
+61,death bed (coffee for your head),Powfu,69735,2020-04-05,es,7eJMfftS33KTjuF7lTsMCx
 62,"Yo x Ti, Tu x Mi",ROSALÍA,69449,2020-04-05,es,7BlBVFwvbWvcwNcUarQmjk
 63,DOSIS,Dvicio,69129,2020-04-05,es,0AJKRuWjsVn6B43gm5HfjV
 64,Coronao Now (Remix),El Alfa,67699,2020-04-05,es,047WmwIeerHyIUstFAEz5A
@@ -4660,7 +4660,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 59,Rutina,Myke Towers,73416,2020-04-06,es,3YntiCUU0Xqq0B68FM3YAt
 60,DOSIS,Dvicio,73180,2020-04-06,es,0AJKRuWjsVn6B43gm5HfjV
 61,Atrévete,Yago Roche,72685,2020-04-06,es,07Lxxln9lZ8m0hT6EySTCe
-62,death bed (coffee for your head) (feat. beabadoobee),Powfu,72600,2020-04-06,es,7eJMfftS33KTjuF7lTsMCx
+62,death bed (coffee for your head),Powfu,72600,2020-04-06,es,7eJMfftS33KTjuF7lTsMCx
 63,Indios y Vaqueros,Sinsinati,72591,2020-04-06,es,3u5GmyJP2MU3tEJgyiAG2T
 64,Toosie Slide,Drake,70188,2020-04-06,es,127QTOFJsJQp5LbJbu3A1y
 65,25/8,Bad Bunny,70063,2020-04-06,es,4NqQaovM14WR2hNPMFxgjb
@@ -4860,7 +4860,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 59,Negro,J Balvin,75391,2020-04-07,es,2hsA9YWuF3C9Gosi4dpjJN
 60,Atrévete,Yago Roche,74469,2020-04-07,es,07Lxxln9lZ8m0hT6EySTCe
 61,Indios y Vaqueros,Sinsinati,73082,2020-04-07,es,3u5GmyJP2MU3tEJgyiAG2T
-62,death bed (coffee for your head) (feat. beabadoobee),Powfu,72613,2020-04-07,es,7eJMfftS33KTjuF7lTsMCx
+62,death bed (coffee for your head),Powfu,72613,2020-04-07,es,7eJMfftS33KTjuF7lTsMCx
 63,Easy - Remix,Jhay Cortez,72609,2020-04-07,es,1NmQc6rwLv7g0UHL1AFOa9
 64,Rutina,Myke Towers,71197,2020-04-07,es,3YntiCUU0Xqq0B68FM3YAt
 65,Toosie Slide,Drake,70461,2020-04-07,es,127QTOFJsJQp5LbJbu3A1y
@@ -5064,7 +5064,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 63,Rutina,Myke Towers,74829,2020-04-08,es,3YntiCUU0Xqq0B68FM3YAt
 64,Soldadito de Hierro,Nil Moliner,73938,2020-04-08,es,1wWSi1N5mBif8926JR78Ju
 65,Easy - Remix,Jhay Cortez,73845,2020-04-08,es,1NmQc6rwLv7g0UHL1AFOa9
-66,death bed (coffee for your head) (feat. beabadoobee),Powfu,73511,2020-04-08,es,7eJMfftS33KTjuF7lTsMCx
+66,death bed (coffee for your head),Powfu,73511,2020-04-08,es,7eJMfftS33KTjuF7lTsMCx
 67,4K,El Alfa,72276,2020-04-08,es,4xI3U4sDj1TPmO9Iz5TkYp
 68,Toosie Slide,Drake,71312,2020-04-08,es,127QTOFJsJQp5LbJbu3A1y
 69,"Yo x Ti, Tu x Mi",ROSALÍA,70823,2020-04-08,es,7BlBVFwvbWvcwNcUarQmjk
@@ -5260,7 +5260,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 59,Indios y Vaqueros,Sinsinati,74690,2020-04-09,es,3u5GmyJP2MU3tEJgyiAG2T
 60,Atrévete,Yago Roche,73554,2020-04-09,es,07Lxxln9lZ8m0hT6EySTCe
 61,Resistiré,Resistiré 2020,73002,2020-04-09,es,5Z3eEWd02O1RekV96ohDPx
-62,death bed (coffee for your head) (feat. beabadoobee),Powfu,72230,2020-04-09,es,7eJMfftS33KTjuF7lTsMCx
+62,death bed (coffee for your head),Powfu,72230,2020-04-09,es,7eJMfftS33KTjuF7lTsMCx
 63,Negro,J Balvin,70249,2020-04-09,es,2hsA9YWuF3C9Gosi4dpjJN
 64,Rutina,Myke Towers,69432,2020-04-09,es,3YntiCUU0Xqq0B68FM3YAt
 65,Rosa,J Balvin,69249,2020-04-09,es,464uJVLmr0fDJGXOnciaDe
@@ -5463,7 +5463,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 62,Toosie Slide,Drake,74884,2020-04-10,es,127QTOFJsJQp5LbJbu3A1y
 63,Indios y Vaqueros,Sinsinati,74151,2020-04-10,es,3u5GmyJP2MU3tEJgyiAG2T
 64,Resistiré,Resistiré 2020,73017,2020-04-10,es,5Z3eEWd02O1RekV96ohDPx
-65,death bed (coffee for your head) (feat. beabadoobee),Powfu,71512,2020-04-10,es,7eJMfftS33KTjuF7lTsMCx
+65,death bed (coffee for your head),Powfu,71512,2020-04-10,es,7eJMfftS33KTjuF7lTsMCx
 66,Negro,J Balvin,70703,2020-04-10,es,2hsA9YWuF3C9Gosi4dpjJN
 67,4K,El Alfa,69711,2020-04-10,es,4xI3U4sDj1TPmO9Iz5TkYp
 68,"Yo x Ti, Tu x Mi",ROSALÍA,68233,2020-04-10,es,7BlBVFwvbWvcwNcUarQmjk
@@ -5663,7 +5663,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 62,Indios y Vaqueros,Sinsinati,74973,2020-04-11,es,3u5GmyJP2MU3tEJgyiAG2T
 63,Toosie Slide,Drake,74069,2020-04-11,es,127QTOFJsJQp5LbJbu3A1y
 64,Resistiré,Resistiré 2020,72967,2020-04-11,es,5Z3eEWd02O1RekV96ohDPx
-65,death bed (coffee for your head) (feat. beabadoobee),Powfu,72815,2020-04-11,es,7eJMfftS33KTjuF7lTsMCx
+65,death bed (coffee for your head),Powfu,72815,2020-04-11,es,7eJMfftS33KTjuF7lTsMCx
 66,4K,El Alfa,72671,2020-04-11,es,4xI3U4sDj1TPmO9Iz5TkYp
 67,Negro,J Balvin,71135,2020-04-11,es,2hsA9YWuF3C9Gosi4dpjJN
 68,Easy - Remix,Jhay Cortez,70196,2020-04-11,es,1NmQc6rwLv7g0UHL1AFOa9
@@ -5859,7 +5859,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 58,Indios y Vaqueros,Sinsinati,72996,2020-04-12,es,3u5GmyJP2MU3tEJgyiAG2T
 59,Vete,Bad Bunny,72718,2020-04-12,es,2n7ohqg1s68ToAHh4u9mcW
 60,Physical,Dua Lipa,72117,2020-04-12,es,3AzjcOeAmA57TIOr9zF1ZW
-61,death bed (coffee for your head) (feat. beabadoobee),Powfu,72030,2020-04-12,es,7eJMfftS33KTjuF7lTsMCx
+61,death bed (coffee for your head),Powfu,72030,2020-04-12,es,7eJMfftS33KTjuF7lTsMCx
 62,Resistiré,Resistiré 2020,71409,2020-04-12,es,5Z3eEWd02O1RekV96ohDPx
 63,Whine Up,Nicky Jam,71314,2020-04-12,es,2pWOMNQJW3g2zmGjP0Vkb0
 64,Toosie Slide,Drake,69590,2020-04-12,es,127QTOFJsJQp5LbJbu3A1y
@@ -6055,7 +6055,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 54,Resistiré,Resistiré 2020,77275,2020-04-13,es,5Z3eEWd02O1RekV96ohDPx
 55,Physical,Dua Lipa,76866,2020-04-13,es,3AzjcOeAmA57TIOr9zF1ZW
 56,DOSIS,Dvicio,76435,2020-04-13,es,0AJKRuWjsVn6B43gm5HfjV
-57,death bed (coffee for your head) (feat. beabadoobee),Powfu,76001,2020-04-13,es,7eJMfftS33KTjuF7lTsMCx
+57,death bed (coffee for your head),Powfu,76001,2020-04-13,es,7eJMfftS33KTjuF7lTsMCx
 58,Sigues Con El,Dímelo Flow,75827,2020-04-13,es,7sQKy5vlPQllr0k9IjYJv3
 59,Indeciso,Reik,73523,2020-04-13,es,59s0s39NFWScuHDbHytI14
 60,Vete,Bad Bunny,73066,2020-04-13,es,2n7ohqg1s68ToAHh4u9mcW
@@ -6255,7 +6255,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 54,Atrévete,Yago Roche,89369,2020-04-14,es,07Lxxln9lZ8m0hT6EySTCe
 55,Physical,Dua Lipa,81582,2020-04-14,es,3AzjcOeAmA57TIOr9zF1ZW
 56,Toosie Slide,Drake,79453,2020-04-14,es,127QTOFJsJQp5LbJbu3A1y
-57,death bed (coffee for your head) (feat. beabadoobee),Powfu,79078,2020-04-14,es,7eJMfftS33KTjuF7lTsMCx
+57,death bed (coffee for your head),Powfu,79078,2020-04-14,es,7eJMfftS33KTjuF7lTsMCx
 58,Indeciso,Reik,78051,2020-04-14,es,59s0s39NFWScuHDbHytI14
 59,DOSIS,Dvicio,76925,2020-04-14,es,0AJKRuWjsVn6B43gm5HfjV
 60,Indios y Vaqueros,Sinsinati,76851,2020-04-14,es,3u5GmyJP2MU3tEJgyiAG2T
@@ -6453,7 +6453,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 52,4K,El Alfa,88849,2020-04-15,es,4xI3U4sDj1TPmO9Iz5TkYp
 53,Atrévete,Yago Roche,87045,2020-04-15,es,07Lxxln9lZ8m0hT6EySTCe
 54,Resistiré,Resistiré 2020,86189,2020-04-15,es,5Z3eEWd02O1RekV96ohDPx
-55,death bed (coffee for your head) (feat. beabadoobee),Powfu,78851,2020-04-15,es,7eJMfftS33KTjuF7lTsMCx
+55,death bed (coffee for your head),Powfu,78851,2020-04-15,es,7eJMfftS33KTjuF7lTsMCx
 56,DOSIS,Dvicio,77379,2020-04-15,es,0AJKRuWjsVn6B43gm5HfjV
 57,Physical,Dua Lipa,75927,2020-04-15,es,3AzjcOeAmA57TIOr9zF1ZW
 58,Toosie Slide,Drake,75231,2020-04-15,es,127QTOFJsJQp5LbJbu3A1y
@@ -6653,7 +6653,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 52,4K,El Alfa,91322,2020-04-16,es,4xI3U4sDj1TPmO9Iz5TkYp
 53,Atrévete,Yago Roche,89036,2020-04-16,es,07Lxxln9lZ8m0hT6EySTCe
 54,Resistiré,Resistiré 2020,86836,2020-04-16,es,5Z3eEWd02O1RekV96ohDPx
-55,death bed (coffee for your head) (feat. beabadoobee),Powfu,79935,2020-04-16,es,7eJMfftS33KTjuF7lTsMCx
+55,death bed (coffee for your head),Powfu,79935,2020-04-16,es,7eJMfftS33KTjuF7lTsMCx
 56,Toosie Slide,Drake,78554,2020-04-16,es,127QTOFJsJQp5LbJbu3A1y
 57,Indeciso,Reik,77493,2020-04-16,es,59s0s39NFWScuHDbHytI14
 58,DOSIS,Dvicio,77297,2020-04-16,es,0AJKRuWjsVn6B43gm5HfjV
@@ -6850,7 +6850,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 49,Blanco,J Balvin,103345,2020-04-17,es,5pXy29xzxR3aTB0SYRI590
 50,TBT,Sebastian Yatra,102078,2020-04-17,es,4s45VgkknMFkdiGoUcjxQU
 51,La Santa,Bad Bunny,101032,2020-04-17,es,69vlMrzHwATKzupwNcUPyK
-52,death bed (coffee for your head) (feat. beabadoobee),Powfu,97526,2020-04-17,es,7eJMfftS33KTjuF7lTsMCx
+52,death bed (coffee for your head),Powfu,97526,2020-04-17,es,7eJMfftS33KTjuF7lTsMCx
 53,Resistiré,Resistiré 2020,93951,2020-04-17,es,5Z3eEWd02O1RekV96ohDPx
 54,4K,El Alfa,93202,2020-04-17,es,4xI3U4sDj1TPmO9Iz5TkYp
 55,3 de Abril,Anuel AA,93040,2020-04-17,es,1c2oYPFni5vth1v9M7fYZb
@@ -7050,7 +7050,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 49,Resistiré,Resistiré 2020,101647,2020-04-18,es,5Z3eEWd02O1RekV96ohDPx
 50,Blanco,J Balvin,100923,2020-04-18,es,5pXy29xzxR3aTB0SYRI590
 51,Si Veo a Tu Mamá,Bad Bunny,99041,2020-04-18,es,41wtwzCZkXwpnakmwJ239F
-52,death bed (coffee for your head) (feat. beabadoobee),Powfu,96259,2020-04-18,es,7eJMfftS33KTjuF7lTsMCx
+52,death bed (coffee for your head),Powfu,96259,2020-04-18,es,7eJMfftS33KTjuF7lTsMCx
 53,Atrévete,Yago Roche,91925,2020-04-18,es,07Lxxln9lZ8m0hT6EySTCe
 54,Ponte Pa' Mi,Rauw Alejandro,91865,2020-04-18,es,10u2iOS0r6plfb9GknD7g4
 55,La Santa,Bad Bunny,91630,2020-04-18,es,69vlMrzHwATKzupwNcUPyK
@@ -7247,7 +7247,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 46,TBT,Sebastian Yatra,95154,2020-04-19,es,4s45VgkknMFkdiGoUcjxQU
 47,Resistiré,Resistiré 2020,94606,2020-04-19,es,5Z3eEWd02O1RekV96ohDPx
 48,Me Gusta,Shakira,91970,2020-04-19,es,5Xhqh4lwJPtMUTsdBztN1a
-49,death bed (coffee for your head) (feat. beabadoobee),Powfu,90996,2020-04-19,es,7eJMfftS33KTjuF7lTsMCx
+49,death bed (coffee for your head),Powfu,90996,2020-04-19,es,7eJMfftS33KTjuF7lTsMCx
 50,Blanco,J Balvin,89823,2020-04-19,es,5pXy29xzxR3aTB0SYRI590
 51,RITMO (Bad Boys For Life),Black Eyed Peas,89347,2020-04-19,es,6cy3ki60hLwimwIje7tALf
 52,Ponte Pa' Mi,Rauw Alejandro,87488,2020-04-19,es,10u2iOS0r6plfb9GknD7g4
@@ -7445,7 +7445,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 44,Muévelo,Nicky Jam,108536,2020-04-20,es,4VgYtXCVJ7IbWAZ5ryfvEQ
 45,China,Anuel AA,107101,2020-04-20,es,2ksOAxtIxY8yElEWw8RhgK
 46,Ponte Pa' Mi,Rauw Alejandro,104594,2020-04-20,es,10u2iOS0r6plfb9GknD7g4
-47,death bed (coffee for your head) (feat. beabadoobee),Powfu,102554,2020-04-20,es,7eJMfftS33KTjuF7lTsMCx
+47,death bed (coffee for your head),Powfu,102554,2020-04-20,es,7eJMfftS33KTjuF7lTsMCx
 48,TBT,Sebastian Yatra,101984,2020-04-20,es,4s45VgkknMFkdiGoUcjxQU
 49,Si Veo a Tu Mamá,Bad Bunny,100862,2020-04-20,es,41wtwzCZkXwpnakmwJ239F
 50,Atrévete,Yago Roche,98669,2020-04-20,es,07Lxxln9lZ8m0hT6EySTCe
@@ -7643,7 +7643,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 42,Si Veo a Tu Mamá,Bad Bunny,106981,2020-04-21,es,41wtwzCZkXwpnakmwJ239F
 43,Si por mi fuera,Beret,106977,2020-04-21,es,3W87IIdSOE63W0Qyhy7r2b
 44,+,Aitana,106650,2020-04-21,es,5Cbo7oz78gqkzV3EAM63VA
-45,death bed (coffee for your head) (feat. beabadoobee),Powfu,106506,2020-04-21,es,7eJMfftS33KTjuF7lTsMCx
+45,death bed (coffee for your head),Powfu,106506,2020-04-21,es,7eJMfftS33KTjuF7lTsMCx
 46,Medusa,Jhay Cortez,105415,2020-04-21,es,3qM0vBxIe4VUbK0Z0smuVP
 47,Muévelo,Nicky Jam,104688,2020-04-21,es,4VgYtXCVJ7IbWAZ5ryfvEQ
 48,Rueda - Remix,Chimbala,104287,2020-04-21,es,3EWxpqOSP0KWgUmRiklqGy
@@ -7846,7 +7846,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 45,Muévelo,Nicky Jam,111350,2020-04-22,es,4VgYtXCVJ7IbWAZ5ryfvEQ
 46,Rueda - Remix,Chimbala,109681,2020-04-22,es,3EWxpqOSP0KWgUmRiklqGy
 47,Medusa,Jhay Cortez,109072,2020-04-22,es,3qM0vBxIe4VUbK0Z0smuVP
-48,death bed (coffee for your head) (feat. beabadoobee),Powfu,108188,2020-04-22,es,7eJMfftS33KTjuF7lTsMCx
+48,death bed (coffee for your head),Powfu,108188,2020-04-22,es,7eJMfftS33KTjuF7lTsMCx
 49,China,Anuel AA,106738,2020-04-22,es,2ksOAxtIxY8yElEWw8RhgK
 50,TBT,Sebastian Yatra,101573,2020-04-22,es,4s45VgkknMFkdiGoUcjxQU
 51,4K,El Alfa,89436,2020-04-22,es,4xI3U4sDj1TPmO9Iz5TkYp
@@ -8045,7 +8045,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 44,Azul,J Balvin,113923,2020-04-23,es,2lCkncy6bIB0LTMT7kvrD1
 45,Muévelo,Nicky Jam,111324,2020-04-23,es,4VgYtXCVJ7IbWAZ5ryfvEQ
 46,Rueda - Remix,Chimbala,110894,2020-04-23,es,3EWxpqOSP0KWgUmRiklqGy
-47,death bed (coffee for your head) (feat. beabadoobee),Powfu,109296,2020-04-23,es,7eJMfftS33KTjuF7lTsMCx
+47,death bed (coffee for your head),Powfu,109296,2020-04-23,es,7eJMfftS33KTjuF7lTsMCx
 48,Medusa,Jhay Cortez,108204,2020-04-23,es,3qM0vBxIe4VUbK0Z0smuVP
 49,China,Anuel AA,106853,2020-04-23,es,2ksOAxtIxY8yElEWw8RhgK
 50,TBT,Sebastian Yatra,102925,2020-04-23,es,4s45VgkknMFkdiGoUcjxQU
@@ -8251,7 +8251,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 50,Rueda - Remix,Chimbala,113085,2020-04-24,es,3EWxpqOSP0KWgUmRiklqGy
 51,Medusa,Jhay Cortez,109772,2020-04-24,es,3qM0vBxIe4VUbK0Z0smuVP
 52,China,Anuel AA,108822,2020-04-24,es,2ksOAxtIxY8yElEWw8RhgK
-53,death bed (coffee for your head) (feat. beabadoobee),Powfu,107681,2020-04-24,es,7eJMfftS33KTjuF7lTsMCx
+53,death bed (coffee for your head),Powfu,107681,2020-04-24,es,7eJMfftS33KTjuF7lTsMCx
 54,TBT,Sebastian Yatra,107611,2020-04-24,es,4s45VgkknMFkdiGoUcjxQU
 55,goosebumps,Travis Scott,104700,2020-04-24,es,6gBFPUFcJLzWGx4lenP6h2
 56,ADMV,Maluma,102603,2020-04-24,es,3eJMSq78dDaFb7VvhNFnq6
@@ -8452,7 +8452,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 51,"Hola, Nena (feat. Omar Montes)",Nyno Vargas,107487,2020-04-25,es,2EAwcFW9NeuhnZ0q5aYhFL
 52,China,Anuel AA,102948,2020-04-25,es,2ksOAxtIxY8yElEWw8RhgK
 53,Medusa,Jhay Cortez,101924,2020-04-25,es,3qM0vBxIe4VUbK0Z0smuVP
-54,death bed (coffee for your head) (feat. beabadoobee),Powfu,101216,2020-04-25,es,7eJMfftS33KTjuF7lTsMCx
+54,death bed (coffee for your head),Powfu,101216,2020-04-25,es,7eJMfftS33KTjuF7lTsMCx
 55,TBT,Sebastian Yatra,101065,2020-04-25,es,4s45VgkknMFkdiGoUcjxQU
 56,Me Gusta,Shakira,95334,2020-04-25,es,5Xhqh4lwJPtMUTsdBztN1a
 57,RITMO (Bad Boys For Life),Black Eyed Peas,89750,2020-04-25,es,6cy3ki60hLwimwIje7tALf
@@ -8650,7 +8650,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 49,Ponte Pa' Mi,Rauw Alejandro,99531,2020-04-26,es,10u2iOS0r6plfb9GknD7g4
 50,Azul,J Balvin,99421,2020-04-26,es,2lCkncy6bIB0LTMT7kvrD1
 51,"Hola, Nena (feat. Omar Montes)",Nyno Vargas,91803,2020-04-26,es,2EAwcFW9NeuhnZ0q5aYhFL
-52,death bed (coffee for your head) (feat. beabadoobee),Powfu,91037,2020-04-26,es,7eJMfftS33KTjuF7lTsMCx
+52,death bed (coffee for your head),Powfu,91037,2020-04-26,es,7eJMfftS33KTjuF7lTsMCx
 53,Medusa,Jhay Cortez,86930,2020-04-26,es,3qM0vBxIe4VUbK0Z0smuVP
 54,TBT,Sebastian Yatra,86851,2020-04-26,es,4s45VgkknMFkdiGoUcjxQU
 55,China,Anuel AA,85693,2020-04-26,es,2ksOAxtIxY8yElEWw8RhgK
@@ -8851,7 +8851,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 50,No Me Ame,Rvssian,99305,2020-04-27,es,2AuWgceaQyfMoI3EGavwGb
 51,Ponte Pa' Mi,Rauw Alejandro,98242,2020-04-27,es,10u2iOS0r6plfb9GknD7g4
 52,Muévelo,Nicky Jam,92646,2020-04-27,es,4VgYtXCVJ7IbWAZ5ryfvEQ
-53,death bed (coffee for your head) (feat. beabadoobee),Powfu,91447,2020-04-27,es,7eJMfftS33KTjuF7lTsMCx
+53,death bed (coffee for your head),Powfu,91447,2020-04-27,es,7eJMfftS33KTjuF7lTsMCx
 54,China,Anuel AA,88738,2020-04-27,es,2ksOAxtIxY8yElEWw8RhgK
 55,Medusa,Jhay Cortez,87398,2020-04-27,es,3qM0vBxIe4VUbK0Z0smuVP
 56,Me Gusta,Shakira,81046,2020-04-27,es,5Xhqh4lwJPtMUTsdBztN1a
@@ -9048,7 +9048,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 47,Rueda - Remix,Chimbala,105118,2020-04-28,es,3EWxpqOSP0KWgUmRiklqGy
 48,Si Veo a Tu Mamá,Bad Bunny,104039,2020-04-28,es,41wtwzCZkXwpnakmwJ239F
 49,Azul,J Balvin,103022,2020-04-28,es,2lCkncy6bIB0LTMT7kvrD1
-50,death bed (coffee for your head) (feat. beabadoobee),Powfu,99351,2020-04-28,es,7eJMfftS33KTjuF7lTsMCx
+50,death bed (coffee for your head),Powfu,99351,2020-04-28,es,7eJMfftS33KTjuF7lTsMCx
 51,No Me Ame,Rvssian,97627,2020-04-28,es,2AuWgceaQyfMoI3EGavwGb
 52,Ponte Pa' Mi,Rauw Alejandro,92034,2020-04-28,es,10u2iOS0r6plfb9GknD7g4
 53,China,Anuel AA,89238,2020-04-28,es,2ksOAxtIxY8yElEWw8RhgK
@@ -9248,7 +9248,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 47,Quédate conmigo,Pole.,109114,2020-04-29,es,5tzOL69W6lCp4gAomIXMnJ
 48,Don't Start Now,Dua Lipa,108656,2020-04-29,es,3PfIrDoz19wz7qK7tYeu62
 49,Azul,J Balvin,108609,2020-04-29,es,2lCkncy6bIB0LTMT7kvrD1
-50,death bed (coffee for your head) (feat. beabadoobee),Powfu,108476,2020-04-29,es,7eJMfftS33KTjuF7lTsMCx
+50,death bed (coffee for your head),Powfu,108476,2020-04-29,es,7eJMfftS33KTjuF7lTsMCx
 51,No Me Ame,Rvssian,93534,2020-04-29,es,2AuWgceaQyfMoI3EGavwGb
 52,China,Anuel AA,92511,2020-04-29,es,2ksOAxtIxY8yElEWw8RhgK
 53,Medusa,Jhay Cortez,92474,2020-04-29,es,3qM0vBxIe4VUbK0Z0smuVP
@@ -9439,7 +9439,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 38,Prendio (Remix),Rvfv,118758,2020-04-30,es,17VsiwLi1ovKYdVUqDieGC
 39,Dance Monkey,Tones And I,118178,2020-04-30,es,1rgnBhdG2JDFTbYkYRZAku
 40,goosebumps,Travis Scott,115836,2020-04-30,es,6gBFPUFcJLzWGx4lenP6h2
-41,death bed (coffee for your head) (feat. beabadoobee),Powfu,115028,2020-04-30,es,7eJMfftS33KTjuF7lTsMCx
+41,death bed (coffee for your head),Powfu,115028,2020-04-30,es,7eJMfftS33KTjuF7lTsMCx
 42,Alocao (With Bad Gyal),Omar Montes,111504,2020-04-30,es,6RyuoOJXNzlVWpfC5xQyeI
 43,Quédate conmigo,Pole.,110649,2020-04-30,es,5tzOL69W6lCp4gAomIXMnJ
 44,Si Veo a Tu Mamá,Bad Bunny,109407,2020-04-30,es,41wtwzCZkXwpnakmwJ239F
@@ -9642,7 +9642,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 41,Rueda - Remix,Chimbala,117489,2020-05-01,es,3EWxpqOSP0KWgUmRiklqGy
 42,+,Aitana,117363,2020-05-01,es,5Cbo7oz78gqkzV3EAM63VA
 43,Si por mi fuera,Beret,116299,2020-05-01,es,3W87IIdSOE63W0Qyhy7r2b
-44,death bed (coffee for your head) (feat. beabadoobee),Powfu,115882,2020-05-01,es,7eJMfftS33KTjuF7lTsMCx
+44,death bed (coffee for your head),Powfu,115882,2020-05-01,es,7eJMfftS33KTjuF7lTsMCx
 45,Don't Start Now,Dua Lipa,115606,2020-05-01,es,3PfIrDoz19wz7qK7tYeu62
 46,SICKO MODE,Travis Scott,115404,2020-05-01,es,2xLMifQCjDGFmkHkpNLD9h
 47,Sigues Con El - Remix,Arcangel,113620,2020-05-01,es,4Pu0a2TuHOYtI4CCE3HEXI
@@ -9846,7 +9846,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 45,+,Aitana,127663,2020-05-02,es,5Cbo7oz78gqkzV3EAM63VA
 46,Sigues Con El - Remix,Arcangel,126660,2020-05-02,es,4Pu0a2TuHOYtI4CCE3HEXI
 47,Quédate conmigo,Pole.,123663,2020-05-02,es,5tzOL69W6lCp4gAomIXMnJ
-48,death bed (coffee for your head) (feat. beabadoobee),Powfu,123267,2020-05-02,es,7eJMfftS33KTjuF7lTsMCx
+48,death bed (coffee for your head),Powfu,123267,2020-05-02,es,7eJMfftS33KTjuF7lTsMCx
 49,Si Veo a Tu Mamá,Bad Bunny,116059,2020-05-02,es,41wtwzCZkXwpnakmwJ239F
 50,SICKO MODE,Travis Scott,112750,2020-05-02,es,2xLMifQCjDGFmkHkpNLD9h
 51,China,Anuel AA,111787,2020-05-02,es,2ksOAxtIxY8yElEWw8RhgK
@@ -10044,7 +10044,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 43,Azul,J Balvin,119332,2020-05-03,es,2lCkncy6bIB0LTMT7kvrD1
 44,+,Aitana,118301,2020-05-03,es,5Cbo7oz78gqkzV3EAM63VA
 45,Don't Start Now,Dua Lipa,117574,2020-05-03,es,3PfIrDoz19wz7qK7tYeu62
-46,death bed (coffee for your head) (feat. beabadoobee),Powfu,116870,2020-05-03,es,7eJMfftS33KTjuF7lTsMCx
+46,death bed (coffee for your head),Powfu,116870,2020-05-03,es,7eJMfftS33KTjuF7lTsMCx
 47,Quédate conmigo,Pole.,116262,2020-05-03,es,5tzOL69W6lCp4gAomIXMnJ
 48,Si Veo a Tu Mamá,Bad Bunny,114647,2020-05-03,es,41wtwzCZkXwpnakmwJ239F
 49,Sigues Con El - Remix,Arcangel,113952,2020-05-03,es,4Pu0a2TuHOYtI4CCE3HEXI
@@ -10240,7 +10240,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 39,Dance Monkey,Tones And I,124203,2020-05-04,es,1rgnBhdG2JDFTbYkYRZAku
 40,Rueda - Remix,Chimbala,119864,2020-05-04,es,3EWxpqOSP0KWgUmRiklqGy
 41,THE SCOTTS,THE SCOTTS,119434,2020-05-04,es,39Yp9wwQiSRIDOvrVg7mbk
-42,death bed (coffee for your head) (feat. beabadoobee),Powfu,119310,2020-05-04,es,7eJMfftS33KTjuF7lTsMCx
+42,death bed (coffee for your head),Powfu,119310,2020-05-04,es,7eJMfftS33KTjuF7lTsMCx
 43,Azul,J Balvin,118420,2020-05-04,es,2lCkncy6bIB0LTMT7kvrD1
 44,+,Aitana,116537,2020-05-04,es,5Cbo7oz78gqkzV3EAM63VA
 45,Quédate conmigo,Pole.,114373,2020-05-04,es,5tzOL69W6lCp4gAomIXMnJ
@@ -10439,7 +10439,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 38,Alocao (With Bad Gyal),Omar Montes,126376,2020-05-05,es,6RyuoOJXNzlVWpfC5xQyeI
 39,Rueda - Remix,Chimbala,122211,2020-05-05,es,3EWxpqOSP0KWgUmRiklqGy
 40,Keii,Anuel AA,122114,2020-05-05,es,5eEQCfq7MXQr6aHLNRUZLs
-41,death bed (coffee for your head) (feat. beabadoobee),Powfu,121321,2020-05-05,es,7eJMfftS33KTjuF7lTsMCx
+41,death bed (coffee for your head),Powfu,121321,2020-05-05,es,7eJMfftS33KTjuF7lTsMCx
 42,Azul,J Balvin,119205,2020-05-05,es,2lCkncy6bIB0LTMT7kvrD1
 43,Quédate conmigo,Pole.,117898,2020-05-05,es,5tzOL69W6lCp4gAomIXMnJ
 44,THE SCOTTS,THE SCOTTS,117033,2020-05-05,es,39Yp9wwQiSRIDOvrVg7mbk
@@ -10638,7 +10638,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 37,Dance Monkey,Tones And I,131371,2020-05-06,es,1rgnBhdG2JDFTbYkYRZAku
 38,Alocao (With Bad Gyal),Omar Montes,125368,2020-05-06,es,6RyuoOJXNzlVWpfC5xQyeI
 39,Rueda - Remix,Chimbala,123450,2020-05-06,es,3EWxpqOSP0KWgUmRiklqGy
-40,death bed (coffee for your head) (feat. beabadoobee),Powfu,119577,2020-05-06,es,7eJMfftS33KTjuF7lTsMCx
+40,death bed (coffee for your head),Powfu,119577,2020-05-06,es,7eJMfftS33KTjuF7lTsMCx
 41,Keii,Anuel AA,119275,2020-05-06,es,5eEQCfq7MXQr6aHLNRUZLs
 42,Azul,J Balvin,119201,2020-05-06,es,2lCkncy6bIB0LTMT7kvrD1
 43,Don't Start Now,Dua Lipa,118794,2020-05-06,es,3PfIrDoz19wz7qK7tYeu62
@@ -10839,7 +10839,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 38,Alocao (With Bad Gyal),Omar Montes,121743,2020-05-07,es,6RyuoOJXNzlVWpfC5xQyeI
 39,Ponte Pa' Mi,Rauw Alejandro,120035,2020-05-07,es,10u2iOS0r6plfb9GknD7g4
 40,Rueda - Remix,Chimbala,117916,2020-05-07,es,3EWxpqOSP0KWgUmRiklqGy
-41,death bed (coffee for your head) (feat. beabadoobee),Powfu,117840,2020-05-07,es,7eJMfftS33KTjuF7lTsMCx
+41,death bed (coffee for your head),Powfu,117840,2020-05-07,es,7eJMfftS33KTjuF7lTsMCx
 42,Keii,Anuel AA,117350,2020-05-07,es,5eEQCfq7MXQr6aHLNRUZLs
 43,Azul,J Balvin,116774,2020-05-07,es,2lCkncy6bIB0LTMT7kvrD1
 44,Quédate conmigo,Pole.,115704,2020-05-07,es,5tzOL69W6lCp4gAomIXMnJ
@@ -11044,7 +11044,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 43,Alocao (With Bad Gyal),Omar Montes,120505,2020-05-08,es,6RyuoOJXNzlVWpfC5xQyeI
 44,Ponte Pa' Mi,Rauw Alejandro,119863,2020-05-08,es,10u2iOS0r6plfb9GknD7g4
 45,Keii,Anuel AA,116062,2020-05-08,es,5eEQCfq7MXQr6aHLNRUZLs
-46,death bed (coffee for your head) (feat. beabadoobee),Powfu,115496,2020-05-08,es,7eJMfftS33KTjuF7lTsMCx
+46,death bed (coffee for your head),Powfu,115496,2020-05-08,es,7eJMfftS33KTjuF7lTsMCx
 47,"Los Abrazos Prohibidos (feat. Alice Wonder, Andrés Suárez, Carlotta Cosials, Christina Rosenvinge, Dani Martin, Depedro, Eva Amaral, Ismael Serrano, Iván Ferreiro, Kase.O, Leiva, Luz Casal, Maika Makovski, Marwán, Nacho Vegas, Nina de Juan, Rozalén, Joaquín Sabina, Santi Balmes & Xoel López)",Vetusta Morla,114221,2020-05-08,es,3qKzESguQJ7GpqWf6K2hOE
 48,China,Anuel AA,114147,2020-05-08,es,2ksOAxtIxY8yElEWw8RhgK
 49,+,Aitana,112408,2020-05-08,es,5Cbo7oz78gqkzV3EAM63VA
@@ -11242,7 +11242,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 41,Ponte Pa' Mi,Rauw Alejandro,114111,2020-05-09,es,10u2iOS0r6plfb9GknD7g4
 42,Sigues Con El - Remix,Arcangel,113009,2020-05-09,es,4Pu0a2TuHOYtI4CCE3HEXI
 43,China,Anuel AA,111234,2020-05-09,es,2ksOAxtIxY8yElEWw8RhgK
-44,death bed (coffee for your head) (feat. beabadoobee),Powfu,109363,2020-05-09,es,7eJMfftS33KTjuF7lTsMCx
+44,death bed (coffee for your head),Powfu,109363,2020-05-09,es,7eJMfftS33KTjuF7lTsMCx
 45,+,Aitana,109183,2020-05-09,es,5Cbo7oz78gqkzV3EAM63VA
 46,Keii,Anuel AA,108735,2020-05-09,es,5eEQCfq7MXQr6aHLNRUZLs
 47,Don't Start Now,Dua Lipa,107160,2020-05-09,es,3PfIrDoz19wz7qK7tYeu62
@@ -11451,7 +11451,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 50,Alocao (With Bad Gyal),Omar Montes,99921,2020-05-10,es,6RyuoOJXNzlVWpfC5xQyeI
 51,Azul,J Balvin,99216,2020-05-10,es,2lCkncy6bIB0LTMT7kvrD1
 52,El Efecto,Rauw Alejandro,98864,2020-05-10,es,4SJHHpKhcuXwDsCsPqshXj
-53,death bed (coffee for your head) (feat. beabadoobee),Powfu,98419,2020-05-10,es,7eJMfftS33KTjuF7lTsMCx
+53,death bed (coffee for your head),Powfu,98419,2020-05-10,es,7eJMfftS33KTjuF7lTsMCx
 54,China,Anuel AA,97563,2020-05-10,es,2ksOAxtIxY8yElEWw8RhgK
 55,Rueda - Remix,Chimbala,96942,2020-05-10,es,3EWxpqOSP0KWgUmRiklqGy
 56,+,Aitana,95754,2020-05-10,es,5Cbo7oz78gqkzV3EAM63VA
@@ -11655,7 +11655,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 54,Si Veo a Tu Mamá,Bad Bunny,103571,2020-05-11,es,41wtwzCZkXwpnakmwJ239F
 55,Don't Start Now,Dua Lipa,102868,2020-05-11,es,3PfIrDoz19wz7qK7tYeu62
 56,Keii,Anuel AA,102734,2020-05-11,es,5eEQCfq7MXQr6aHLNRUZLs
-57,death bed (coffee for your head) (feat. beabadoobee),Powfu,101293,2020-05-11,es,7eJMfftS33KTjuF7lTsMCx
+57,death bed (coffee for your head),Powfu,101293,2020-05-11,es,7eJMfftS33KTjuF7lTsMCx
 58,Sigues Con El - Remix,Arcangel,101020,2020-05-11,es,4Pu0a2TuHOYtI4CCE3HEXI
 59,+,Aitana,99035,2020-05-11,es,5Cbo7oz78gqkzV3EAM63VA
 60,Rueda - Remix,Chimbala,99007,2020-05-11,es,3EWxpqOSP0KWgUmRiklqGy
@@ -11851,7 +11851,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 50,Prendio (Remix),Rvfv,103204,2020-05-12,es,17VsiwLi1ovKYdVUqDieGC
 51,Alocao (With Bad Gyal),Omar Montes,102128,2020-05-12,es,6RyuoOJXNzlVWpfC5xQyeI
 52,Stuck with U (with Justin Bieber),Ariana Grande,101786,2020-05-12,es,4HBZA5flZLE435QTztThqH
-53,death bed (coffee for your head) (feat. beabadoobee),Powfu,94011,2020-05-12,es,7eJMfftS33KTjuF7lTsMCx
+53,death bed (coffee for your head),Powfu,94011,2020-05-12,es,7eJMfftS33KTjuF7lTsMCx
 54,+,Aitana,93418,2020-05-12,es,5Cbo7oz78gqkzV3EAM63VA
 55,China,Anuel AA,93315,2020-05-12,es,2ksOAxtIxY8yElEWw8RhgK
 56,Azul,J Balvin,93197,2020-05-12,es,2lCkncy6bIB0LTMT7kvrD1
@@ -12049,7 +12049,7 @@ Position,Track Name,Artist,Streams,date,region,spotify_id
 48,Ponte Pa' Mi,Rauw Alejandro,113868,2020-05-13,es,10u2iOS0r6plfb9GknD7g4
 49,Prendio (Remix),Rvfv,110405,2020-05-13,es,17VsiwLi1ovKYdVUqDieGC
 50,Ignorantes,Bad Bunny,109863,2020-05-13,es,38RIEav39FGi86jppxO0du
-51,death bed (coffee for your head) (feat. beabadoobee),Powfu,100208,2020-05-13,es,7eJMfftS33KTjuF7lTsMCx
+51,death bed (coffee for your head),Powfu,100208,2020-05-13,es,7eJMfftS33KTjuF7lTsMCx
 52,Alocao (With Bad Gyal),Omar Montes,99807,2020-05-13,es,6RyuoOJXNzlVWpfC5xQyeI
 53,Azul,J Balvin,98055,2020-05-13,es,2lCkncy6bIB0LTMT7kvrD1
 54,Quédate conmigo,Pole.,95364,2020-05-13,es,5tzOL69W6lCp4gAomIXMnJ
