@@ -4,14 +4,22 @@ Tras escribir el artículo [¿Es Resistiré una de las canciones más escuchadas
 
 # Fuentes de datos
 
- - Fuente de datos que ofrece la [API de Spotify](https://developer.spotify.com/documentation/web-api/) de la que se pueden sacar las características y features de todas las canciones disponibles en Spotify
+ - Fuente de datos que ofrece la [API de Spotify](https://developer.spotify.com/documentation/web-api/) de la que se pueden sacar las características y features de todas las canciones disponibles en Spotify.
    
- - La base de datos de [Spotify Chart](https://spotifycharts.com/regional) donde se pueden extraer las 200 canciones más escuchadas (top200) por día y los respectivos streams (reproducciones) de cada una, ya que este ranking se calcula por el número de veces que se escucha una canción
+ - La base de datos de [Spotify Chart](https://spotifycharts.com/regional) donde se pueden extraer las 200 canciones más escuchadas (top200) por día y los respectivos streams (reproducciones) de cada una, ya que este ranking se calcula por el número de veces que se escucha una canción.
 
 # Análisis
+En proceso
 
+# Visualización
+En proceso
+
+# Código
+En proceso
+
+# Archivos en CSV
 En proceso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTEwNTQwMSw1ODEyNDg5NThdfQ==
+eyJoaXN0b3J5IjpbLTI2NzY5ODYwNiw1ODEyNDg5NThdfQ==
 -->
