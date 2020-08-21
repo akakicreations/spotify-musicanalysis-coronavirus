@@ -15,12 +15,12 @@ En proceso
 En proceso
 
 # Código
-En proceso
-
+Se ha utilizado Python como herramienta
+Agradecimiento código de otros
 # Datasets
 En proceso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MDg0OTM5MSwtMjY3Njk4NjA2LDU4MT
-I0ODk1OF19
+eyJoaXN0b3J5IjpbLTIwOTQ2MDIwOTYsLTI2NzY5ODYwNiw1OD
+EyNDg5NThdfQ==
 -->
