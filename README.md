@@ -1,9 +1,11 @@
 # Spotify Music Analysis in the coronavirus pandemic
 
 Tras escribir el artículo [¿Es Resistiré una de las canciones más escuchadas en España durante la cuarentena?](https://www.akakicreations.com/es-resistire-una-de-las-canciones-mas-escuchadas-en-espana-durante-la-cuarentena/) y encontrar datos interesantes y sobre todo curiosos, quise indagar en nuestro consumo de música en la pandemia del coronavirus en España. Este proyecto nace de una pregunta sencilla: **¿ha provocado la aparición del coronavirus un cambio en el tipo de música y estilo que se escucha en España?** Y concretamente me hago tres preguntas:
-1. ¿Ha provocado un cambio en el tipo de música que se escucha(más bailable, más instrumental
+1. ¿Ha provocado un cambio en el tipo de música que se escucha (más bailable, más instrumental, más enérgica...)
+2. ¿Ha provocado un cambio en el género de música que se escucha (pop, reggeaton...)?
+3. ¿Ha provocado un cambio en si se escuchan más canciones antiguas?
 
-Nos vamos a basar en datos que nos ofrece Spotify que es la plataforma con [mayor número de usuarios](https://es.statista.com/grafico/19793/usuarios-activos-y-de-pago-de-spotify/) de música en streaming. No es una muestra que pueda ser generalizable, pero si nos puede dar una idea de tendencias.
+Para esto, nos vamos a basar en datos que nos ofrece Spotify que es la plataforma con [mayor número de usuarios](https://es.statista.com/grafico/19793/usuarios-activos-y-de-pago-de-spotify/) de música en streaming. No es una muestra que pueda ser generalizable, pero si nos puede dar una idea de tendencias.
 
 # Fuentes de datos
 
@@ -28,6 +30,6 @@ Agradecimiento código de otros
 En proceso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1ODI4NDEzMCwtMjA5NDYwMjA5NiwtMj
-Y3Njk4NjA2LDU4MTI0ODk1OF19
+eyJoaXN0b3J5IjpbLTEyMjUwMTE0MzQsLTIwOTQ2MDIwOTYsLT
+I2NzY5ODYwNiw1ODEyNDg5NThdfQ==
 -->
