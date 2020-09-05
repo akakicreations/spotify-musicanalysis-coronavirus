@@ -5,7 +5,7 @@ Tras escribir el artículo [¿Es Resistiré una de las canciones más escuchadas
 2. ¿Ha provocado un cambio en el género de música que se escucha (pop, reggeaton...)?
 3. ¿Ha provocado un cambio en si se escuchan más canciones antiguas?
 
-Para esto, nos vamos a basar en datos que nos ofrece Spotify que es la plataforma con [mayor número de usuarios](https://es.statista.com/grafico/19793/usuarios-activos-y-de-pago-de-spotify/) de música en streaming. No es una muestra que pueda ser generalizable, pero si nos puede dar una idea de tendencias.
+Para esto, nos vamos a basar en datos que nos ofrece Spotify que es la plataforma con [mayor número de usuarios](https://es.statista.com/grafico/19793/usuarios-activos-y-de-pago-de-spotify/) de música en streaming. No es una muestra que pueda ser generalizable, pero si nos puede dar una idea de tendencias y posibles cambios de las mismas.
 
 # Fuentes de datos
 
@@ -14,7 +14,7 @@ Para esto, nos vamos a basar en datos que nos ofrece Spotify que es la plataform
  - La base de datos de [Spotify Chart](https://spotifycharts.com/regional) donde se pueden extraer las 200 canciones más escuchadas (top200) por día y los respectivos streams (reproducciones) de cada una, ya que este ranking se calcula por el número de veces que se escucha una canción.
 
 # Análisis
-Hay 4 Notebooks de Jupyters, bien documentados y se pueden leer en el siguiente orden para entender el proceso:
+Hay 4 Notebooks de Jupyter, bien documentados y que se pueden leer en el siguiente orden para entender el proceso:
 1. Data_ExtractionAndPreparation.ipynb
 2. Data_Analysis1_Features.ipynb
 3. Data_Analysis2_Genres.ipynb
@@ -25,11 +25,14 @@ En proceso
 
 # Código
 Se ha utilizado Python como herramienta
-Agradecimiento código de otros
+Agradecimiento código de otros:
+ - Para la extracción de datos de Spotify Top200Charts:
+ - En proceso
+
 # Datasets
 En proceso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjUwMTE0MzQsLTIwOTQ2MDIwOTYsLT
+eyJoaXN0b3J5IjpbLTEyNDU2NjgzNjMsLTIwOTQ2MDIwOTYsLT
 I2NzY5ODYwNiw1ODEyNDg5NThdfQ==
 -->
