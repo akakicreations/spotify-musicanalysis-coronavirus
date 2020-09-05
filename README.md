@@ -9,7 +9,11 @@ Tras escribir el artículo [¿Es Resistiré una de las canciones más escuchadas
  - La base de datos de [Spotify Chart](https://spotifycharts.com/regional) donde se pueden extraer las 200 canciones más escuchadas (top200) por día y los respectivos streams (reproducciones) de cada una, ya que este ranking se calcula por el número de veces que se escucha una canción.
 
 # Análisis
-En proceso
+Hay 4 Notebooks de Jupyters, con el proceso bien documento y se pueden leer en el siguiente orden:
+1. Data_ExtractionAndPreparation.ipynb
+2. Data_Analysis1_Features.ipynb
+3. Data_Analysis2_Genres.ipynb
+4. Data_Analysis3_Oldies.ipynb
 
 # Visualización
 En proceso
@@ -21,6 +25,6 @@ Agradecimiento código de otros
 En proceso
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTQ2MDIwOTYsLTI2NzY5ODYwNiw1OD
-EyNDg5NThdfQ==
+eyJoaXN0b3J5IjpbNTA0ODE5Mjc1LC0yMDk0NjAyMDk2LC0yNj
+c2OTg2MDYsNTgxMjQ4OTU4XX0=
 -->
