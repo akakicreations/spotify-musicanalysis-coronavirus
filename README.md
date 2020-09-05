@@ -32,7 +32,9 @@ Agradecimiento código de otros:
 # Datasets
 En proceso
 
+# Crédito
+En proceso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTgyMTQ0NTQsLTIwOTQ2MDIwOTYsLT
-I2NzY5ODYwNiw1ODEyNDg5NThdfQ==
+eyJoaXN0b3J5IjpbMTgzMDc1MzUzLC0yMDk0NjAyMDk2LC0yNj
+c2OTg2MDYsNTgxMjQ4OTU4XX0=
 -->
