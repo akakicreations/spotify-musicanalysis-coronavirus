@@ -24,18 +24,18 @@ Hay 4 Notebooks de Jupyter, bien documentados y que se pueden leer en el siguien
 En proceso
 
 # Código
-Se ha utilizado Python y Jupyter Bottcomo herramienta
-Agradecimiento código de otros:
+Se ha utilizado Python y Jupyter Notebook como herramienta principal y para ciertas visualizaciones Tableau.
+Agradecimiento código de terceros:
  - Para la extracción de datos de Spotify Top200Charts: https://github.com/kelvingakuo/fycharts, thanks to [kelvingakuo](https://github.com/kelvingakuo)/
  - Para la extracción de datos de API Spotify:
 
 # Datasets
 En proceso
 
-# Crédito
+# Créditos
 En proceso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzgxMDkzNzUsNDIwNjcwOTk3LDE4Mz
-A3NTM1MywtMjA5NDYwMjA5NiwtMjY3Njk4NjA2LDU4MTI0ODk1
-OF19
+eyJoaXN0b3J5IjpbMTkwNDMzMDEyNSw0MjA2NzA5OTcsMTgzMD
+c1MzUzLC0yMDk0NjAyMDk2LC0yNjc2OTg2MDYsNTgxMjQ4OTU4
+XX0=
 -->
