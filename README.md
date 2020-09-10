@@ -27,7 +27,7 @@ En proceso
 Se ha utilizado Python y Jupyter Notebook como herramienta principal y para ciertas visualizaciones Tableau.
 Agradecimiento código de terceros:
  - Para la extracción de datos de Spotify Top200Charts: https://github.com/kelvingakuo/fycharts, thanks to [kelvingakuo](https://github.com/kelvingakuo)/
- - Para la extracción de datos de API Spotify:
+ - Para la extracción de datos de API Spotify: [morioh](https://morioh.com/p/31b8a607b2b0)/ 
 
 # Datasets
 En proceso
@@ -35,7 +35,7 @@ En proceso
 # Créditos
 En proceso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNDMzMDEyNSw0MjA2NzA5OTcsMTgzMD
-c1MzUzLC0yMDk0NjAyMDk2LC0yNjc2OTg2MDYsNTgxMjQ4OTU4
-XX0=
+eyJoaXN0b3J5IjpbNzI2MzcyODk5LDQyMDY3MDk5NywxODMwNz
+UzNTMsLTIwOTQ2MDIwOTYsLTI2NzY5ODYwNiw1ODEyNDg5NThd
+fQ==
 -->
