@@ -2,8 +2,8 @@
 
 Tras escribir el artículo [¿Es Resistiré una de las canciones más escuchadas en España durante la cuarentena?](https://www.akakicreations.com/es-resistire-una-de-las-canciones-mas-escuchadas-en-espana-durante-la-cuarentena/) y encontrar datos interesantes y sobre todo curiosos, quise indagar en nuestro consumo de música en la pandemia del coronavirus en España. Este proyecto nace de una pregunta sencilla: **¿ha provocado la aparición del coronavirus un cambio en el tipo de música y estilo que se escucha en España?** Y concretamente me hago tres preguntas:
 1. ¿Ha provocado un cambio en el tipo de música que se escucha (más bailable, más instrumental, más enérgica...)
-2. ¿Ha provocado un cambio en el género de música que se escucha (pop, reggeaton...)?
-3. ¿Ha provocado un cambio en si se escuchan más canciones antiguas?
+2. ¿Ha provocado un cambio en el género de música que se escucha (pop, reggaeton...)?
+3. ¿Ha provocado un cambio en si se escuchan más éxitos antiguos?
 
 Para esto, nos vamos a basar en datos que nos ofrece Spotify que es la plataforma con [mayor número de usuarios](https://es.statista.com/grafico/19793/usuarios-activos-y-de-pago-de-spotify/) de música en streaming. No es una muestra que pueda ser generalizable, pero si nos puede dar una idea de tendencias y posibles cambios de las mismas.
 
@@ -14,7 +14,7 @@ Para esto, nos vamos a basar en datos que nos ofrece Spotify que es la plataform
  - La base de datos de [Spotify Chart](https://spotifycharts.com/regional) donde se pueden extraer las 200 canciones más escuchadas (top200) por día y los respectivos streams (reproducciones) de cada una, ya que este ranking se calcula por el número de veces que se escucha una canción.
 
 # Análisis
-Hay 4 Notebooks de Jupyter, bien documentados y que se pueden leer en el siguiente orden para entender el proceso de análisis:
+Hay 4 Notebooks de Jupyter, bien documentados y que se pueden leer en el siguiente orden para entender el proceso de análisis y hasta donde se ha llegado:
 1. Data_ExtractionAndPreparation.ipynb
 2. Data_Analysis1_Features.ipynb
 3. Data_Analysis2_Genres.ipynb
@@ -35,6 +35,7 @@ En proceso
 # Crédito
 En proceso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIwNjcwOTk3LDE4MzA3NTM1MywtMjA5ND
-YwMjA5NiwtMjY3Njk4NjA2LDU4MTI0ODk1OF19
+eyJoaXN0b3J5IjpbLTM0MjQ1OTA5Nyw0MjA2NzA5OTcsMTgzMD
+c1MzUzLC0yMDk0NjAyMDk2LC0yNjc2OTg2MDYsNTgxMjQ4OTU4
+XX0=
 -->
