@@ -4,6 +4,7 @@ Tras escribir el artículo [¿Es Resistiré una de las canciones más escuchadas
 1. ¿Ha provocado un cambio en el tipo de música que se escucha (más bailable, más instrumental, más enérgica...)
 2. ¿Ha provocado un cambio en el género de música que se escucha (pop, reggaeton...)?
 3. ¿Ha provocado un cambio en si se escuchan más éxitos antiguos?
+4.  ¿Qué tipo de música contienen las playlists que se han creado para el tiempo de pandemia?
 
 Para esto, nos vamos a basar en datos que nos ofrece Spotify que es la plataforma con [mayor número de usuarios](https://es.statista.com/grafico/19793/usuarios-activos-y-de-pago-de-spotify/) de música en streaming. No es una muestra que pueda ser generalizable, pero si nos puede dar una idea de tendencias y posibles cambios de las mismas.
 
@@ -35,7 +36,7 @@ En proceso
 # Créditos
 En proceso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI2MzcyODk5LDQyMDY3MDk5NywxODMwNz
-UzNTMsLTIwOTQ2MDIwOTYsLTI2NzY5ODYwNiw1ODEyNDg5NThd
-fQ==
+eyJoaXN0b3J5IjpbMTQ0OTQ3MTE3Nyw3MjYzNzI4OTksNDIwNj
+cwOTk3LDE4MzA3NTM1MywtMjA5NDYwMjA5NiwtMjY3Njk4NjA2
+LDU4MTI0ODk1OF19
 -->
