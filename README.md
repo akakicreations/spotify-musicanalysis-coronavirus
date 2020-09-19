@@ -46,11 +46,6 @@ Para las visualizaciones de datos se han utilizado múltiples herramientas, que 
 Estos son algunos ejemplos de gráficos realizados y que se encuentran en los Notebooks:
 
 
-
-# Código
-
-
-
 # Datasets
 En el proceso de extracción análisis se han creado los siguientes datasets de losa ue explico su contenido.
 
@@ -66,9 +61,11 @@ En el proceso de extracción análisis se han creado los siguientes datasets de 
 	- data_ana_coronaperiod.csv
 	- data_ana_normalperiod.csv
 	- data_ana_coronaperiod_withgenres.csv
-- Datos con las canciones de las playlists seleccionadas en diferentes tamaños de paquetesy relacionadas con el coronavirus:
+- Datos con las canciones de las playlists del 2020 y 2019 en diferentes tamaños de paquetes:
 	- data_ana_playlist_songs100.csv
-
+	- data_ana_playlist_songs10000.csv
+	- data_ana_playlist_songs100_2019.csv
+	
 # Código y créditos
 
 Se ha utilizado Python y Jupyter Notebook como herramienta principal y para ciertas visualizaciones Tableau.
@@ -78,7 +75,7 @@ Agradezco el código de otras personas y que yo he reutilizado y adaptado, seña
  - Para la extracción de datos de API Spotify: thanks to [morioh](https://morioh.com/p/31b8a607b2b0)
  - Para la extracción de datos de API Spotify: [Github](https://gist.github.com/ilias1111/e503bbab0a98c20377686cc75ffad451), thanks to [ilias1111](https://github.com/ilias1111)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNjc0ODMyNCwtNDk0NDkxMDQ5LDE0ND
-k0NzExNzcsNzI2MzcyODk5LDQyMDY3MDk5NywxODMwNzUzNTMs
-LTIwOTQ2MDIwOTYsLTI2NzY5ODYwNiw1ODEyNDg5NThdfQ==
+eyJoaXN0b3J5IjpbNTE1NzEwNzg4LC00OTQ0OTEwNDksMTQ0OT
+Q3MTE3Nyw3MjYzNzI4OTksNDIwNjcwOTk3LDE4MzA3NTM1Mywt
+MjA5NDYwMjA5NiwtMjY3Njk4NjA2LDU4MTI0ODk1OF19
 -->
