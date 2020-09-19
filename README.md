@@ -10,7 +10,9 @@ Para esto, nos vamos a basar en datos que nos ofrece Spotify que es la plataform
 
 # Recomendaciones previas
 
+Para poder ejecutar todos los notebooks del proyecto, se recomienda usar el entorno conda que se proporciona en el fichero environment_tfm.yml
 
+Para la creación del entorno ejecutar:
 
 # Fuentes de datos
 
@@ -23,8 +25,8 @@ Hay 4 Notebooks de Jupyter, bien documentados, guiados y explicando todo el proc
 1. [Data_ExtractionAndPreparation.ipynb](Data_ExtractionAndPreparation.ipynb): Extracción y preparación de los datasets que luego se usarán en los análisis
 2. [Data_Analysis1_Features.ipynb](Data_Analysis1_Features.ipynb): Primer análisis para responder a la primera pregunta: ¿ha habido un cambio en el tipo de música?
 3. [Data_Analysis2_Genres.ipynb](Data_Analysis2_genres.ipynb): Segundo análisis para responder a la segunda pregunta: ¿un cambio en el género de música?
-4. [Data_Analysis3_Oldies.ipynb](Data_Analysis3_oldies.ipynb): Tercer análisis para responder a la tercera pregunta: ¿un cambio en cantidad de éxitos antiguos?
-5. [Data_Analysis4Extra_Playlists.ipynb](Data_Analysis4Extra_Playlists.ipynb)
+4. [Data_Analysis3_Oldies.ipynb](Data_Analysis3_oldies.ipynb): Tercer análisis para responder a la tercera pregunta: ¿un cambio en cantidad de éxitos antiguos escuchados?
+5. [Data_Analysis4Extra_Playlists.ipynb](Data_Analysis4Extra_Playlists.ipynb): Cuarto análisis que es una extensión del primero para responder mejor y desde otro dataset a la pregunta: ¿ha habido un cambio en el tipo de música?
 
 # Visualización
 En proceso
@@ -41,7 +43,7 @@ En proceso
 # Créditos
 En proceso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI5OTY5NjgxLDE0NDk0NzExNzcsNzI2Mz
-cyODk5LDQyMDY3MDk5NywxODMwNzUzNTMsLTIwOTQ2MDIwOTYs
-LTI2NzY5ODYwNiw1ODEyNDg5NThdfQ==
+eyJoaXN0b3J5IjpbMTY2NDIxMDc3NCwxNDQ5NDcxMTc3LDcyNj
+M3Mjg5OSw0MjA2NzA5OTcsMTgzMDc1MzUzLC0yMDk0NjAyMDk2
+LC0yNjc2OTg2MDYsNTgxMjQ4OTU4XX0=
 -->
