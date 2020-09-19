@@ -83,8 +83,10 @@ Agradezco el código de otras personas y que yo he reutilizado y adaptado, seña
  - Para la extracción de datos de Spotify Top200Charts: https://github.com/kelvingakuo/fycharts, thanks to [kelvingakuo](https://github.com/kelvingakuo)/
  - Para la extracción de datos de API Spotify: thanks to [morioh](https://morioh.com/p/31b8a607b2b0)
  - Otra mucha documentación sobre extracción de datos de la API de Spotify en internet
+
+#
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTcyNDIwNCwyMzkxNDU4MTUsODY0Nj
+eyJoaXN0b3J5IjpbMTAwMTYwMzQyNSwyMzkxNDU4MTUsODY0Nj
 cxODI4LDkxMTM4NzkyNiwtMTUwMTAyMzksNjMyODIxOTUwLDUx
 NTcxMDc4OCwtNDk0NDkxMDQ5LDE0NDk0NzExNzcsNzI2MzcyOD
 k5LDQyMDY3MDk5NywxODMwNzUzNTMsLTIwOTQ2MDIwOTYsLTI2
