@@ -44,8 +44,11 @@ Al final de cada Notebook hay unas conclusiones para responder claramente a cada
 Para las visualizaciones de datos se han utilizado múltiples herramientas, que se pueden ejecutar desde los propios Notebooks (Pyplot, Seaborn, Altair) y desde fuera (Tableau), que he dejado loa archivos también en la carpeta [tableau_graph_and_analysis](tableau_graph_and_analysis)
 
 Estos son algunos ejemplos de gráficos realizados y que se encuentran en los Notebooks:
-Comparación de Fe
+
+### Comparación de Features de canciones en diferentes playlist:
 ![enter image description here](tableau_graph_and_analysis/dashboard_playlist.png)
+### Comparación de cantidad de música antigua escuchada en diferentes periodos:
+### Comparación de Features de canciones en diferentes playlist:
 # Datasets
 En el proceso de extracción análisis se han creado los siguientes datasets de losa ue explico su contenido.
 
@@ -75,8 +78,8 @@ Agradezco el código de otras personas y que yo he reutilizado y adaptado, seña
  - Para la extracción de datos de API Spotify: thanks to [morioh](https://morioh.com/p/31b8a607b2b0)
  - Para la extracción de datos de API Spotify: [Github](https://gist.github.com/ilias1111/e503bbab0a98c20377686cc75ffad451), thanks to [ilias1111](https://github.com/ilias1111)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjM1OTMyMCw2MzI4MjE5NTAsNTE1Nz
-EwNzg4LC00OTQ0OTEwNDksMTQ0OTQ3MTE3Nyw3MjYzNzI4OTks
-NDIwNjcwOTk3LDE4MzA3NTM1MywtMjA5NDYwMjA5NiwtMjY3Nj
-k4NjA2LDU4MTI0ODk1OF19
+eyJoaXN0b3J5IjpbLTE2MTQ4MzIzOTUsNjMyODIxOTUwLDUxNT
+cxMDc4OCwtNDk0NDkxMDQ5LDE0NDk0NzExNzcsNzI2MzcyODk5
+LDQyMDY3MDk5NywxODMwNzUzNTMsLTIwOTQ2MDIwOTYsLTI2Nz
+Y5ODYwNiw1ODEyNDg5NThdfQ==
 -->
