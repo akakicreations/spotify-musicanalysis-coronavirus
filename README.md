@@ -47,8 +47,12 @@ Estos son algunos ejemplos de gráficos realizados y que se encuentran en los No
 
 ### Comparación de Features de canciones en diferentes playlist:
 ![enter image description here](tableau_graph_and_analysis/dashboard_playlist.png)
+### Tendencias de las features de todas las canciones en los años 2017-2020 y para diferentes periodos:
+[enter link description here](images_features_distribution/graph_oldies.png)
+
 ### Comparación de cantidad de música antigua escuchada en diferentes periodos:
-### Comparación de Features de canciones en diferentes playlist:
+[enter link description here](images_features_distribution/graph_oldies.png)
+
 # Datasets
 En el proceso de extracción análisis se han creado los siguientes datasets de losa ue explico su contenido.
 
@@ -78,7 +82,7 @@ Agradezco el código de otras personas y que yo he reutilizado y adaptado, seña
  - Para la extracción de datos de API Spotify: thanks to [morioh](https://morioh.com/p/31b8a607b2b0)
  - Para la extracción de datos de API Spotify: [Github](https://gist.github.com/ilias1111/e503bbab0a98c20377686cc75ffad451), thanks to [ilias1111](https://github.com/ilias1111)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTQ4MzIzOTUsNjMyODIxOTUwLDUxNT
+eyJoaXN0b3J5IjpbLTE2NjMzODQ2MjMsNjMyODIxOTUwLDUxNT
 cxMDc4OCwtNDk0NDkxMDQ5LDE0NDk0NzExNzcsNzI2MzcyODk5
 LDQyMDY3MDk5NywxODMwNzUzNTMsLTIwOTQ2MDIwOTYsLTI2Nz
 Y5ODYwNiw1ODEyNDg5NThdfQ==
