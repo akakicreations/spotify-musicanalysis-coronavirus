@@ -38,7 +38,9 @@ Hay 4 Notebooks de Jupyter, bien documentados, guiados y explicando todo el proc
 Al final de cada Notebook hay unas conclusiones. Estas conclusiones y un resumen se compartirán en un artículo pendiente de escribir.
 
 # Visualización
-En proceso
+
+Para las visualizaciones de datos se han utilizado múltiples herramientas, que se pueden ejecutar desde los propios Notebooks (
+Estos son algunos ejemplos de gráficos realizados y que se encuentran en los Notebooks.
 
 # Código
 Se ha utilizado Python y Jupyter Notebook como herramienta principal y para ciertas visualizaciones Tableau.
@@ -52,7 +54,7 @@ En proceso
 # Créditos
 En proceso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MDY1NzI0MCwtNDk0NDkxMDQ5LDE0ND
-k0NzExNzcsNzI2MzcyODk5LDQyMDY3MDk5NywxODMwNzUzNTMs
-LTIwOTQ2MDIwOTYsLTI2NzY5ODYwNiw1ODEyNDg5NThdfQ==
+eyJoaXN0b3J5IjpbNTQ1MTkwOTM1LC00OTQ0OTEwNDksMTQ0OT
+Q3MTE3Nyw3MjYzNzI4OTksNDIwNjcwOTk3LDE4MzA3NTM1Mywt
+MjA5NDYwMjA5NiwtMjY3Njk4NjA2LDU4MTI0ODk1OF19
 -->
