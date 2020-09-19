@@ -20,11 +20,11 @@ Para esto, nos vamos a basar en datos que nos ofrece Spotify que es la plataform
 
 # Análisis y orden de lectura
 Hay 4 Notebooks de Jupyter, bien documentados y explicando todo el proceso y es recomendable que se lean en el siguiente orden :
-1. [Data_ExtractionAndPreparation.ipynb](Data_ExtractionAndPreparation.ipynb): 
-2. [Data_Analysis1_Features.ipynb](Data_Analysis1_Features.ipynb)
+1. [Data_ExtractionAndPreparation.ipynb](Data_ExtractionAndPreparation.ipynb): Extracción y preparación de los datasets que luego se usarán en los análisis
+2. [Data_Analysis1_Features.ipynb](Data_Analysis1_Features.ipynb): Primer análisis para responder a la primera pregunta: ¿cambio en el tipo de música
 3. [Data_Analysis2_Genres.ipynb](Data_Analysis2_genres.ipynb)
 4. [Data_Analysis3_Oldies.ipynb](Data_Analysis3_oldies.ipynb)
-5. dasd
+5. [Data_Analysis4Extra_Playlists.ipynb](Data_Analysis4Extra_Playlists.ipynb)
 
 # Visualización
 En proceso
@@ -41,7 +41,7 @@ En proceso
 # Créditos
 En proceso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMDkxNTExMCwxNDQ5NDcxMTc3LDcyNj
+eyJoaXN0b3J5IjpbMTAzNDQ5NjcxNywxNDQ5NDcxMTc3LDcyNj
 M3Mjg5OSw0MjA2NzA5OTcsMTgzMDc1MzUzLC0yMDk0NjAyMDk2
 LC0yNjc2OTg2MDYsNTgxMjQ4OTU4XX0=
 -->
