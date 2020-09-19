@@ -1,10 +1,10 @@
 # Spotify Music Analysis before and after coronavirus pandemic
 
-Tras escribir el artículo [¿Es Resistiré una de las canciones más escuchadas en España durante la cuarentena?](https://www.akakicreations.com/es-resistire-una-de-las-canciones-mas-escuchadas-en-espana-durante-la-cuarentena/) y encontrar datos interesantes y sobre todo curiosos, quise indagar en nuestro consumo de música en la pandemia del coronavirus en España. Este proyecto nace de una pregunta sencilla: **¿ha provocado la aparición del coronavirus un cambio en el tipo de música y estilo que se escucha en España?** Y concretamente me hago tres preguntas:
+Tras escribir el artículo [¿Es Resistiré una de las canciones más escuchadas en España durante la cuarentena?](https://www.akakicreations.com/es-resistire-una-de-las-canciones-mas-escuchadas-en-espana-durante-la-cuarentena/) y encontrar datos interesantes y sobre todo curiosos, quise indagar en nuestro consumo de música en la pandemia del coronavirus en España. Este proyecto nace de una pregunta sencilla: **¿ha provocado la aparición del coronavirus un cambio en el tipo de música y estilo que se escucha en España?, ¿ha cambiado la música escuchada durante el confinamiento?** Y concretamente me hago cuatro preguntas:
 1. ¿Ha provocado un cambio en el tipo de música que se escucha (más bailable, más instrumental, más enérgica...)
 2. ¿Ha provocado un cambio en el género de música que se escucha (pop, reggaeton...)?
 3. ¿Ha provocado un cambio en si se escuchan más éxitos antiguos?
-4.  ¿Qué tipo de música contienen las playlists que se han creado para el tiempo de pandemia?
+4.  ¿Qué tipo de música contienen las playlists que se han creado para el tiempo de pandemia?, ¿hay un cambio?
 
 Para esto, nos vamos a basar en datos que nos ofrece Spotify que es la plataforma con [mayor número de usuarios](https://es.statista.com/grafico/19793/usuarios-activos-y-de-pago-de-spotify/) de música en streaming. No es una muestra que pueda ser generalizable, pero si nos puede dar una idea de tendencias y posibles cambios de las mismas.
 
@@ -36,7 +36,7 @@ En proceso
 # Créditos
 En proceso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0OTQ3MTE3Nyw3MjYzNzI4OTksNDIwNj
-cwOTk3LDE4MzA3NTM1MywtMjA5NDYwMjA5NiwtMjY3Njk4NjA2
-LDU4MTI0ODk1OF19
+eyJoaXN0b3J5IjpbLTMyNTQ5NTYyNSwxNDQ5NDcxMTc3LDcyNj
+M3Mjg5OSw0MjA2NzA5OTcsMTgzMDc1MzUzLC0yMDk0NjAyMDk2
+LC0yNjc2OTg2MDYsNTgxMjQ4OTU4XX0=
 -->
