@@ -14,9 +14,9 @@ Para esto, nos vamos a basar en datos que nos ofrece Spotify que es la plataform
    
  - La base de datos de [Spotify Chart](https://spotifycharts.com/regional) donde se pueden extraer las 200 canciones más escuchadas (top200) por día y los respectivos streams (reproducciones) de cada una, ya que este ranking se calcula por el número de veces que se escucha una canción.
 
-# Análisis
-Hay 4 Notebooks de Jupyter, bien documentados y que se pueden leer en el siguiente orden para entender el proceso de análisis y hasta donde se ha llegado:
-1. Data_ExtractionAndPreparation.ipynb
+# Análisis y orden de lectura
+Hay 4 Notebooks de Jupyter, bien documentados y explicando todo el proceso y es recomendable que se lean en el siguiente orden :
+1. Data_ExtractionAndPreparation.ipynb 
 2. Data_Analysis1_Features.ipynb
 3. Data_Analysis2_Genres.ipynb
 4. Data_Analysis3_Oldies.ipynb
@@ -36,7 +36,7 @@ En proceso
 # Créditos
 En proceso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNTQ5NTYyNSwxNDQ5NDcxMTc3LDcyNj
+eyJoaXN0b3J5IjpbMTQ1MDQ3NDM2MiwxNDQ5NDcxMTc3LDcyNj
 M3Mjg5OSw0MjA2NzA5OTcsMTgzMDc1MzUzLC0yMDk0NjAyMDk2
 LC0yNjc2OTg2MDYsNTgxMjQ4OTU4XX0=
 -->
