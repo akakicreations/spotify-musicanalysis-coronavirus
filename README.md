@@ -1,9 +1,9 @@
 ![enter image description here](images_features_distribution/portada_spotify_coronavirus_analysis.png)
 # Spotify Music Analysis before and during coronavirus pandemic
 
-Tras escribir el artículo [¿Es Resistiré una de las canciones más escuchadas en España durante la cuarentena?](https://www.akakicreations.com/es-resistire-una-de-las-canciones-mas-escuchadas-en-espana-durante-la-cuarentena/) y encontrar datos interesantes y sobre todo curiosos, quise indagar en nuestro consumo de música el confinamiento por la pandemia del coronavirus en España, en Marzo de 2020. Este proyecto nace de una pregunta sencilla: **¿ha provocado la aparición del coronavirus un cambio en el tipo de música y estilo que se escucha en España?, ¿ha cambiado la música escuchada durante el confinamiento?** Y concretamente me hago cuatro preguntas:
+Tras escribir el artículo [¿Es Resistiré una de las canciones más escuchadas en España durante la cuarentena?](https://www.akakicreations.com/es-resistire-una-de-las-canciones-mas-escuchadas-en-espana-durante-la-cuarentena/) y encontrar datos interesantes y sobre todo curiosos, quise indagar en nuestro consumo de música durante confinamiento por la pandemia del coronavirus en España, en Marzo de 2020. Este proyecto nace de una pregunta sencilla: **¿provocó la aparición del coronavirus un cambio en el tipo de música que se escuchó en España durante el confinamiento?** Y concretamente me hago cuatro preguntas:
 1. ¿Provocó el confinamiento un cambio en el tipo de música que se escuchó (más bailable, más instrumental, más enérgica...)
-2. ¿Provocó el confinamiento un cambio en el género de música que se escuchó (pop, reggaeton...)?
+2. ¿Provocó el confinamiento un cambio en el género de música que se escuchó (pop, dance, reggaeton...)?
 3. ¿Provocó el confinamiento un cambio en si se escucharon más éxitos antiguos?
 4.  ¿Qué tipo de música contienen las playlists que se han crearon durante el confinamiento?, ¿hay un cambio respecto a otras playslist?
 
@@ -88,9 +88,9 @@ Agradezco el código de otras personas y que yo he reutilizado y adaptado, seña
 
 ![enter image description here](images_features_distribution/giphy_rock.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MzY4NjQ1OSwyMzkxNDU4MTUsODY0Nj
-cxODI4LDkxMTM4NzkyNiwtMTUwMTAyMzksNjMyODIxOTUwLDUx
-NTcxMDc4OCwtNDk0NDkxMDQ5LDE0NDk0NzExNzcsNzI2MzcyOD
-k5LDQyMDY3MDk5NywxODMwNzUzNTMsLTIwOTQ2MDIwOTYsLTI2
-NzY5ODYwNiw1ODEyNDg5NThdfQ==
+eyJoaXN0b3J5IjpbNjE5NzQ2NTk5LC02NzM2ODY0NTksMjM5MT
+Q1ODE1LDg2NDY3MTgyOCw5MTEzODc5MjYsLTE1MDEwMjM5LDYz
+MjgyMTk1MCw1MTU3MTA3ODgsLTQ5NDQ5MTA0OSwxNDQ5NDcxMT
+c3LDcyNjM3Mjg5OSw0MjA2NzA5OTcsMTgzMDc1MzUzLC0yMDk0
+NjAyMDk2LC0yNjc2OTg2MDYsNTgxMjQ4OTU4XX0=
 -->
