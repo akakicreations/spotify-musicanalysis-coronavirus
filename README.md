@@ -19,11 +19,11 @@ Para esto, nos vamos a basar en datos que nos ofrece Spotify que es la plataform
  - La base de datos de [Spotify Chart](https://spotifycharts.com/regional) donde se pueden extraer las 200 canciones más escuchadas (top200) por día y los respectivos streams (reproducciones) de cada una, ya que este ranking se calcula por el número de veces que se escucha una canción.
 
 # Análisis y orden de lectura
-Hay 4 Notebooks de Jupyter, bien documentados y explicando todo el proceso y es recomendable que se lean en el siguiente orden :
+Hay 4 Notebooks de Jupyter, bien documentados, guiados y explicando todo el proceso. Es recomendable que se lean en el siguiente orden:
 1. [Data_ExtractionAndPreparation.ipynb](Data_ExtractionAndPreparation.ipynb): Extracción y preparación de los datasets que luego se usarán en los análisis
-2. [Data_Analysis1_Features.ipynb](Data_Analysis1_Features.ipynb): Primer análisis para responder a la primera pregunta: ¿cambio en el tipo de música
-3. [Data_Analysis2_Genres.ipynb](Data_Analysis2_genres.ipynb)
-4. [Data_Analysis3_Oldies.ipynb](Data_Analysis3_oldies.ipynb)
+2. [Data_Analysis1_Features.ipynb](Data_Analysis1_Features.ipynb): Primer análisis para responder a la primera pregunta: ¿ha habido un cambio en el tipo de música?
+3. [Data_Analysis2_Genres.ipynb](Data_Analysis2_genres.ipynb): Segundo análisis para responder a la segunda pregunta: ¿un cambio en el género de música?
+4. [Data_Analysis3_Oldies.ipynb](Data_Analysis3_oldies.ipynb): Tercer análisis para responder a la tercera pregunta: ¿un cambio en cantidad de éxitos antiguos?
 5. [Data_Analysis4Extra_Playlists.ipynb](Data_Analysis4Extra_Playlists.ipynb)
 
 # Visualización
@@ -41,7 +41,7 @@ En proceso
 # Créditos
 En proceso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNDQ5NjcxNywxNDQ5NDcxMTc3LDcyNj
-M3Mjg5OSw0MjA2NzA5OTcsMTgzMDc1MzUzLC0yMDk0NjAyMDk2
-LC0yNjc2OTg2MDYsNTgxMjQ4OTU4XX0=
+eyJoaXN0b3J5IjpbNTI5OTY5NjgxLDE0NDk0NzExNzcsNzI2Mz
+cyODk5LDQyMDY3MDk5NywxODMwNzUzNTMsLTIwOTQ2MDIwOTYs
+LTI2NzY5ODYwNiw1ODEyNDg5NThdfQ==
 -->
