@@ -10,6 +10,10 @@ Para esto, nos vamos a basar en datos que nos ofrece Spotify que es la plataform
 
 # Recomendaciones previas
 
+Este proyecto no requiere instalaciones y entornos concretos aunque se recomienda que se ejecute en linuex. 
+Los paquetes más concretos que se necesitan para ejecutar correctamente los notebooks son:
+
+Altaru
 Para poder ejecutar todos los notebooks del proyecto, se recomienda usar el entorno conda que se proporciona en el fichero environment_tfm.yml
 
 Para la creación del entorno ejecutar:
@@ -43,7 +47,7 @@ En proceso
 # Créditos
 En proceso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDIxMDc3NCwxNDQ5NDcxMTc3LDcyNj
-M3Mjg5OSw0MjA2NzA5OTcsMTgzMDc1MzUzLC0yMDk0NjAyMDk2
-LC0yNjc2OTg2MDYsNTgxMjQ4OTU4XX0=
+eyJoaXN0b3J5IjpbLTIxMDA0NzU0OTcsMTQ0OTQ3MTE3Nyw3Mj
+YzNzI4OTksNDIwNjcwOTk3LDE4MzA3NTM1MywtMjA5NDYwMjA5
+NiwtMjY3Njk4NjA2LDU4MTI0ODk1OF19
 -->
