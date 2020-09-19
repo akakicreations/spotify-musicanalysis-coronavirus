@@ -16,8 +16,8 @@ Para esto, nos vamos a basar en datos que nos ofrece Spotify que es la plataform
 
 # Análisis y orden de lectura
 Hay 4 Notebooks de Jupyter, bien documentados y explicando todo el proceso y es recomendable que se lean en el siguiente orden :
-1. Data_ExtractionAndPreparation.ipynb 
-2. Data_Analysis1_Features.ipynb
+1. [Data_ExtractionAndPreparation.ipynb](Data_ExtractionAndPreparation.ipynb): 
+2. [Data_Analysis1_Features.ipynb](Data_Analysis1_Features.ipynb)
 3. Data_Analysis2_Genres.ipynb
 4. Data_Analysis3_Oldies.ipynb
 
@@ -36,7 +36,7 @@ En proceso
 # Créditos
 En proceso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MDQ3NDM2MiwxNDQ5NDcxMTc3LDcyNj
-M3Mjg5OSw0MjA2NzA5OTcsMTgzMDc1MzUzLC0yMDk0NjAyMDk2
-LC0yNjc2OTg2MDYsNTgxMjQ4OTU4XX0=
+eyJoaXN0b3J5IjpbNTA3MDU2NzAwLDE0NDk0NzExNzcsNzI2Mz
+cyODk5LDQyMDY3MDk5NywxODMwNzUzNTMsLTIwOTQ2MDIwOTYs
+LTI2NzY5ODYwNiw1ODEyNDg5NThdfQ==
 -->
