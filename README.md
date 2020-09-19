@@ -8,6 +8,10 @@ Tras escribir el artículo [¿Es Resistiré una de las canciones más escuchadas
 
 Para esto, nos vamos a basar en datos que nos ofrece Spotify que es la plataforma con [mayor número de usuarios](https://es.statista.com/grafico/19793/usuarios-activos-y-de-pago-de-spotify/) de música en streaming. No es una muestra que pueda ser generalizable, pero si nos puede dar una idea de tendencias y posibles cambios de las mismas.
 
+# Recomendaciones previas
+
+
+
 # Fuentes de datos
 
  - Fuente de datos que ofrece la [API de Spotify](https://developer.spotify.com/documentation/web-api/) de la que se pueden sacar las características y features de todas las canciones disponibles en Spotify.
@@ -18,8 +22,9 @@ Para esto, nos vamos a basar en datos que nos ofrece Spotify que es la plataform
 Hay 4 Notebooks de Jupyter, bien documentados y explicando todo el proceso y es recomendable que se lean en el siguiente orden :
 1. [Data_ExtractionAndPreparation.ipynb](Data_ExtractionAndPreparation.ipynb): 
 2. [Data_Analysis1_Features.ipynb](Data_Analysis1_Features.ipynb)
-3. Data_Analysis2_Genres.ipynb
-4. Data_Analysis3_Oldies.ipynb
+3. [Data_Analysis2_Genres.ipynb](Data_Analysis2_genres.ipynb)
+4. [Data_Analysis3_Oldies.ipynb](Data_Analysis3_oldies.ipynb)
+5. dasd
 
 # Visualización
 En proceso
@@ -36,7 +41,7 @@ En proceso
 # Créditos
 En proceso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA3MDU2NzAwLDE0NDk0NzExNzcsNzI2Mz
-cyODk5LDQyMDY3MDk5NywxODMwNzUzNTMsLTIwOTQ2MDIwOTYs
-LTI2NzY5ODYwNiw1ODEyNDg5NThdfQ==
+eyJoaXN0b3J5IjpbLTUzMDkxNTExMCwxNDQ5NDcxMTc3LDcyNj
+M3Mjg5OSw0MjA2NzA5OTcsMTgzMDc1MzUzLC0yMDk0NjAyMDk2
+LC0yNjc2OTg2MDYsNTgxMjQ4OTU4XX0=
 -->
