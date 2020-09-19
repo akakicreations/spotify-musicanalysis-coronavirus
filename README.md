@@ -32,7 +32,7 @@ También se ha usado Tableau para la visualización de ciertos análisis y que i
 # Análisis y orden de lectura
 Hay 4 Notebooks de Jupyter, bien documentados, guiados y explicando todo el proceso. También he dejado en una carpeta los notebooks en formato HTML con todas las celdas ejecutadas por si se quiere ver completo sin usar Jupyter
 
-Los notebooks o HTMLSs es recomendable que se lean en el siguiente orden:
+Los notebooks o HTMLs es recomendable que se lean en el siguiente orden:
 1. [Data_ExtractionAndPreparation.ipynb](Data_ExtractionAndPreparation.ipynb): Extracción y preparación de los datasets que luego se usarán en los análisis
 2. [Data_Analysis1_Features.ipynb](Data_Analysis1_Features.ipynb): Primer análisis para responder a la primera pregunta: ¿ha habido un cambio en el tipo de música?
 3. [Data_Analysis2_Genres.ipynb](Data_Analysis2_genres.ipynb): Segundo análisis para responder a la segunda pregunta: ¿un cambio en el género de música?
@@ -83,8 +83,8 @@ Agradezco el código de otras personas y que yo he reutilizado y adaptado, seña
  - Para la extracción de datos de API Spotify: thanks to [morioh](https://morioh.com/p/31b8a607b2b0)
  - Para la extracción de datos de API Spotify: [Github](https://gist.github.com/ilias1111/e503bbab0a98c20377686cc75ffad451), thanks to [ilias1111](https://github.com/ilias1111)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NzgxNTY4MywtMTUwMTAyMzksNjMyOD
-IxOTUwLDUxNTcxMDc4OCwtNDk0NDkxMDQ5LDE0NDk0NzExNzcs
-NzI2MzcyODk5LDQyMDY3MDk5NywxODMwNzUzNTMsLTIwOTQ2MD
-IwOTYsLTI2NzY5ODYwNiw1ODEyNDg5NThdfQ==
+eyJoaXN0b3J5IjpbOTExMzg3OTI2LC0xNTAxMDIzOSw2MzI4Mj
+E5NTAsNTE1NzEwNzg4LC00OTQ0OTEwNDksMTQ0OTQ3MTE3Nyw3
+MjYzNzI4OTksNDIwNjcwOTk3LDE4MzA3NTM1MywtMjA5NDYwMj
+A5NiwtMjY3Njk4NjA2LDU4MTI0ODk1OF19
 -->
