@@ -44,7 +44,7 @@ Al final de cada Notebook hay unas conclusiones para responder claramente a cada
 Para las visualizaciones de datos se han utilizado múltiples herramientas, que se pueden ejecutar desde los propios Notebooks (Pyplot, Seaborn, Altair) y desde fuera (Tableau), que he dejado loa archivos también en la carpeta [tableau_graph_and_analysis](tableau_graph_and_analysis)
 
 Estos son algunos ejemplos de gráficos realizados y que se encuentran en los Notebooks:
-
+Comparación de tipos de género de música  
 ![enter image description here](tableau_graph_and_analysis/dashboard_pandemia.png)
 
 # Datasets
@@ -76,7 +76,7 @@ Agradezco el código de otras personas y que yo he reutilizado y adaptado, seña
  - Para la extracción de datos de API Spotify: thanks to [morioh](https://morioh.com/p/31b8a607b2b0)
  - Para la extracción de datos de API Spotify: [Github](https://gist.github.com/ilias1111/e503bbab0a98c20377686cc75ffad451), thanks to [ilias1111](https://github.com/ilias1111)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MTAxMDI2Nyw1MTU3MTA3ODgsLTQ5ND
+eyJoaXN0b3J5IjpbMTQxOTY1NTE4Miw1MTU3MTA3ODgsLTQ5ND
 Q5MTA0OSwxNDQ5NDcxMTc3LDcyNjM3Mjg5OSw0MjA2NzA5OTcs
 MTgzMDc1MzUzLC0yMDk0NjAyMDk2LC0yNjc2OTg2MDYsNTgxMj
 Q4OTU4XX0=
