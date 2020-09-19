@@ -20,12 +20,17 @@ Este proyecto no requiere instalaciones y entornos concretos aunque se recomiend
 
 Los paquetes que se necesitan para ejecutar correctamente los notebooks son los siguientes:
 
-```!pip install fycharts``` : FychaPara descargar datos del SpotifyChart. Documentación
-``` !pip install spotipy``` : Para descargar datos de la API de Spotify. Documentación
- ```!pip install altair vega_datasets```: Para visualización de datos. Documentación
-```!pip install seaborn```: Para visualización de datos. Documentación
+**Fycharts:** Para descargar datos del SpotifyChart. Documentación
+Instalación: ```!pip install fycharts``` 
+**Spotipy:** Para descargar datos de la API de Spotify. Documentación
+Instalación:``` !pip install spotipy``` : 
+Altair: Para visualización de datos. Documentación
+Instalación: ```!pip install altair vega_datasets```: 
+Seaborn
+Instalación:```!pip install seaborn```: Para visualización de datos. Documentación
 
-Se pueden instalar con pip fácilmente
+También se ha usado 
+
 Para poder ejecutar todos los notebooks del proyecto, se recomienda usar el entorno conda que se proporciona en el fichero environment_tfm.yml
 
 Para la creación del entorno ejecutar:
@@ -54,7 +59,7 @@ En proceso
 # Créditos
 En proceso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MzM3OTE1MiwxNDQ5NDcxMTc3LDcyNj
+eyJoaXN0b3J5IjpbLTExNDM5MTI2MSwxNDQ5NDcxMTc3LDcyNj
 M3Mjg5OSw0MjA2NzA5OTcsMTgzMDc1MzUzLC0yMDk0NjAyMDk2
 LC0yNjc2OTg2MDYsNTgxMjQ4OTU4XX0=
 -->
