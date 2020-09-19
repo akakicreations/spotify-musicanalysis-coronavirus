@@ -20,17 +20,12 @@ Este proyecto no requiere instalaciones y entornos concretos aunque se recomiend
 
 Los paquetes que se necesitan para ejecutar correctamente los notebooks son los siguientes:
 
- - **Fycharts:** Para descargar datos del SpotifyChart. Documentación Instalación: ```!pip install fycharts```
- - **Spotipy:** Para descargar datos de la API de Spotify. Documentación Instalación:``` !pip install spotipy```
- - **Altair:** Para visualización de datos. Documentación Instalación: ```!pip install altair vega_datasets```
- - **Seaborn:** Para visualización de datos. Documentación Instalación:```!pip install seaborn```:
+ - **Fycharts:** Para descargar datos del SpotifyChart. [Documentación.](https://pypi.org/project/fycharts/) Instalación: ```!pip install fycharts```
+ - **Spotipy:** Para descargar datos de la API de Spotify. [Documentación.](https://spotipy.readthedocs.io/en/2.16.0/) Instalación:``` !pip install spotipy```
+ - **Altair:** Para visualización de datos. [Documentación.](https://altair-viz.github.io) Instalación: ```!pip install altair vega_datasets```
+ - **Seaborn:** Para visualización de datos. [Documentación.](https://seaborn.pydata.org) Instalación:```!pip install seaborn```:
 
 También se ha usado Tableau para la visualización de ciertos análisis y que incluimos también. Aún así, hemos incluido imágenes de los Dashboards dentro de los Notebooks Jupyter.
-
-Para poder ejecutar todos los notebooks del proyecto, se recomienda usar el entorno conda que se proporciona en el fichero environment_tfm.yml
-
-Para la creación del entorno ejecutar:
-
 
 # Análisis y orden de lectura
 Hay 4 Notebooks de Jupyter, bien documentados, guiados y explicando todo el proceso. Es recomendable que se lean en el siguiente orden:
@@ -55,7 +50,7 @@ En proceso
 # Créditos
 En proceso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQ4NjgwNTgsMTQ0OTQ3MTE3Nyw3Mj
-YzNzI4OTksNDIwNjcwOTk3LDE4MzA3NTM1MywtMjA5NDYwMjA5
-NiwtMjY3Njk4NjA2LDU4MTI0ODk1OF19
+eyJoaXN0b3J5IjpbLTQ5NDQ5MTA0OSwxNDQ5NDcxMTc3LDcyNj
+M3Mjg5OSw0MjA2NzA5OTcsMTgzMDc1MzUzLC0yMDk0NjAyMDk2
+LC0yNjc2OTg2MDYsNTgxMjQ4OTU4XX0=
 -->
