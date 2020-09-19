@@ -84,9 +84,11 @@ Agradezco el código de otras personas y que yo he reutilizado y adaptado, seña
  - Para la extracción de datos de API Spotify: thanks to [morioh](https://morioh.com/p/31b8a607b2b0)
  - Otra mucha documentación sobre extracción de datos de la API de Spotify en internet
 
-#
+# ¡Gracias!
+
+![enter image description here](images_features_distribution/giphy_rock.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMTYwMzQyNSwyMzkxNDU4MTUsODY0Nj
+eyJoaXN0b3J5IjpbLTY3MzY4NjQ1OSwyMzkxNDU4MTUsODY0Nj
 cxODI4LDkxMTM4NzkyNiwtMTUwMTAyMzksNjMyODIxOTUwLDUx
 NTcxMDc4OCwtNDk0NDkxMDQ5LDE0NDk0NzExNzcsNzI2MzcyOD
 k5LDQyMDY3MDk5NywxODMwNzUzNTMsLTIwOTQ2MDIwOTYsLTI2
