@@ -48,18 +48,22 @@ Estos son algunos ejemplos de gráficos realizados y que se encuentran en los No
 
 
 # Código
-Se ha utilizado Python y Jupyter Notebook como herramienta principal y para ciertas visualizaciones Tableau.
-Agradecimiento código de terceros:
- - Para la extracción de datos de Spotify Top200Charts: https://github.com/kelvingakuo/fycharts, thanks to [kelvingakuo](https://github.com/kelvingakuo)/
- - Para la extracción de datos de API Spotify: [morioh](https://morioh.com/p/31b8a607b2b0)/ 
+
+
 
 # Datasets
 En el proceso de extracción análisis se han creado los siguientes datasets de losa ue explico su contenido.
 
-# Créditos
-Agradezco el código de otras personas y que yo he reutilizado y adaptado entre ellas
+# Código y créditos
+
+Se ha utilizado Python y Jupyter Notebook como herramienta principal y para ciertas visualizaciones Tableau.
+
+Agradezco el código de otras personas y que yo he reutilizado y adaptado, señalo las siguientes:
+ - Para la extracción de datos de Spotify Top200Charts: https://github.com/kelvingakuo/fycharts, thanks to [kelvingakuo](https://github.com/kelvingakuo)/
+ - Para la extracción de datos de API Spotify: [morioh](https://morioh.com/p/31b8a607b2b0)
+ - Thanks to
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NzUzMjU1NiwtNDk0NDkxMDQ5LDE0ND
+eyJoaXN0b3J5IjpbLTYyNDUyNjgyNywtNDk0NDkxMDQ5LDE0ND
 k0NzExNzcsNzI2MzcyODk5LDQyMDY3MDk5NywxODMwNzUzNTMs
 LTIwOTQ2MDIwOTYsLTI2NzY5ODYwNiw1ODEyNDg5NThdfQ==
 -->
