@@ -50,7 +50,7 @@ Estos son algunos ejemplos de gráficos realizados y que se encuentran en los No
 ### Tendencias de las features de todas las canciones en los años 2017-2020 y para diferentes periodos:
 ![enter image description here](images_features_distribution/graph_features.png)
 ### Comparación de cantidad de música antigua escuchada en diferentes periodos:
-![enter image description here](images_features_distribution/oldies.png)
+![enter image description here](images_features_distribution/graph_oldies.png)
 
 # Datasets
 En el proceso de extracción análisis se han creado los siguientes datasets de losa ue explico su contenido.
