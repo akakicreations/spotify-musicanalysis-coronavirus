@@ -37,13 +37,15 @@ Hay 4 Notebooks de Jupyter, bien documentados, guiados y explicando todo el proc
 4. [Data_Analysis3_Oldies.ipynb](Data_Analysis3_oldies.ipynb): Tercer análisis para responder a la tercera pregunta: ¿un cambio en cantidad de éxitos antiguos escuchados?
 5. [Data_Analysis4Extra_Playlists.ipynb](Data_Analysis4Extra_Playlists.ipynb): Cuarto análisis que es una extensión del primero para responder mejor y desde otro dataset a la pregunta: ¿ha habido un cambio en el tipo de música?
 
-Al final de cada Notebook hay unas conclusiones. Próximamente publicaré una presentación y un artículo como resumen de este proyecto.
+Al final de cada Notebook hay unas conclusiones para responder claramente a cada pregunta. Próximamente publicaré una presentación y un artículo como resumen de este proyecto.
 
 # Visualización
 
 Para las visualizaciones de datos se han utilizado múltiples herramientas, que se pueden ejecutar desde los propios Notebooks (Pyplot, Seaborn, Altair) y desde fuera (Tableau), que he dejado loa archivos también en la carpeta [tableau_graph_and_analysis](tableau_graph_and_analysis)
 
-Estos son algunos ejemplos de gráficos realizados y que se encuentran en los Notebooks.
+Estos son algunos ejemplos de gráficos realizados y que se encuentran en los Notebooks:
+
+
 
 # Código
 Se ha utilizado Python y Jupyter Notebook como herramienta principal y para ciertas visualizaciones Tableau.
@@ -52,12 +54,12 @@ Agradecimiento código de terceros:
  - Para la extracción de datos de API Spotify: [morioh](https://morioh.com/p/31b8a607b2b0)/ 
 
 # Datasets
-En proceso
+En el proceso de extracción análisis se han creado los siguientes datasets de losa ue explico su contenido.
 
 # Créditos
-En proceso
+Agradezco el código de otras personas y que yo he reutilizado y adaptado entre ellas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTAyMDY5MSwtNDk0NDkxMDQ5LDE0ND
+eyJoaXN0b3J5IjpbLTM4NzUzMjU1NiwtNDk0NDkxMDQ5LDE0ND
 k0NzExNzcsNzI2MzcyODk5LDQyMDY3MDk5NywxODMwNzUzNTMs
 LTIwOTQ2MDIwOTYsLTI2NzY5ODYwNiw1ODEyNDg5NThdfQ==
 -->
