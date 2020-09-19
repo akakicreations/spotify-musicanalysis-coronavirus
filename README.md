@@ -56,7 +56,10 @@ En el proceso de extracción análisis se han creado los siguientes datasets de 
 
  - Datos de los Top200 de música más escuchada en España de 2017, 2018, 2019 y 2020, desde el 01/01 al 05/20: 
 	 - top_200_daily_CSV_2017.csv
-	 - top_200_daily_CSV_2018.csv, top_200_daily_CSV_2019.csv, top_200_daily_CSV_2020.csv, 
+	 - top_200_daily_CSV_2018.csv
+	 - top_200_daily_CSV_2019.csv
+	 - top_200_daily_CSV_2020.csv
+- Datos limpios y con features añadidas después de la extracción para el Periodo del Confinamiento y para el Periodo Normal, de control, de 2017, 2018, 2019 y
 
 # Código y créditos
 
@@ -67,7 +70,7 @@ Agradezco el código de otras personas y que yo he reutilizado y adaptado, seña
  - Para la extracción de datos de API Spotify: thanks to [morioh](https://morioh.com/p/31b8a607b2b0)
  - Para la extracción de datos de API Spotify: [Github](https://gist.github.com/ilias1111/e503bbab0a98c20377686cc75ffad451), thanks to [ilias1111](https://github.com/ilias1111)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjU5OTY4OSwtNDk0NDkxMDQ5LDE0ND
+eyJoaXN0b3J5IjpbLTIwNjA2MDkwNywtNDk0NDkxMDQ5LDE0ND
 k0NzExNzcsNzI2MzcyODk5LDQyMDY3MDk5NywxODMwNzUzNTMs
 LTIwOTQ2MDIwOTYsLTI2NzY5ODYwNiw1ODEyNDg5NThdfQ==
 -->
