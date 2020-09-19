@@ -54,19 +54,20 @@ Estos son algunos ejemplos de gráficos realizados y que se encuentran en los No
 # Datasets
 En el proceso de extracción análisis se han creado los siguientes datasets de losa ue explico su contenido.
 
- - Datos de los Top200 de música más escuchada en España de 2017, 2018, 2019 y 2020, desde el 01/01 al 05/20: 
+ - Datos de los Top200 de música más escuchada en España de 2017, 2018, 2019 y 2020, desde el 01/01 al 05/20, es un listado de canciones: 
 	 - top_200_daily_CSV_2017.csv
 	 - top_200_daily_CSV_2018.csv
 	 - top_200_daily_CSV_2019.csv
 	 - top_200_daily_CSV_2020.csv
-- Datos con features añadidas después de la extracción para el Periodo del Confinamiento y para el Periodo Normal, de control, de 2017, 2018, 2019 y 2020:
+- Datos con listado de canciones y sus features añadidas después de la extracción para el Periodo del Confinamiento y para el Periodo Normal, de control, de 2017, 2018, 2019 y 2020:
 	- data_global_coronaperiod.csv
 	- data_global_normalperiod.csv
 - Datos limpios y preparados para análisis:
 	- data_ana_coronaperiod.csv
 	- data_ana_normalperiod.csv
 	- data_ana_coronaperiod_withgenres.csv
-
+- Datos con las canciones de las playlists seleccionadas en diferentes tamaños de paquetesy relacionadas con el coronavirus:
+	- data_ana_playlist_songs100.csv
 
 # Código y créditos
 
@@ -77,7 +78,7 @@ Agradezco el código de otras personas y que yo he reutilizado y adaptado, seña
  - Para la extracción de datos de API Spotify: thanks to [morioh](https://morioh.com/p/31b8a607b2b0)
  - Para la extracción de datos de API Spotify: [Github](https://gist.github.com/ilias1111/e503bbab0a98c20377686cc75ffad451), thanks to [ilias1111](https://github.com/ilias1111)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjUxNjAxMDksLTQ5NDQ5MTA0OSwxND
-Q5NDcxMTc3LDcyNjM3Mjg5OSw0MjA2NzA5OTcsMTgzMDc1MzUz
-LC0yMDk0NjAyMDk2LC0yNjc2OTg2MDYsNTgxMjQ4OTU4XX0=
+eyJoaXN0b3J5IjpbMTcwNjc0ODMyNCwtNDk0NDkxMDQ5LDE0ND
+k0NzExNzcsNzI2MzcyODk5LDQyMDY3MDk5NywxODMwNzUzNTMs
+LTIwOTQ2MDIwOTYsLTI2NzY5ODYwNiw1ODEyNDg5NThdfQ==
 -->
