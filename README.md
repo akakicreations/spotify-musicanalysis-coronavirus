@@ -61,9 +61,9 @@ Se ha utilizado Python y Jupyter Notebook como herramienta principal y para cier
 Agradezco el código de otras personas y que yo he reutilizado y adaptado, señalo las siguientes:
  - Para la extracción de datos de Spotify Top200Charts: https://github.com/kelvingakuo/fycharts, thanks to [kelvingakuo](https://github.com/kelvingakuo)/
  - Para la extracción de datos de API Spotify: [morioh](https://morioh.com/p/31b8a607b2b0)
- - Thanks to
+ - Pathanks to [ilias1111](https://github.com/ilias1111)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNDUyNjgyNywtNDk0NDkxMDQ5LDE0ND
+eyJoaXN0b3J5IjpbMTY5MDQ5NDk2MywtNDk0NDkxMDQ5LDE0ND
 k0NzExNzcsNzI2MzcyODk5LDQyMDY3MDk5NywxODMwNzUzNTMs
 LTIwOTQ2MDIwOTYsLTI2NzY5ODYwNiw1ODEyNDg5NThdfQ==
 -->
