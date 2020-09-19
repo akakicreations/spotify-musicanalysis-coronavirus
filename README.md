@@ -8,21 +8,27 @@ Tras escribir el artículo [¿Es Resistiré una de las canciones más escuchadas
 
 Para esto, nos vamos a basar en datos que nos ofrece Spotify que es la plataforma con [mayor número de usuarios](https://es.statista.com/grafico/19793/usuarios-activos-y-de-pago-de-spotify/) de música en streaming. No es una muestra que pueda ser generalizable, pero si nos puede dar una idea de tendencias y posibles cambios de las mismas.
 
+# Fuentes de datos
+
+ - Fuente de datos que ofrece la [API de Spotify](https://developer.spotify.com/documentation/web-api/) de la que se pueden sacar las características y features de todas las canciones disponibles en Spotify.
+   
+ - La base de datos de [Spotify Chart](https://spotifycharts.com/regional) donde se pueden extraer las 200 canciones más escuchadas (top200) por día y los respectivos streams (reproducciones) de cada una, ya que este ranking se calcula por el número de veces que se escucha una canción.
+
 # Recomendaciones previas
 
 Este proyecto no requiere instalaciones y entornos concretos aunque se recomienda que se ejecute en linuex. 
-Los paquetes más concretos que se necesitan para ejecutar correctamente los notebooks son:
+Los paquetes más concretos que se necesitan para ejecutar correctamente los notebooks son los siguiente:
+
+```!pip install fycharts``` Para decagram los 
+ !pip install spotipy
+ !pip install altair vega_datasets
+ !pip install seaborn
 
 Altaru
 Para poder ejecutar todos los notebooks del proyecto, se recomienda usar el entorno conda que se proporciona en el fichero environment_tfm.yml
 
 Para la creación del entorno ejecutar:
 
-# Fuentes de datos
-
- - Fuente de datos que ofrece la [API de Spotify](https://developer.spotify.com/documentation/web-api/) de la que se pueden sacar las características y features de todas las canciones disponibles en Spotify.
-   
- - La base de datos de [Spotify Chart](https://spotifycharts.com/regional) donde se pueden extraer las 200 canciones más escuchadas (top200) por día y los respectivos streams (reproducciones) de cada una, ya que este ranking se calcula por el número de veces que se escucha una canción.
 
 # Análisis y orden de lectura
 Hay 4 Notebooks de Jupyter, bien documentados, guiados y explicando todo el proceso. Es recomendable que se lean en el siguiente orden:
@@ -47,7 +53,7 @@ En proceso
 # Créditos
 En proceso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDA0NzU0OTcsMTQ0OTQ3MTE3Nyw3Mj
-YzNzI4OTksNDIwNjcwOTk3LDE4MzA3NTM1MywtMjA5NDYwMjA5
-NiwtMjY3Njk4NjA2LDU4MTI0ODk1OF19
+eyJoaXN0b3J5IjpbMTQxMDY0ODM1NCwxNDQ5NDcxMTc3LDcyNj
+M3Mjg5OSw0MjA2NzA5OTcsMTgzMDc1MzUzLC0yMDk0NjAyMDk2
+LC0yNjc2OTg2MDYsNTgxMjQ4OTU4XX0=
 -->
