@@ -59,7 +59,14 @@ En el proceso de extracción análisis se han creado los siguientes datasets de 
 	 - top_200_daily_CSV_2018.csv
 	 - top_200_daily_CSV_2019.csv
 	 - top_200_daily_CSV_2020.csv
-- Datos limpios y con features añadidas después de la extracción para el Periodo del Confinamiento y para el Periodo Normal, de control, de 2017, 2018, 2019 y
+- Datos con features añadidas después de la extracción para el Periodo del Confinamiento y para el Periodo Normal, de control, de 2017, 2018, 2019 y 2020:
+	- data_global_coronaperiod.csv
+	- data_global_normalperiod.csv
+- Datos limpios y preparados para análisis:
+	- data_ana_coronaperiod.csv
+	- data_ana_normalperiod.csv
+	- data_ana_coronaperiod_withgenres.csv
+
 
 # Código y créditos
 
@@ -70,7 +77,7 @@ Agradezco el código de otras personas y que yo he reutilizado y adaptado, seña
  - Para la extracción de datos de API Spotify: thanks to [morioh](https://morioh.com/p/31b8a607b2b0)
  - Para la extracción de datos de API Spotify: [Github](https://gist.github.com/ilias1111/e503bbab0a98c20377686cc75ffad451), thanks to [ilias1111](https://github.com/ilias1111)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjA2MDkwNywtNDk0NDkxMDQ5LDE0ND
-k0NzExNzcsNzI2MzcyODk5LDQyMDY3MDk5NywxODMwNzUzNTMs
-LTIwOTQ2MDIwOTYsLTI2NzY5ODYwNiw1ODEyNDg5NThdfQ==
+eyJoaXN0b3J5IjpbLTIwNjUxNjAxMDksLTQ5NDQ5MTA0OSwxND
+Q5NDcxMTc3LDcyNjM3Mjg5OSw0MjA2NzA5OTcsMTgzMDc1MzUz
+LC0yMDk0NjAyMDk2LC0yNjc2OTg2MDYsNTgxMjQ4OTU4XX0=
 -->
