@@ -37,7 +37,7 @@ Hay 4 Notebooks de Jupyter, bien documentados, guiados y explicando todo el proc
 4. [Data_Analysis3_Oldies.ipynb](Data_Analysis3_oldies.ipynb): Tercer análisis para responder a la tercera pregunta: ¿un cambio en cantidad de éxitos antiguos escuchados?
 5. [Data_Analysis4Extra_Playlists.ipynb](Data_Analysis4Extra_Playlists.ipynb): Cuarto análisis que es una extensión del primero para responder mejor y desde otro dataset a la pregunta: ¿ha habido un cambio en el tipo de música?
 
-Al final de cada Notebook hay unas conclusiones. Próximamente publicaré una presentación y un atículoun resumen se compartirán en un artículo que publicaré próximamente.
+Al final de cada Notebook hay unas conclusiones. Próximamente publicaré una presentación y un artículo como resumen de este proyecto.
 
 # Visualización
 
@@ -57,7 +57,7 @@ En proceso
 # Créditos
 En proceso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTQyNTkxOSwtNDk0NDkxMDQ5LDE0ND
+eyJoaXN0b3J5IjpbLTIxMTAyMDY5MSwtNDk0NDkxMDQ5LDE0ND
 k0NzExNzcsNzI2MzcyODk5LDQyMDY3MDk5NywxODMwNzUzNTMs
 LTIwOTQ2MDIwOTYsLTI2NzY5ODYwNiw1ODEyNDg5NThdfQ==
 -->
