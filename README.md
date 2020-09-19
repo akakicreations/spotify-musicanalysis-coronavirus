@@ -9,7 +9,7 @@ Tras escribir el artículo [¿Es Resistiré una de las canciones más escuchadas
 
 Para esto, nos vamos a basar en datos que nos ofrece Spotify que es la plataforma con [mayor número de usuarios](https://es.statista.com/grafico/19793/usuarios-activos-y-de-pago-de-spotify/) de música en streaming. No es una muestra que pueda ser generalizable, pero si nos puede dar una idea de tendencias y posibles cambios de las mismas.
 
-Este proyecto también es el trabajo de fin de master de Data Science en KSchool
+Este proyecto también es el trabajo de fin de master de Data Science en KSchool.
 
 # Fuentes de datos
 
@@ -19,7 +19,7 @@ Este proyecto también es el trabajo de fin de master de Data Science en KSchool
 
 # Recomendaciones previas
 
-Este proyecto no requiere instalaciones y entornos concretos aunque se recomienda hacer un git clone y ejecutar en Linux.
+Este proyecto no requiere instalaciones y entornos concretos aunque se recomienda hacer un git clone y ejecutar todo en Linux.
 
 Los paquetes que se necesitan para ejecutar correctamente los notebooks son los siguientes:
 
@@ -31,7 +31,7 @@ Los paquetes que se necesitan para ejecutar correctamente los notebooks son los 
 También se ha usado Tableau para la visualización de ciertos análisis y que incluimos también. Aún así, hemos incluido imágenes de los Dashboards dentro de los Notebooks Jupyter.
 
 # Análisis y orden de lectura
-Hay 4 Notebooks de Jupyter, bien documentados, guiados y explicando todo el proceso. También he dejado en una carpeta los notebooks en formato HTML con todas las celdas ejecutadas por si se quiere ver completo sin usar Jupyter
+Hay 4 Notebooks de Jupyter, bien documentados, guiados y explicando todo el proceso. También he dejado en una [carpeta](notebooks_inHTML) los notebooks en formato HTML con todas las celdas ejecutadas por si se quiere ver completo sin usar Jupyter
 
 Los notebooks o HTMLs es recomendable que se lean en el siguiente orden:
 1. [Data_ExtractionAndPreparation.ipynb](Data_ExtractionAndPreparation.ipynb): Extracción y preparación de los datasets que luego se usarán en los análisis
@@ -84,7 +84,7 @@ Agradezco el código de otras personas y que yo he reutilizado y adaptado, seña
  - Para la extracción de datos de API Spotify: thanks to [morioh](https://morioh.com/p/31b8a607b2b0)
  - Otra mucha documentación sobre extracción de datos de la API de Spotify en internet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NTg0NjU2OCwyMzkxNDU4MTUsODY0Nj
+eyJoaXN0b3J5IjpbLTE2NTcyNDIwNCwyMzkxNDU4MTUsODY0Nj
 cxODI4LDkxMTM4NzkyNiwtMTUwMTAyMzksNjMyODIxOTUwLDUx
 NTcxMDc4OCwtNDk0NDkxMDQ5LDE0NDk0NzExNzcsNzI2MzcyOD
 k5LDQyMDY3MDk5NywxODMwNzUzNTMsLTIwOTQ2MDIwOTYsLTI2
