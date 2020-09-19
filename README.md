@@ -2,8 +2,8 @@
 # Spotify Music Analysis before and during coronavirus pandemic
 
 Tras escribir el artículo [¿Es Resistiré una de las canciones más escuchadas en España durante la cuarentena?](https://www.akakicreations.com/es-resistire-una-de-las-canciones-mas-escuchadas-en-espana-durante-la-cuarentena/) y encontrar datos interesantes y sobre todo curiosos, quise indagar en nuestro consumo de música en la pandemia del coronavirus en España. Este proyecto nace de una pregunta sencilla: **¿ha provocado la aparición del coronavirus un cambio en el tipo de música y estilo que se escucha en España?, ¿ha cambiado la música escuchada durante el confinamiento?** Y concretamente me hago cuatro preguntas:
-1. ¿Ha provocado un cambio en el tipo de música que se escucha (más bailable, más instrumental, más enérgica...)
-2. ¿Ha provocado un cambio en el género de música que se escucha (pop, reggaeton...)?
+1. ¿Provocó elun cambio en el tipo de música que se escuchó (más bailable, más instrumental, más enérgica...)
+2. ¿Ha provocado un cambio en el género de música que se escuchó (pop, reggaeton...)?
 3. ¿Ha provocado un cambio en si se escuchan más éxitos antiguos?
 4.  ¿Qué tipo de música contienen las playlists que se han creado para el tiempo de pandemia?, ¿hay un cambio?
 
@@ -84,9 +84,9 @@ Agradezco el código de otras personas y que yo he reutilizado y adaptado, seña
  - Para la extracción de datos de API Spotify: thanks to [morioh](https://morioh.com/p/31b8a607b2b0)
  - Otra mucha documentación sobre extracción de datos de la API de Spotify en internet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM5MTQ1ODE1LDg2NDY3MTgyOCw5MTEzOD
-c5MjYsLTE1MDEwMjM5LDYzMjgyMTk1MCw1MTU3MTA3ODgsLTQ5
-NDQ5MTA0OSwxNDQ5NDcxMTc3LDcyNjM3Mjg5OSw0MjA2NzA5OT
-csMTgzMDc1MzUzLC0yMDk0NjAyMDk2LC0yNjc2OTg2MDYsNTgx
-MjQ4OTU4XX0=
+eyJoaXN0b3J5IjpbMTU5ODc2ODE1MiwyMzkxNDU4MTUsODY0Nj
+cxODI4LDkxMTM4NzkyNiwtMTUwMTAyMzksNjMyODIxOTUwLDUx
+NTcxMDc4OCwtNDk0NDkxMDQ5LDE0NDk0NzExNzcsNzI2MzcyOD
+k5LDQyMDY3MDk5NywxODMwNzUzNTMsLTIwOTQ2MDIwOTYsLTI2
+NzY5ODYwNiw1ODEyNDg5NThdfQ==
 -->
