@@ -1,11 +1,11 @@
 ![enter image description here](images_features_distribution/portada_spotify_coronavirus_analysis.png)
 # Spotify Music Analysis before and during coronavirus pandemic
 
-Tras escribir el artículo [¿Es Resistiré una de las canciones más escuchadas en España durante la cuarentena?](https://www.akakicreations.com/es-resistire-una-de-las-canciones-mas-escuchadas-en-espana-durante-la-cuarentena/) y encontrar datos interesantes y sobre todo curiosos, quise indagar en nuestro consumo de música en la pandemia del coronavirus en España. Este proyecto nace de una pregunta sencilla: **¿ha provocado la aparición del coronavirus un cambio en el tipo de música y estilo que se escucha en España?, ¿ha cambiado la música escuchada durante el confinamiento?** Y concretamente me hago cuatro preguntas:
-1. ¿Provocó elun cambio en el tipo de música que se escuchó (más bailable, más instrumental, más enérgica...)
-2. ¿Ha provocado un cambio en el género de música que se escuchó (pop, reggaeton...)?
-3. ¿Ha provocado un cambio en si se escuchan más éxitos antiguos?
-4.  ¿Qué tipo de música contienen las playlists que se han creado para el tiempo de pandemia?, ¿hay un cambio?
+Tras escribir el artículo [¿Es Resistiré una de las canciones más escuchadas en España durante la cuarentena?](https://www.akakicreations.com/es-resistire-una-de-las-canciones-mas-escuchadas-en-espana-durante-la-cuarentena/) y encontrar datos interesantes y sobre todo curiosos, quise indagar en nuestro consumo de música el confinamiento por la pandemia del coronavirus en España, en Marzo de 2020. Este proyecto nace de una pregunta sencilla: **¿ha provocado la aparición del coronavirus un cambio en el tipo de música y estilo que se escucha en España?, ¿ha cambiado la música escuchada durante el confinamiento?** Y concretamente me hago cuatro preguntas:
+1. ¿Provocó el confinamiento un cambio en el tipo de música que se escuchó (más bailable, más instrumental, más enérgica...)
+2. ¿Provocó el confinamiento un cambio en el género de música que se escuchó (pop, reggaeton...)?
+3. ¿Provocó el confinamiento un cambio en si se escucharon más éxitos antiguos?
+4.  ¿Qué tipo de música contienen las playlists que se han crearon durante el confinamiento?, ¿hay un cambio respecto a otras playslist?
 
 Para esto, nos vamos a basar en datos que nos ofrece Spotify que es la plataforma con [mayor número de usuarios](https://es.statista.com/grafico/19793/usuarios-activos-y-de-pago-de-spotify/) de música en streaming. No es una muestra que pueda ser generalizable, pero si nos puede dar una idea de tendencias y posibles cambios de las mismas.
 
@@ -84,7 +84,7 @@ Agradezco el código de otras personas y que yo he reutilizado y adaptado, seña
  - Para la extracción de datos de API Spotify: thanks to [morioh](https://morioh.com/p/31b8a607b2b0)
  - Otra mucha documentación sobre extracción de datos de la API de Spotify en internet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5ODc2ODE1MiwyMzkxNDU4MTUsODY0Nj
+eyJoaXN0b3J5IjpbMTA4NTg0NjU2OCwyMzkxNDU4MTUsODY0Nj
 cxODI4LDkxMTM4NzkyNiwtMTUwMTAyMzksNjMyODIxOTUwLDUx
 NTcxMDc4OCwtNDk0NDkxMDQ5LDE0NDk0NzExNzcsNzI2MzcyOD
 k5LDQyMDY3MDk5NywxODMwNzUzNTMsLTIwOTQ2MDIwOTYsLTI2
