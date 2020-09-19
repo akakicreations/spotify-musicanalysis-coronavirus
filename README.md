@@ -1,3 +1,4 @@
+![enter image description here](images_features_distribution/portada_spotify_coronavirus_analysis.png)
 # Spotify Music Analysis before and after coronavirus pandemic
 
 Tras escribir el artículo [¿Es Resistiré una de las canciones más escuchadas en España durante la cuarentena?](https://www.akakicreations.com/es-resistire-una-de-las-canciones-mas-escuchadas-en-espana-durante-la-cuarentena/) y encontrar datos interesantes y sobre todo curiosos, quise indagar en nuestro consumo de música en la pandemia del coronavirus en España. Este proyecto nace de una pregunta sencilla: **¿ha provocado la aparición del coronavirus un cambio en el tipo de música y estilo que se escucha en España?, ¿ha cambiado la música escuchada durante el confinamiento?** Y concretamente me hago cuatro preguntas:
@@ -83,8 +84,9 @@ Agradezco el código de otras personas y que yo he reutilizado y adaptado, seña
  - Para la extracción de datos de API Spotify: thanks to [morioh](https://morioh.com/p/31b8a607b2b0)
  - Para la extracción de datos de API Spotify: [Github](https://gist.github.com/ilias1111/e503bbab0a98c20377686cc75ffad451), thanks to [ilias1111](https://github.com/ilias1111)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTExMzg3OTI2LC0xNTAxMDIzOSw2MzI4Mj
-E5NTAsNTE1NzEwNzg4LC00OTQ0OTEwNDksMTQ0OTQ3MTE3Nyw3
-MjYzNzI4OTksNDIwNjcwOTk3LDE4MzA3NTM1MywtMjA5NDYwMj
-A5NiwtMjY3Njk4NjA2LDU4MTI0ODk1OF19
+eyJoaXN0b3J5IjpbLTEyOTM5MDA3MDMsOTExMzg3OTI2LC0xNT
+AxMDIzOSw2MzI4MjE5NTAsNTE1NzEwNzg4LC00OTQ0OTEwNDks
+MTQ0OTQ3MTE3Nyw3MjYzNzI4OTksNDIwNjcwOTk3LDE4MzA3NT
+M1MywtMjA5NDYwMjA5NiwtMjY3Njk4NjA2LDU4MTI0ODk1OF19
+
 -->
