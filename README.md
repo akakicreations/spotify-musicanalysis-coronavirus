@@ -41,7 +41,9 @@ Los notebooks o HTMLs es recomendable que se lean en el siguiente orden:
 5. [Data_Analysis4Extra_Playlists.ipynb](Data_Analysis4Extra_Playlists.ipynb): Cuarto análisis que es una extensión del primero para responder mejor y desde otro dataset a la pregunta: ¿ha habido un cambio en el tipo de música?
 6. [Data_Analysis4Extra_Playlists.ipynb](Data_Analysis4Extra_Playlists.ipynb): Por último, y como datos curiosos, vemos las canciones, artistas y géneros más escuchados durante el confinamiento del coronavirus.
 
-Al final de cada Notebook hay unas conclusiones para responder claramente a cada pregunta. Próximamente publicaré una presentación y un artículo como resumen de este proyecto.
+Al final de cada Notebook hay unas conclusiones para responder claramente a cada pregunta. 
+
+Próximamente publicaré una presentación y un artículo como resumen de este proyecto.
 
 # Visualización
 
@@ -89,10 +91,10 @@ Agradezco el código de otras personas y que yo he reutilizado y adaptado, seña
 
 ![enter image description here](images_features_distribution/giphy_rock.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ0NjIxODMwLDYxOTc0NjU5OSwtNjczNj
-g2NDU5LDIzOTE0NTgxNSw4NjQ2NzE4MjgsOTExMzg3OTI2LC0x
-NTAxMDIzOSw2MzI4MjE5NTAsNTE1NzEwNzg4LC00OTQ0OTEwND
-ksMTQ0OTQ3MTE3Nyw3MjYzNzI4OTksNDIwNjcwOTk3LDE4MzA3
-NTM1MywtMjA5NDYwMjA5NiwtMjY3Njk4NjA2LDU4MTI0ODk1OF
-19
+eyJoaXN0b3J5IjpbMTU5MjM4NTEyMiw3NDQ2MjE4MzAsNjE5Nz
+Q2NTk5LC02NzM2ODY0NTksMjM5MTQ1ODE1LDg2NDY3MTgyOCw5
+MTEzODc5MjYsLTE1MDEwMjM5LDYzMjgyMTk1MCw1MTU3MTA3OD
+gsLTQ5NDQ5MTA0OSwxNDQ5NDcxMTc3LDcyNjM3Mjg5OSw0MjA2
+NzA5OTcsMTgzMDc1MzUzLC0yMDk0NjAyMDk2LC0yNjc2OTg2MD
+YsNTgxMjQ4OTU4XX0=
 -->
