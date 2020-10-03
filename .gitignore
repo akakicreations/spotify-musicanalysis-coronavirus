@@ -8,6 +8,7 @@
 *.vcf
 *.xls
 *.xlsx
+*.txt
 
 *.ppt
 *.pptx
