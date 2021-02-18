@@ -29,3 +29,5 @@
 
 *.w2v
 *.npy
+
+data_allyear/data_ana_timeseries_final.csv
