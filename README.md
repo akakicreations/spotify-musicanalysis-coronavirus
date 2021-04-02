@@ -32,7 +32,8 @@ Los paquetes que se necesitan para ejecutar correctamente los notebooks son los 
 También se ha usado Tableau para la visualización de ciertos análisis y que incluimos también. Aún así, hemos incluido imágenes de los Dashboards dentro de los Notebooks Jupyter.
 
 # Análisis y orden de lectura
-Hay 7 Notebooks de Jupyter, los 6 primeros están perfectamente documentados y fueron fruto de un primer análisis, que luego sbien documentados, guiados y explicando todo el proceso. También he dejado en una [carpeta](notebooks_inHTML) los notebooks en formato HTML con todas las celdas ejecutadas por si se quiere ver completo sin usar Jupyter
+Hay 7 Notebooks de Jupyter, los 6 primeros están perfectamente documentados y fueron fruto de un primer análisis. También he dejado en una [carpeta](notebooks_inHTML) los notebooks en formato HTML con todas las celdas ejecutadas por si se quiere ver completo sin usar Jupyter. Estos 6 notebooks utilizan los datos que están en la carpeta "data_coronaperiods_years2017-2020
+Lo dos últimos son de un análisis posterior más preciso,
 
 Los notebooks o HTMLs es recomendable que se lean en el siguiente orden:
 1. [Data_ExtractionAndPreparation.ipynb](Data_ExtractionAndPreparation.ipynb): Extracción y preparación de los datasets que luego se usarán en los análisis
@@ -88,10 +89,11 @@ Agradezco el código de otras personas y que yo he reutilizado y adaptado, seña
 
 ![enter image description here](images_features_distribution/giphy_rock.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0ODEzOTQwLDIwODQ2NjY2OSwtMTQ0OT
-I5ODI3MCwxNTkyMzg1MTIyLDc0NDYyMTgzMCw2MTk3NDY1OTks
-LTY3MzY4NjQ1OSwyMzkxNDU4MTUsODY0NjcxODI4LDkxMTM4Nz
-kyNiwtMTUwMTAyMzksNjMyODIxOTUwLDUxNTcxMDc4OCwtNDk0
-NDkxMDQ5LDE0NDk0NzExNzcsNzI2MzcyODk5LDQyMDY3MDk5Ny
-wxODMwNzUzNTMsLTIwOTQ2MDIwOTYsLTI2NzY5ODYwNl19
+eyJoaXN0b3J5IjpbLTEzMjYyNzI0MDAsMjA4NDY2NjY5LC0xND
+Q5Mjk4MjcwLDE1OTIzODUxMjIsNzQ0NjIxODMwLDYxOTc0NjU5
+OSwtNjczNjg2NDU5LDIzOTE0NTgxNSw4NjQ2NzE4MjgsOTExMz
+g3OTI2LC0xNTAxMDIzOSw2MzI4MjE5NTAsNTE1NzEwNzg4LC00
+OTQ0OTEwNDksMTQ0OTQ3MTE3Nyw3MjYzNzI4OTksNDIwNjcwOT
+k3LDE4MzA3NTM1MywtMjA5NDYwMjA5NiwtMjY3Njk4NjA2XX0=
+
 -->
