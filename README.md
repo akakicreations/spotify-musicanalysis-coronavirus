@@ -46,7 +46,9 @@ Los notebooks o HTMLs es recomendable que se lean en el siguiente orden:
 
 Para las visualizaciones de datos se han utilizado múltiples herramientas, que se pueden ejecutar desde los propios Notebooks (Pyplot, Seaborn, Altair) y desde fuera (Tableau).
 
-Aquí dejo algunos gráficos de las conclusiones finales, pero se puede ver todo en [esta entrada del blog.](https://www.akakicreations.com/como-afecto-el-confinamiento-por-coronavirus-en-2020-en-el-tipo-de-musica-que-escuchamos-en-spotify-2/)
+Aquí dejo algunos gráficos de las conclusiones finales, pero se puede ver todo en [esta entrada del blog.](https://www.akakicreations.com/como-afecto-el-confinamiento-por-coronavirus-en-2020-en-el-tipo-de-musica-que-escuchamos-en-spotify-2/) Los gráficos en el blog están creados en Dat
+
+![enter image description here](images_features_distribution/giphy_rock.gif)
 
 # Datasets
 En el proceso de extracción análisis se han creado los siguientes datasets de lo que explico su contenido.
@@ -85,11 +87,11 @@ Agradezco el código de otras personas y que yo he reutilizado y adaptado, seña
 
 ![enter image description here](images_features_distribution/giphy_rock.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTIzMjQ3OTgsLTE4ODQ1NDg5MzksMj
-A4NDY2NjY5LC0xNDQ5Mjk4MjcwLDE1OTIzODUxMjIsNzQ0NjIx
-ODMwLDYxOTc0NjU5OSwtNjczNjg2NDU5LDIzOTE0NTgxNSw4Nj
-Q2NzE4MjgsOTExMzg3OTI2LC0xNTAxMDIzOSw2MzI4MjE5NTAs
-NTE1NzEwNzg4LC00OTQ0OTEwNDksMTQ0OTQ3MTE3Nyw3MjYzNz
-I4OTksNDIwNjcwOTk3LDE4MzA3NTM1MywtMjA5NDYwMjA5Nl19
+eyJoaXN0b3J5IjpbMTA4OTYxODkwNCwtMTI5MjMyNDc5OCwtMT
+g4NDU0ODkzOSwyMDg0NjY2NjksLTE0NDkyOTgyNzAsMTU5MjM4
+NTEyMiw3NDQ2MjE4MzAsNjE5NzQ2NTk5LC02NzM2ODY0NTksMj
+M5MTQ1ODE1LDg2NDY3MTgyOCw5MTEzODc5MjYsLTE1MDEwMjM5
+LDYzMjgyMTk1MCw1MTU3MTA3ODgsLTQ5NDQ5MTA0OSwxNDQ5ND
+cxMTc3LDcyNjM3Mjg5OSw0MjA2NzA5OTcsMTgzMDc1MzUzXX0=
 
 -->
