@@ -30,7 +30,7 @@ Los paquetes que se necesitan para ejecutar correctamente los notebooks son los 
  -  -**Prophets** Para análisis y predicciones. [Documentación.](https://facebook.github.io/prophet/) Instalación:```!pip install pystan``` , ```!pip install prophet```:
 
 # Análisis y orden de lectura
-Hay 7 Notebooks de Jupyter, los 6 primeros están perfectamente documentados y fueron fruto de un primer análisis. También he dejado en una [carpeta](notebooks_inHTML) los notebooks en formato HTML con todas las celdas ejecutadas por si se quiere ver completo sin usar Jupyter. Estos 6 notebooks utilizan los datos que están en la carpeta "data_coronaperiods_years2017-2020" que sólo recogen datos de piropos concretos del año. Los dos últimos son de un análisis posterior más preciso y usando la predicción y datos de la carpeta "data_all_years2017-2020" que son de los años completos.
+Hay 7 Notebooks de Jupyter, los 6 primeros están perfectamente documentados y fueron fruto de un primer análisis. También he dejado en una [carpeta](notebooks_inHTML) los notebooks en formato HTML con todas las celdas ejecutadas por si se quiere ver completo sin usar Jupyter. Estos 6 notebooks utilizan los datos que están en la carpeta "data_coronaperiods_years2017-2020" que sólo recogen datos de piropos concretos del año. 
 
 Los notebooks o HTMLs es recomendable que se lean en el siguiente orden:
 1. [Data_ExtractionAndPreparation.ipynb](Data_ExtractionAndPreparation.ipynb): Extracción y preparación de los datasets que luego se usarán en los análisis
@@ -39,6 +39,9 @@ Los notebooks o HTMLs es recomendable que se lean en el siguiente orden:
 4. [Data_Analysis3_Oldies.ipynb](Data_Analysis3_oldies.ipynb): Tercer análisis para responder a la tercera pregunta: ¿un cambio en cantidad de éxitos antiguos escuchados?
 5. [Data_Analysis4Extra_Playlists.ipynb](Data_Analysis4Extra_Playlists.ipynb): Cuarto análisis que es una extensión del primero para responder mejor y desde otro dataset a la pregunta: ¿ha habido un cambio en el tipo de música?
 6. [Data_Analysis5_MostPlayed.ipynb](Data_Analysis5_MostPlayed.ipynb): Por último, y como datos curiosos, vemos las canciones, artistas y géneros más escuchados durante el confinamiento del coronavirus.
+
+Los dos últimos son de un análisis posterior desde otra perspectiva y usando la predicción y datos de la carpeta "data_all_years2017-2020" que analiza datos de los años completos.
+
 7. [Data_Analysis6_FINAL_PROPHETS_ExtractionAndPreparation.ipynb](7.Data_Analysis6_FINAL_PROPHETS_ExtractionAndPreparation.ipynb): Extracción y preparación de los datasets que luego se usarán en el análisis productivo.
 8. [Data_Analysis6_Features_FINAL_PROPHETS_YEAR.ipynb](8.Data_Analysis6_Features_FINAL_PROPHETS_YEAR.ipynb): Hacemos el mismo análisis pero comparando los datos del 2020 con una predicción hecha con Prophets
 
@@ -93,11 +96,11 @@ Agradezco el código de otras personas y que yo he reutilizado y adaptado, seña
 
 ![enter image description here](images_features_distribution/giphy_rock.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzYzODUxNzAsLTEyOTIzMjQ3OTgsLT
-E4ODQ1NDg5MzksMjA4NDY2NjY5LC0xNDQ5Mjk4MjcwLDE1OTIz
-ODUxMjIsNzQ0NjIxODMwLDYxOTc0NjU5OSwtNjczNjg2NDU5LD
-IzOTE0NTgxNSw4NjQ2NzE4MjgsOTExMzg3OTI2LC0xNTAxMDIz
-OSw2MzI4MjE5NTAsNTE1NzEwNzg4LC00OTQ0OTEwNDksMTQ0OT
-Q3MTE3Nyw3MjYzNzI4OTksNDIwNjcwOTk3LDE4MzA3NTM1M119
-
+eyJoaXN0b3J5IjpbMTM5MDEyNzg1MCwtMTk3NjM4NTE3MCwtMT
+I5MjMyNDc5OCwtMTg4NDU0ODkzOSwyMDg0NjY2NjksLTE0NDky
+OTgyNzAsMTU5MjM4NTEyMiw3NDQ2MjE4MzAsNjE5NzQ2NTk5LC
+02NzM2ODY0NTksMjM5MTQ1ODE1LDg2NDY3MTgyOCw5MTEzODc5
+MjYsLTE1MDEwMjM5LDYzMjgyMTk1MCw1MTU3MTA3ODgsLTQ5ND
+Q5MTA0OSwxNDQ5NDcxMTc3LDcyNjM3Mjg5OSw0MjA2NzA5OTdd
+fQ==
 -->
