@@ -60,16 +60,24 @@ Aquí dejo algunos gráficos de las conclusiones finales, pero se puede ver todo
 ![enter image description here](images_features_distribution/oldies.png)
 
 # Conclusiones
+
+ - ¿Provocó el confinamiento un cambio en el tipo de música que se escuchó (más bailable, más instrumental, más enérgica...)
+
 Durante el confinamiento hemos escuchado más música…
-- Más enérgica, es decir, con más velocidad, sonoridad y ruido respecto de la predicción. (Feature Energy)
-- Más en directo o con público detrás respecto de la predicción. (Feature Liveness)
-- Más acústica, es decir con menos acumulación de sonidos e instrumentos y una predominancia importante de la voz. (Feature Acoustiness)
-Más popular y de éxitos que se escuchan muchísimas veces, es decir, menor variedad musical. (Feature Popularity)
 
- Menos bailable, es decir, con menor tempo, ritmo y fuerza de los «beats». (Feature Danceability)
+Más enérgica, es decir, con más velocidad, sonoridad y ruido respecto de la predicción.
+- Más en directo o con público detrás respecto de la predicción.
+- Más acústica, es decir con menos acumulación de sonidos e instrumentos y una predominancia importante de la voz.
+- Más popular y de éxitos que se escuchan muchísimas veces, es decir, menor variedad musical.
+- Menos bailable, es decir, con menor tempo, ritmo y fuerza de los «beats».
+- Menos positiva, de felicidad, eufórica, música con la que dan ganas de saltar de alegría.
+- ¿Provocó el confinamiento un cambio en el género de música que se escuchó (pop, dance, reggaeton...)?
 
- Menos positiva, de felicidad, eufórica, música con la que dan ganas de saltar de alegría. (Feature Valence)
+4. ¿Provocó el confinamiento un cambio en si se escucharon más éxitos antiguos?
+5.  ¿Qué tipo de música contienen las playlists que se han crearon durante el confinamiento?, ¿hay un cambio respecto a otras playlists?
 
+
+no se puede decir que la pandemia haya provocado un cambio relevante en el tipo de género de música que se escuchaba, está ligado a otros factores.
 # Datasets
 En el proceso de extracción análisis se han creado los siguientes datasets de lo que explico su contenido.
 
@@ -107,11 +115,11 @@ Agradezco el código de otras personas y que yo he reutilizado y adaptado, seña
 
 ![enter image description here](images_features_distribution/giphy_rock.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMTg4MjkwMSwzMzU2MTU4NDYsLTE5Nz
-YzODUxNzAsLTEyOTIzMjQ3OTgsLTE4ODQ1NDg5MzksMjA4NDY2
-NjY5LC0xNDQ5Mjk4MjcwLDE1OTIzODUxMjIsNzQ0NjIxODMwLD
-YxOTc0NjU5OSwtNjczNjg2NDU5LDIzOTE0NTgxNSw4NjQ2NzE4
-MjgsOTExMzg3OTI2LC0xNTAxMDIzOSw2MzI4MjE5NTAsNTE1Nz
-EwNzg4LC00OTQ0OTEwNDksMTQ0OTQ3MTE3Nyw3MjYzNzI4OTld
-fQ==
+eyJoaXN0b3J5IjpbMTIzMzg0MTMzMiwxMzMxODgyOTAxLDMzNT
+YxNTg0NiwtMTk3NjM4NTE3MCwtMTI5MjMyNDc5OCwtMTg4NDU0
+ODkzOSwyMDg0NjY2NjksLTE0NDkyOTgyNzAsMTU5MjM4NTEyMi
+w3NDQ2MjE4MzAsNjE5NzQ2NTk5LC02NzM2ODY0NTksMjM5MTQ1
+ODE1LDg2NDY3MTgyOCw5MTEzODc5MjYsLTE1MDEwMjM5LDYzMj
+gyMTk1MCw1MTU3MTA3ODgsLTQ5NDQ5MTA0OSwxNDQ5NDcxMTc3
+XX0=
 -->
