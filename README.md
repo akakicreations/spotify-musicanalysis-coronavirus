@@ -46,12 +46,12 @@ Los notebooks o HTMLs es recomendable que se lean en el siguiente orden:
 
 Para las visualizaciones de datos se han utilizado múltiples herramientas, que se pueden ejecutar desde los propios Notebooks (Pyplot, Seaborn, Altair) y desde fuera (Tableau).
 
-Aquí dejo algunos gráficos de las conclusiones finales, pero se puede ver todo en [esta entrada del blog.](%5Besta%20entrada%20del%20blog.%5D%28https://www.akakicreations.com/como-afecto-el-confinamiento-por-coronavirus-en-2020-en-el-tipo-de-musica-que-escuchamos-en-spotify-2/%29)
+Aquí dejo algunos gráficos de las conclusiones finales, pero se puede ver todo en [esta entrada del blog.](https://www.akakicreations.com/como-afecto-el-confinamiento-por-coronavirus-en-2020-en-el-tipo-de-musica-que-escuchamos-en-spotify-2/)
 
 # Datasets
 En el proceso de extracción análisis se han creado los siguientes datasets de lo que explico su contenido.
 
-DATOS DE LA CARPETA  [Data_Analysis6_Features_FINAL_PROPHETS_YEAR.ipynb](8.Data_Analysis6_Features_FINAL_PROPHETS_YEAR.ipynb):
+DATOS DE LA CARPETA  [data_coronaperiods_years2017-2020](data_coronaperiods_years2017-2020):
  - Datos de los Top200 de música más escuchada en España de 2017, 2018, 2019 y 2020, desde el 01/01 al 05/20, es un listado de canciones: 
 	 - top_200_daily_CSV_2017.csv
 	 - top_200_daily_CSV_2018.csv
@@ -69,6 +69,11 @@ DATOS DE LA CARPETA  [Data_Analysis6_Features_FINAL_PROPHETS_YEAR.ipynb](8.Data_
 	- data_ana_playlist_songs10000.csv
 	- data_ana_playlist_songs100_2019.csv
 	
+DATOS DE LA CARPETA  [data_all_years2017-2020](data_all_years2017-2020):
+
+- top_200_daily_CSV_YEAR_2017
+- 
+
 # Código y créditos
 
 Se ha utilizado Python y Jupyter Notebook como herramienta principal y para ciertas visualizaciones Tableau.
@@ -82,7 +87,7 @@ Agradezco el código de otras personas y que yo he reutilizado y adaptado, seña
 
 ![enter image description here](images_features_distribution/giphy_rock.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwODQwMjg2NSwyMDg0NjY2NjksLTE0ND
+eyJoaXN0b3J5IjpbMjA4NjA4NDc1NCwyMDg0NjY2NjksLTE0ND
 kyOTgyNzAsMTU5MjM4NTEyMiw3NDQ2MjE4MzAsNjE5NzQ2NTk5
 LC02NzM2ODY0NTksMjM5MTQ1ODE1LDg2NDY3MTgyOCw5MTEzOD
 c5MjYsLTE1MDEwMjM5LDYzMjgyMTk1MCw1MTU3MTA3ODgsLTQ5
