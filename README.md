@@ -27,7 +27,7 @@ Los paquetes que se necesitan para ejecutar correctamente los notebooks son los 
  - **Spotipy:** Para descargar datos de la API de Spotify. [Documentación.](https://spotipy.readthedocs.io/en/2.16.0/) Instalación:``` !pip install spotipy```
  - **Altair:** Para visualización de datos. [Documentación.](https://altair-viz.github.io) Instalación: ```!pip install altair vega_datasets```
  - **Seaborn:** Para visualización de datos. [Documentación.](https://seaborn.pydata.org) Instalación:```!pip install seaborn```:
- -  -**Prophets** Para análisis . [Documentación.](https://seaborn.pydata.org) Instalación:```!pip install seaborn```:
+ -  -**Prophets** Para análisis y predicciones. [Documentación.](https://facebook.github.io/prophet/) Instalación:```!pip install pystan``` , ```!pip install prophet```:
 
 
 También se ha usado Tableau para la visualización de ciertos análisis y que incluimos también. Aún así, hemos incluido imágenes de los Dashboards dentro de los Notebooks Jupyter.
@@ -88,11 +88,11 @@ Agradezco el código de otras personas y que yo he reutilizado y adaptado, seña
 
 ![enter image description here](images_features_distribution/giphy_rock.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzOTk5NDk2OCwyMDg0NjY2NjksLTE0ND
-kyOTgyNzAsMTU5MjM4NTEyMiw3NDQ2MjE4MzAsNjE5NzQ2NTk5
-LC02NzM2ODY0NTksMjM5MTQ1ODE1LDg2NDY3MTgyOCw5MTEzOD
-c5MjYsLTE1MDEwMjM5LDYzMjgyMTk1MCw1MTU3MTA3ODgsLTQ5
-NDQ5MTA0OSwxNDQ5NDcxMTc3LDcyNjM3Mjg5OSw0MjA2NzA5OT
-csMTgzMDc1MzUzLC0yMDk0NjAyMDk2LC0yNjc2OTg2MDZdfQ==
+eyJoaXN0b3J5IjpbLTE5MDk1NzA5NDksMjA4NDY2NjY5LC0xND
+Q5Mjk4MjcwLDE1OTIzODUxMjIsNzQ0NjIxODMwLDYxOTc0NjU5
+OSwtNjczNjg2NDU5LDIzOTE0NTgxNSw4NjQ2NzE4MjgsOTExMz
+g3OTI2LC0xNTAxMDIzOSw2MzI4MjE5NTAsNTE1NzEwNzg4LC00
+OTQ0OTEwNDksMTQ0OTQ3MTE3Nyw3MjYzNzI4OTksNDIwNjcwOT
+k3LDE4MzA3NTM1MywtMjA5NDYwMjA5NiwtMjY3Njk4NjA2XX0=
 
 -->
