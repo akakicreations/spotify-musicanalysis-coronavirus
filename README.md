@@ -52,9 +52,7 @@ Aquí dejo algunos gráficos de las conclusiones finales, pero se puede ver todo
 
 ![enter image description here](images_features_distribution/danceability2.png)
 
-![enter image description here](images_features_distribution/danceability1.png)
-
-![enter image description here](images_features_distribution/danceability1.png)
+![enter image description here](images_features_distribution/genres.png)
 
 ![enter image description here](images_features_distribution/oldies.png)
 
@@ -95,11 +93,11 @@ Agradezco el código de otras personas y que yo he reutilizado y adaptado, seña
 
 ![enter image description here](images_features_distribution/giphy_rock.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNzA5NTA0NiwtMTI5MjMyNDc5OCwtMT
-g4NDU0ODkzOSwyMDg0NjY2NjksLTE0NDkyOTgyNzAsMTU5MjM4
-NTEyMiw3NDQ2MjE4MzAsNjE5NzQ2NTk5LC02NzM2ODY0NTksMj
-M5MTQ1ODE1LDg2NDY3MTgyOCw5MTEzODc5MjYsLTE1MDEwMjM5
-LDYzMjgyMTk1MCw1MTU3MTA3ODgsLTQ5NDQ5MTA0OSwxNDQ5ND
-cxMTc3LDcyNjM3Mjg5OSw0MjA2NzA5OTcsMTgzMDc1MzUzXX0=
+eyJoaXN0b3J5IjpbLTE5NzYzODUxNzAsLTEyOTIzMjQ3OTgsLT
+E4ODQ1NDg5MzksMjA4NDY2NjY5LC0xNDQ5Mjk4MjcwLDE1OTIz
+ODUxMjIsNzQ0NjIxODMwLDYxOTc0NjU5OSwtNjczNjg2NDU5LD
+IzOTE0NTgxNSw4NjQ2NzE4MjgsOTExMzg3OTI2LC0xNTAxMDIz
+OSw2MzI4MjE5NTAsNTE1NzEwNzg4LC00OTQ0OTEwNDksMTQ0OT
+Q3MTE3Nyw3MjYzNzI4OTksNDIwNjcwOTk3LDE4MzA3NTM1M119
 
 -->
