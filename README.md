@@ -5,7 +5,7 @@ Tras escribir el artículo [¿Es Resistiré una de las canciones más escuchadas
 1. ¿Provocó el confinamiento un cambio en el tipo de música que se escuchó (más bailable, más instrumental, más enérgica...)
 2. ¿Provocó el confinamiento un cambio en el género de música que se escuchó (pop, dance, reggaeton...)?
 3. ¿Provocó el confinamiento un cambio en si se escucharon más éxitos antiguos?
-4.  ¿Qué tipo de música contienen las playlists que se han crearon durante el confinamiento?, ¿hay un cambio respecto a otras playslist?
+4.  ¿Qué tipo de música contienen las playlists que se han crearon durante el confinamiento?, ¿hay un cambio respecto a otras playlists?
 
 Para esto, nos vamos a basar en datos que nos ofrece Spotify que es la plataforma con [mayor número de usuarios](https://es.statista.com/grafico/19793/usuarios-activos-y-de-pago-de-spotify/) de música en streaming. No es una muestra que pueda ser generalizable, pero si nos puede dar una idea de tendencias y posibles cambios de las mismas.
 
@@ -96,11 +96,11 @@ Agradezco el código de otras personas y que yo he reutilizado y adaptado, seña
 
 ![enter image description here](images_features_distribution/giphy_rock.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MDEyNzg1MCwtMTk3NjM4NTE3MCwtMT
-I5MjMyNDc5OCwtMTg4NDU0ODkzOSwyMDg0NjY2NjksLTE0NDky
-OTgyNzAsMTU5MjM4NTEyMiw3NDQ2MjE4MzAsNjE5NzQ2NTk5LC
-02NzM2ODY0NTksMjM5MTQ1ODE1LDg2NDY3MTgyOCw5MTEzODc5
-MjYsLTE1MDEwMjM5LDYzMjgyMTk1MCw1MTU3MTA3ODgsLTQ5ND
-Q5MTA0OSwxNDQ5NDcxMTc3LDcyNjM3Mjg5OSw0MjA2NzA5OTdd
-fQ==
+eyJoaXN0b3J5IjpbMzM1NjE1ODQ2LC0xOTc2Mzg1MTcwLC0xMj
+kyMzI0Nzk4LC0xODg0NTQ4OTM5LDIwODQ2NjY2OSwtMTQ0OTI5
+ODI3MCwxNTkyMzg1MTIyLDc0NDYyMTgzMCw2MTk3NDY1OTksLT
+Y3MzY4NjQ1OSwyMzkxNDU4MTUsODY0NjcxODI4LDkxMTM4Nzky
+NiwtMTUwMTAyMzksNjMyODIxOTUwLDUxNTcxMDc4OCwtNDk0ND
+kxMDQ5LDE0NDk0NzExNzcsNzI2MzcyODk5LDQyMDY3MDk5N119
+
 -->
