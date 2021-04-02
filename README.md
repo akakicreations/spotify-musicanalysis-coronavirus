@@ -51,7 +51,7 @@ Aquí dejo algunos gráficos de las conclusiones finales, pero se puede ver todo
 # Datasets
 En el proceso de extracción análisis se han creado los siguientes datasets de lo que explico su contenido.
 
-DATOS 
+DATOS DE LA CARPETA  [Data_Analysis6_Features_FINAL_PROPHETS_YEAR.ipynb](8.Data_Analysis6_Features_FINAL_PROPHETS_YEAR.ipynb):
  - Datos de los Top200 de música más escuchada en España de 2017, 2018, 2019 y 2020, desde el 01/01 al 05/20, es un listado de canciones: 
 	 - top_200_daily_CSV_2017.csv
 	 - top_200_daily_CSV_2018.csv
@@ -82,7 +82,7 @@ Agradezco el código de otras personas y que yo he reutilizado y adaptado, seña
 
 ![enter image description here](images_features_distribution/giphy_rock.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NDMyOTQyNCwyMDg0NjY2NjksLTE0ND
+eyJoaXN0b3J5IjpbMTQwODQwMjg2NSwyMDg0NjY2NjksLTE0ND
 kyOTgyNzAsMTU5MjM4NTEyMiw3NDQ2MjE4MzAsNjE5NzQ2NTk5
 LC02NzM2ODY0NTksMjM5MTQ1ODE1LDg2NDY3MTgyOCw5MTEzOD
 c5MjYsLTE1MDEwMjM5LDYzMjgyMTk1MCw1MTU3MTA3ODgsLTQ5
