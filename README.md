@@ -40,23 +40,18 @@ Los notebooks o HTMLs es recomendable que se lean en el siguiente orden:
 4. [Data_Analysis3_Oldies.ipynb](Data_Analysis3_oldies.ipynb): Tercer análisis para responder a la tercera pregunta: ¿un cambio en cantidad de éxitos antiguos escuchados?
 5. [Data_Analysis4Extra_Playlists.ipynb](Data_Analysis4Extra_Playlists.ipynb): Cuarto análisis que es una extensión del primero para responder mejor y desde otro dataset a la pregunta: ¿ha habido un cambio en el tipo de música?
 6. [Data_Analysis5_MostPlayed.ipynb](Data_Analysis5_MostPlayed.ipynb): Por último, y como datos curiosos, vemos las canciones, artistas y géneros más escuchados durante el confinamiento del coronavirus.
+7. [Data_Analysis5_MostPlayed.ipynb](Data_Analysis5_MostPlayed.ipynb): Por último, y como datos curiosos, vemos las canciones, artistas y géneros más escuchados durante el confinamiento del coronavirus.
 
 Al final de cada Notebook hay unas conclusiones para responder claramente a cada pregunta. 
 
 Próximamente publicaré una presentación y un artículo como resumen de este proyecto.
 
-# Visualización
+# Visualizaciones y conclusiones
+
 
 Para las visualizaciones de datos se han utilizado múltiples herramientas, que se pueden ejecutar desde los propios Notebooks (Pyplot, Seaborn, Altair) y desde fuera (Tableau), que he dejado loa archivos también en la carpeta [tableau_graph_and_analysis](tableau_graph_and_analysis)
 
-Estos son algunos ejemplos de gráficos realizados y que se encuentran en los Notebooks:
 
-### Comparación de Features de canciones en diferentes playlist:
-![enter image description here](tableau_graph_and_analysis/dashboard_playlist.png)
-### Tendencias de las features de todas las canciones en los años 2017-2020 y para diferentes periodos:
-![enter image description here](images_features_distribution/graph_features.png)
-### Comparación de cantidad de música antigua escuchada en diferentes periodos:
-![enter image description here](images_features_distribution/graph_oldies.png)
 
 # Datasets
 En el proceso de extracción análisis se han creado los siguientes datasets de losa ue explico su contenido.
@@ -91,10 +86,10 @@ Agradezco el código de otras personas y que yo he reutilizado y adaptado, seña
 
 ![enter image description here](images_features_distribution/giphy_rock.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDkyOTgyNzAsMTU5MjM4NTEyMiw3ND
-Q2MjE4MzAsNjE5NzQ2NTk5LC02NzM2ODY0NTksMjM5MTQ1ODE1
-LDg2NDY3MTgyOCw5MTEzODc5MjYsLTE1MDEwMjM5LDYzMjgyMT
-k1MCw1MTU3MTA3ODgsLTQ5NDQ5MTA0OSwxNDQ5NDcxMTc3LDcy
-NjM3Mjg5OSw0MjA2NzA5OTcsMTgzMDc1MzUzLC0yMDk0NjAyMD
-k2LC0yNjc2OTg2MDYsNTgxMjQ4OTU4XX0=
+eyJoaXN0b3J5IjpbMjA4NDY2NjY5LC0xNDQ5Mjk4MjcwLDE1OT
+IzODUxMjIsNzQ0NjIxODMwLDYxOTc0NjU5OSwtNjczNjg2NDU5
+LDIzOTE0NTgxNSw4NjQ2NzE4MjgsOTExMzg3OTI2LC0xNTAxMD
+IzOSw2MzI4MjE5NTAsNTE1NzEwNzg4LC00OTQ0OTEwNDksMTQ0
+OTQ3MTE3Nyw3MjYzNzI4OTksNDIwNjcwOTk3LDE4MzA3NTM1My
+wtMjA5NDYwMjA5NiwtMjY3Njk4NjA2LDU4MTI0ODk1OF19
 -->
