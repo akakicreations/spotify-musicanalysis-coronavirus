@@ -70,9 +70,7 @@ DATOS DE LA CARPETA  [data_coronaperiods_years2017-2020](data_coronaperiods_year
 	- data_ana_playlist_songs100_2019.csv
 	
 DATOS DE LA CARPETA  [data_all_years2017-2020](data_all_years2017-2020):
-
-- top_200_daily_CSV_YEAR_2017
-- 
+- En esta carpeta hay un archivo comprimido data_ana_timeseries_final.csv.zip donde se recogen todos losad datos de los años 2017-2020 del Top200
 
 # Código y créditos
 
@@ -87,11 +85,11 @@ Agradezco el código de otras personas y que yo he reutilizado y adaptado, seña
 
 ![enter image description here](images_features_distribution/giphy_rock.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NjA4NDc1NCwyMDg0NjY2NjksLTE0ND
-kyOTgyNzAsMTU5MjM4NTEyMiw3NDQ2MjE4MzAsNjE5NzQ2NTk5
-LC02NzM2ODY0NTksMjM5MTQ1ODE1LDg2NDY3MTgyOCw5MTEzOD
-c5MjYsLTE1MDEwMjM5LDYzMjgyMTk1MCw1MTU3MTA3ODgsLTQ5
-NDQ5MTA0OSwxNDQ5NDcxMTc3LDcyNjM3Mjg5OSw0MjA2NzA5OT
-csMTgzMDc1MzUzLC0yMDk0NjAyMDk2LC0yNjc2OTg2MDZdfQ==
+eyJoaXN0b3J5IjpbLTE4ODQ1NDg5MzksMjA4NDY2NjY5LC0xND
+Q5Mjk4MjcwLDE1OTIzODUxMjIsNzQ0NjIxODMwLDYxOTc0NjU5
+OSwtNjczNjg2NDU5LDIzOTE0NTgxNSw4NjQ2NzE4MjgsOTExMz
+g3OTI2LC0xNTAxMDIzOSw2MzI4MjE5NTAsNTE1NzEwNzg4LC00
+OTQ0OTEwNDksMTQ0OTQ3MTE3Nyw3MjYzNzI4OTksNDIwNjcwOT
+k3LDE4MzA3NTM1MywtMjA5NDYwMjA5NiwtMjY3Njk4NjA2XX0=
 
 -->
