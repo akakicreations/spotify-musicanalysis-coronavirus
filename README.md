@@ -41,15 +41,10 @@ Los notebooks o HTMLs es recomendable que se lean en el siguiente orden:
 4. [Data_Analysis3_Oldies.ipynb](Data_Analysis3_oldies.ipynb): Tercer análisis para responder a la tercera pregunta: ¿un cambio en cantidad de éxitos antiguos escuchados?
 5. [Data_Analysis4Extra_Playlists.ipynb](Data_Analysis4Extra_Playlists.ipynb): Cuarto análisis que es una extensión del primero para responder mejor y desde otro dataset a la pregunta: ¿ha habido un cambio en el tipo de música?
 6. [Data_Analysis5_MostPlayed.ipynb](Data_Analysis5_MostPlayed.ipynb): Por último, y como datos curiosos, vemos las canciones, artistas y géneros más escuchados durante el confinamiento del coronavirus.
-7. [Data_Analysis6_FINAL_PROPHETS_ExtractionAndPreparation.ipynb](7.Data_Analysis6_FINAL_PROPHETS_ExtractionAndPreparation.ipynb): Por último, y como datos curiosos, vemos las canciones, artistas y géneros más escuchados durante el confinamiento del coronavirus.
-8. 7.[Data_Analysis5_MostPlayed.ipynb](Data_Analysis5_MostPlayed.ipynb): Por último, y como datos curiosos, vemos las canciones, artistas y géneros más escuchados durante el confinamiento del coronavirus.
-
-Al final de cada Notebook hay unas conclusiones para responder claramente a cada pregunta. 
-
-Próximamente publicaré una presentación y un artículo como resumen de este proyecto.
+7. [Data_Analysis6_FINAL_PROPHETS_ExtractionAndPreparation.ipynb](7.Data_Analysis6_FINAL_PROPHETS_ExtractionAndPreparation.ipynb): Extracción y preparación de los datasets que luego se usarán en el análisis productivo.
+8. [Data_Analysis6_Features_FINAL_PROPHETS_YEAR.ipynb](8.Data_Analysis6_Features_FINAL_PROPHETS_YEAR.ipynb): Hacemos el mismo análisis pero comparando los datos del 2020 con una predicción hecha con Prophets
 
 # Visualizaciones y conclusiones
-
 
 Para las visualizaciones de datos se han utilizado múltiples herramientas, que se pueden ejecutar desde los propios Notebooks (Pyplot, Seaborn, Altair) y desde fuera (Tableau), que he dejado loa archivos también en la carpeta [tableau_graph_and_analysis](tableau_graph_and_analysis)
 
@@ -88,11 +83,10 @@ Agradezco el código de otras personas y que yo he reutilizado y adaptado, seña
 
 ![enter image description here](images_features_distribution/giphy_rock.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTMwMzg5OSwyMDg0NjY2NjksLTE0ND
-kyOTgyNzAsMTU5MjM4NTEyMiw3NDQ2MjE4MzAsNjE5NzQ2NTk5
-LC02NzM2ODY0NTksMjM5MTQ1ODE1LDg2NDY3MTgyOCw5MTEzOD
-c5MjYsLTE1MDEwMjM5LDYzMjgyMTk1MCw1MTU3MTA3ODgsLTQ5
-NDQ5MTA0OSwxNDQ5NDcxMTc3LDcyNjM3Mjg5OSw0MjA2NzA5OT
-csMTgzMDc1MzUzLC0yMDk0NjAyMDk2LC0yNjc2OTg2MDZdfQ==
-
+eyJoaXN0b3J5IjpbNjg3MzE3MjE1LDIwODQ2NjY2OSwtMTQ0OT
+I5ODI3MCwxNTkyMzg1MTIyLDc0NDYyMTgzMCw2MTk3NDY1OTks
+LTY3MzY4NjQ1OSwyMzkxNDU4MTUsODY0NjcxODI4LDkxMTM4Nz
+kyNiwtMTUwMTAyMzksNjMyODIxOTUwLDUxNTcxMDc4OCwtNDk0
+NDkxMDQ5LDE0NDk0NzExNzcsNzI2MzcyODk5LDQyMDY3MDk5Ny
+wxODMwNzUzNTMsLTIwOTQ2MDIwOTYsLTI2NzY5ODYwNl19
 -->
