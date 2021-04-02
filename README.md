@@ -29,8 +29,6 @@ Los paquetes que se necesitan para ejecutar correctamente los notebooks son los 
  - **Seaborn:** Para visualización de datos. [Documentación.](https://seaborn.pydata.org) Instalación:```!pip install seaborn```:
  -  -**Prophets** Para análisis y predicciones. [Documentación.](https://facebook.github.io/prophet/) Instalación:```!pip install pystan``` , ```!pip install prophet```:
 
-También se ha usado Tableau para la visualización de ciertos análisis y que incluimos también. Aún así, hemos incluido imágenes de los Dashboards dentro de los Notebooks Jupyter.
-
 # Análisis y orden de lectura
 Hay 7 Notebooks de Jupyter, los 6 primeros están perfectamente documentados y fueron fruto de un primer análisis. También he dejado en una [carpeta](notebooks_inHTML) los notebooks en formato HTML con todas las celdas ejecutadas por si se quiere ver completo sin usar Jupyter. Estos 6 notebooks utilizan los datos que están en la carpeta "data_coronaperiods_years2017-2020" que sólo recogen datos de piropos concretos del año. Los dos últimos son de un análisis posterior más preciso y usando la predicción y datos de la carpeta "data_all_years2017-2020" que son de los años completos.
 
@@ -46,13 +44,14 @@ Los notebooks o HTMLs es recomendable que se lean en el siguiente orden:
 
 # Visualizaciones y conclusiones
 
-Para las visualizaciones de datos se han utilizado múltiples herramientas, que se pueden ejecutar desde los propios Notebooks (Pyplot, Seaborn, Altair) y desde fuera (Tableau), que he dejado loa archivos también en la carpeta [tableau_graph_and_analysis](tableau_graph_and_analysis)
+Para las visualizaciones de datos se han utilizado múltiples herramientas, que se pueden ejecutar desde los propios Notebooks (Pyplot, Seaborn, Altair) y desde fuera (Tableau).
 
-
+Aquí dejo algunos gráficos de las conclusiones finales, pero se puede ver todo en [esta entrada del blog.](%5Besta%20entrada%20del%20blog.%5D%28https://www.akakicreations.com/como-afecto-el-confinamiento-por-coronavirus-en-2020-en-el-tipo-de-musica-que-escuchamos-en-spotify-2/%29)
 
 # Datasets
-En el proceso de extracción análisis se han creado los siguientes datasets de losa ue explico su contenido.
+En el proceso de extracción análisis se han creado los siguientes datasets de lo que explico su contenido.
 
+DATOS 
  - Datos de los Top200 de música más escuchada en España de 2017, 2018, 2019 y 2020, desde el 01/01 al 05/20, es un listado de canciones: 
 	 - top_200_daily_CSV_2017.csv
 	 - top_200_daily_CSV_2018.csv
@@ -83,10 +82,11 @@ Agradezco el código de otras personas y que yo he reutilizado y adaptado, seña
 
 ![enter image description here](images_features_distribution/giphy_rock.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg3MzE3MjE1LDIwODQ2NjY2OSwtMTQ0OT
-I5ODI3MCwxNTkyMzg1MTIyLDc0NDYyMTgzMCw2MTk3NDY1OTks
-LTY3MzY4NjQ1OSwyMzkxNDU4MTUsODY0NjcxODI4LDkxMTM4Nz
-kyNiwtMTUwMTAyMzksNjMyODIxOTUwLDUxNTcxMDc4OCwtNDk0
-NDkxMDQ5LDE0NDk0NzExNzcsNzI2MzcyODk5LDQyMDY3MDk5Ny
-wxODMwNzUzNTMsLTIwOTQ2MDIwOTYsLTI2NzY5ODYwNl19
+eyJoaXN0b3J5IjpbMTY0NDMyOTQyNCwyMDg0NjY2NjksLTE0ND
+kyOTgyNzAsMTU5MjM4NTEyMiw3NDQ2MjE4MzAsNjE5NzQ2NTk5
+LC02NzM2ODY0NTksMjM5MTQ1ODE1LDg2NDY3MTgyOCw5MTEzOD
+c5MjYsLTE1MDEwMjM5LDYzMjgyMTk1MCw1MTU3MTA3ODgsLTQ5
+NDQ5MTA0OSwxNDQ5NDcxMTc3LDcyNjM3Mjg5OSw0MjA2NzA5OT
+csMTgzMDc1MzUzLC0yMDk0NjAyMDk2LC0yNjc2OTg2MDZdfQ==
+
 -->
