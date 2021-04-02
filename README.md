@@ -5,7 +5,6 @@ Tras escribir el artículo [¿Es Resistiré una de las canciones más escuchadas
 1. ¿Provocó el confinamiento un cambio en el tipo de música que se escuchó (más bailable, más instrumental, más enérgica...)
 2. ¿Provocó el confinamiento un cambio en el género de música que se escuchó (pop, dance, reggaeton...)?
 3. ¿Provocó el confinamiento un cambio en si se escucharon más éxitos antiguos?
-4.  ¿Qué tipo de música contienen las playlists que se han crearon durante el confinamiento?, ¿hay un cambio respecto a otras playlists?
 
 Para esto, nos vamos a basar en datos que nos ofrece Spotify que es la plataforma con [mayor número de usuarios](https://es.statista.com/grafico/19793/usuarios-activos-y-de-pago-de-spotify/) de música en streaming. No es una muestra que pueda ser generalizable, pero si nos puede dar una idea de tendencias y posibles cambios de las mismas.
 
@@ -73,13 +72,10 @@ Menos positiva, de felicidad, eufórica, música con la que dan ganas de saltar 
  - **¿Provocó el confinamiento un cambio en el género de música que se escuchó (pop, dance, reggaeton...)?**
 No se puede decir que la pandemia haya provocado un cambio relevante en el tipo de género de música que se escuchaba, está ligado a otros factores.
 
- - ¿Provocó el confinamiento un cambio en si se escucharon más éxitos
-   antiguos?
+ - **¿Provocó el confinamiento un cambio en si se escucharon más éxitos
+   antiguos?**
+   Sí, en el confinamiento se escuchó más música antigua.
 
-¿Qué tipo de música contienen las playlists que se han crearon durante el confinamiento?, ¿hay un cambio respecto a otras playlists?
-
-
-no se puede decir que la pandemia haya provocado un cambio relevante en el tipo de género de música que se escuchaba, está ligado a otros factores.
 # Datasets
 En el proceso de extracción análisis se han creado los siguientes datasets de lo que explico su contenido.
 
@@ -117,11 +113,11 @@ Agradezco el código de otras personas y que yo he reutilizado y adaptado, seña
 
 ![enter image description here](images_features_distribution/giphy_rock.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MDgyNTAxMiwxMzMxODgyOTAxLDMzNT
-YxNTg0NiwtMTk3NjM4NTE3MCwtMTI5MjMyNDc5OCwtMTg4NDU0
-ODkzOSwyMDg0NjY2NjksLTE0NDkyOTgyNzAsMTU5MjM4NTEyMi
-w3NDQ2MjE4MzAsNjE5NzQ2NTk5LC02NzM2ODY0NTksMjM5MTQ1
-ODE1LDg2NDY3MTgyOCw5MTEzODc5MjYsLTE1MDEwMjM5LDYzMj
-gyMTk1MCw1MTU3MTA3ODgsLTQ5NDQ5MTA0OSwxNDQ5NDcxMTc3
-XX0=
+eyJoaXN0b3J5IjpbOTgxNzc1MDUwLDEzMzE4ODI5MDEsMzM1Nj
+E1ODQ2LC0xOTc2Mzg1MTcwLC0xMjkyMzI0Nzk4LC0xODg0NTQ4
+OTM5LDIwODQ2NjY2OSwtMTQ0OTI5ODI3MCwxNTkyMzg1MTIyLD
+c0NDYyMTgzMCw2MTk3NDY1OTksLTY3MzY4NjQ1OSwyMzkxNDU4
+MTUsODY0NjcxODI4LDkxMTM4NzkyNiwtMTUwMTAyMzksNjMyOD
+IxOTUwLDUxNTcxMDc4OCwtNDk0NDkxMDQ5LDE0NDk0NzExNzdd
+fQ==
 -->
