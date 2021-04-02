@@ -45,7 +45,7 @@ Los dos últimos son de un análisis posterior desde otra perspectiva y usando l
 7. [Data_Analysis6_FINAL_PROPHETS_ExtractionAndPreparation.ipynb](7.Data_Analysis6_FINAL_PROPHETS_ExtractionAndPreparation.ipynb): Extracción y preparación de los datasets que luego se usarán en el análisis productivo.
 8. [Data_Analysis6_Features_FINAL_PROPHETS_YEAR.ipynb](8.Data_Analysis6_Features_FINAL_PROPHETS_YEAR.ipynb): Hacemos el mismo análisis pero comparando los datos del 2020 con una predicción hecha con Prophets
 
-# Visualizaciones y conclusiones
+# Visualizaciones
 
 Para las visualizaciones de datos se han utilizado múltiples herramientas, que se pueden ejecutar desde los propios Notebooks (Pyplot, Seaborn, Altair) y desde fuera (Tableau).
 
@@ -58,6 +58,17 @@ Aquí dejo algunos gráficos de las conclusiones finales, pero se puede ver todo
 ![enter image description here](images_features_distribution/genres.png)
 
 ![enter image description here](images_features_distribution/oldies.png)
+
+# Conclusiones
+Durante el confinamiento hemos escuchado más música…
+- Más enérgica, es decir, con más velocidad, sonoridad y ruido respecto de la predicción. (Feature Energy)
+- Más en directo o con público detrás respecto de la predicción. (Feature Liveness)
+- Más acústica, es decir con menos acumulación de sonidos e instrumentos y una predominancia importante de la voz. (Feature Acoustiness)
+Más popular y de éxitos que se escuchan muchísimas veces, es decir, menor variedad musical. (Feature Popularity)
+
+ Menos bailable, es decir, con menor tempo, ritmo y fuerza de los «beats». (Feature Danceability)
+
+ Menos positiva, de felicidad, eufórica, música con la que dan ganas de saltar de alegría. (Feature Valence)
 
 # Datasets
 En el proceso de extracción análisis se han creado los siguientes datasets de lo que explico su contenido.
@@ -96,11 +107,11 @@ Agradezco el código de otras personas y que yo he reutilizado y adaptado, seña
 
 ![enter image description here](images_features_distribution/giphy_rock.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM1NjE1ODQ2LC0xOTc2Mzg1MTcwLC0xMj
-kyMzI0Nzk4LC0xODg0NTQ4OTM5LDIwODQ2NjY2OSwtMTQ0OTI5
-ODI3MCwxNTkyMzg1MTIyLDc0NDYyMTgzMCw2MTk3NDY1OTksLT
-Y3MzY4NjQ1OSwyMzkxNDU4MTUsODY0NjcxODI4LDkxMTM4Nzky
-NiwtMTUwMTAyMzksNjMyODIxOTUwLDUxNTcxMDc4OCwtNDk0ND
-kxMDQ5LDE0NDk0NzExNzcsNzI2MzcyODk5LDQyMDY3MDk5N119
-
+eyJoaXN0b3J5IjpbMTMzMTg4MjkwMSwzMzU2MTU4NDYsLTE5Nz
+YzODUxNzAsLTEyOTIzMjQ3OTgsLTE4ODQ1NDg5MzksMjA4NDY2
+NjY5LC0xNDQ5Mjk4MjcwLDE1OTIzODUxMjIsNzQ0NjIxODMwLD
+YxOTc0NjU5OSwtNjczNjg2NDU5LDIzOTE0NTgxNSw4NjQ2NzE4
+MjgsOTExMzg3OTI2LC0xNTAxMDIzOSw2MzI4MjE5NTAsNTE1Nz
+EwNzg4LC00OTQ0OTEwNDksMTQ0OTQ3MTE3Nyw3MjYzNzI4OTld
+fQ==
 -->
