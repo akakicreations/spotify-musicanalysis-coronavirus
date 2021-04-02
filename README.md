@@ -9,7 +9,7 @@ Tras escribir el artículo [¿Es Resistiré una de las canciones más escuchadas
 
 Para esto, nos vamos a basar en datos que nos ofrece Spotify que es la plataforma con [mayor número de usuarios](https://es.statista.com/grafico/19793/usuarios-activos-y-de-pago-de-spotify/) de música en streaming. No es una muestra que pueda ser generalizable, pero si nos puede dar una idea de tendencias y posibles cambios de las mismas.
 
-Este proyecto también es el trabajo de fin de master de Data Science en KSchool.
+Los resultados de este estudio están publidos en [esta entrada del blog.](https://www.akakicreations.com/como-afecto-el-confinamiento-por-coronavirus-en-2020-en-el-tipo-de-musica-que-escuchamos-en-spotify-2/)
 
 # Fuentes de datos
 
@@ -27,6 +27,8 @@ Los paquetes que se necesitan para ejecutar correctamente los notebooks son los 
  - **Spotipy:** Para descargar datos de la API de Spotify. [Documentación.](https://spotipy.readthedocs.io/en/2.16.0/) Instalación:``` !pip install spotipy```
  - **Altair:** Para visualización de datos. [Documentación.](https://altair-viz.github.io) Instalación: ```!pip install altair vega_datasets```
  - **Seaborn:** Para visualización de datos. [Documentación.](https://seaborn.pydata.org) Instalación:```!pip install seaborn```:
+ -  -**Prophets** Para análisis . [Documentación.](https://seaborn.pydata.org) Instalación:```!pip install seaborn```:
+
 
 También se ha usado Tableau para la visualización de ciertos análisis y que incluimos también. Aún así, hemos incluido imágenes de los Dashboards dentro de los Notebooks Jupyter.
 
@@ -86,10 +88,11 @@ Agradezco el código de otras personas y que yo he reutilizado y adaptado, seña
 
 ![enter image description here](images_features_distribution/giphy_rock.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NDY2NjY5LC0xNDQ5Mjk4MjcwLDE1OT
-IzODUxMjIsNzQ0NjIxODMwLDYxOTc0NjU5OSwtNjczNjg2NDU5
-LDIzOTE0NTgxNSw4NjQ2NzE4MjgsOTExMzg3OTI2LC0xNTAxMD
-IzOSw2MzI4MjE5NTAsNTE1NzEwNzg4LC00OTQ0OTEwNDksMTQ0
-OTQ3MTE3Nyw3MjYzNzI4OTksNDIwNjcwOTk3LDE4MzA3NTM1My
-wtMjA5NDYwMjA5NiwtMjY3Njk4NjA2LDU4MTI0ODk1OF19
+eyJoaXN0b3J5IjpbMTMzOTk5NDk2OCwyMDg0NjY2NjksLTE0ND
+kyOTgyNzAsMTU5MjM4NTEyMiw3NDQ2MjE4MzAsNjE5NzQ2NTk5
+LC02NzM2ODY0NTksMjM5MTQ1ODE1LDg2NDY3MTgyOCw5MTEzOD
+c5MjYsLTE1MDEwMjM5LDYzMjgyMTk1MCw1MTU3MTA3ODgsLTQ5
+NDQ5MTA0OSwxNDQ5NDcxMTc3LDcyNjM3Mjg5OSw0MjA2NzA5OT
+csMTgzMDc1MzUzLC0yMDk0NjAyMDk2LC0yNjc2OTg2MDZdfQ==
+
 -->
